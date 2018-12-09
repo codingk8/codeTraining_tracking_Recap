@@ -21,7 +21,7 @@ A global view on my code training  :eyes:
 ##### Logic package (soon)
 ##### Numbers package (soon)
 
-#### WCS JS basis
+#### _WCS JS basis_
 ##### [JS practice](https://github.com/codingk8/JS_exercices_WCS_Bootcamp)
 
 ___
