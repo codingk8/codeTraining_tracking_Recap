@@ -26,7 +26,7 @@ A global view on my code training  :eyes:
 
 ___
 
-## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) :feet:
+## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) :heart:
 
 #### Web developper Professional Title (BS equiv.)
 
