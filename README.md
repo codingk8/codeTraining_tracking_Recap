@@ -13,7 +13,7 @@ A global view on my code training  :eyes:
 
 #### [My public profile](https://www.codewars.com/users/codingk8)
 
-#### WCS CodeWars packages
+#### _WCS CodeWars packages_
 
 ##### [Fundamentals level](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp)
 ##### Advanced level (soon)
