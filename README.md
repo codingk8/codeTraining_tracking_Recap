@@ -32,7 +32,7 @@ ___
 
 ___
 
-## "Code is all you need" :wink:
+## "Fun is all you need" :wink:
 <p align="center"><img src="https://media.giphy.com/media/tSbgQoZd583Cg/giphy.gif" alt="Have fun!")</p>
   
 ---
