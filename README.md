@@ -33,6 +33,6 @@ ___
 ___
 
 ## "Code is all you need" :wink:
-<p align="center"><img src="https://media.giphy.com/media/1w0WiAqOljkUE/giphy.gif" alt="Have fun!")</p>
+<p align="center"><img src="https://media.giphy.com/media/WR2xowNUxUZz2/giphy.gif" alt="Have fun!")</p>
   
 ---
