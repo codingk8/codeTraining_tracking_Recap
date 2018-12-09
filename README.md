@@ -3,13 +3,13 @@ A global view on my code training  :eyes:
 
 ---
 
-## FreeCodeCamp
+## FreeCodeCamp (since 2018/04)
 
 #### [My public profile](https://www.freecodecamp.org/codingk8)
 
 ---
 
-## CodeWars
+## CodeWars (since 2018/04)
 
 #### [My public profile](https://www.codewars.com/users/codingk8)
 
