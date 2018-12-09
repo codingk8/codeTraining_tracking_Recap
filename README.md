@@ -3,7 +3,7 @@ A global view on my code training  :eyes:
 
 ---
 
-## Free Code Camp
+## FreeCodeCamp
 
 #### [My public profile](https://www.freecodecamp.org/codingk8)
 
