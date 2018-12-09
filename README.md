@@ -3,13 +3,13 @@ A global view on my code training  :eyes:
 
 ---
 
-## FreeCodeCamp (since 2018/04) :green_heart:
+## FreeCodeCamp (since 2018/04) :christmas_tree:
 
 #### [My public profile](https://www.freecodecamp.org/codingk8)
 
 ---
 
-## CodeWars (since 2018/04) :tada:
+## CodeWars (since 2018/04) :skull:
 
 #### [My public profile](https://www.codewars.com/users/codingk8)
 
@@ -26,12 +26,13 @@ A global view on my code training  :eyes:
 
 ___
 
-## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) 👸🏻
+## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) :princess:
 
 #### Web developper Professional Title (BS equiv.)
 
 ___
 
+## "Code is all you need" :wink:
 <p align="center"><img src="https://media.giphy.com/media/1w0WiAqOljkUE/giphy.gif" alt="Have fun!")</p>
   
 ---
