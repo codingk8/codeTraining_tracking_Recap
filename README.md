@@ -1,5 +1,5 @@
 # codeTraining_tracking_Recap
-A global view on my code training  :eyes:
+A global view :eyes: on my code training
 
 ---
 
