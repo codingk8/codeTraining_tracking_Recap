@@ -27,7 +27,7 @@ ___
 
 #### Web developper Professional Title (BS equiv.)
 
-#### _WCS JS basis_ [JS practice](https://github.com/codingk8/JS_exercices_WCS_Bootcamp)
+#### _[WCS JS basis](https://github.com/codingk8/JS_exercices_WCS_Bootcamp)_
 
 ___
 
