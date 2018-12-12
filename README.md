@@ -3,7 +3,7 @@ A global view :eyes: on my code training
 
 ---
 
-## FreeCodeCamp (since 2018/08) :christmas_tree:
+## FreeCodeCamp (since 2018/08) :palm_tree:
 
 #### [My public profile](https://www.freecodecamp.org/codingk8)
 
