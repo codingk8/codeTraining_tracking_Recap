@@ -21,7 +21,13 @@ A global view :eyes: on my code training
 ##### Logic package (soon)
 ##### Numbers package (soon)
 
-___
+---
+
+## Node School (since 2017/12)
+
+#### [All details](https://github.com/codingk8/nodeSchool_Curriculum)
+
+---
 
 ## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) :princess:
 
