@@ -21,14 +21,14 @@ A global view :eyes: on my code training
 ##### Logic package (soon)
 ##### Numbers package (soon)
 
-#### _WCS JS basis_
-##### [JS practice](https://github.com/codingk8/JS_exercices_WCS_Bootcamp)
-
 ___
 
 ## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) :princess:
 
 #### Web developper Professional Title (BS equiv.)
+
+#### _WCS JS basis_
+##### [JS practice](https://github.com/codingk8/JS_exercices_WCS_Bootcamp)
 
 ___
 
