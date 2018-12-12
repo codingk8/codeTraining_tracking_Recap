@@ -32,6 +32,6 @@ ___
 ___
 
 <h2 align="center"> "Fun is all you need" :wink:</h2>
-<p align="center"><img src="https://media.giphy.com/media/tSbgQoZd583Cg/giphy.gif" alt="Have fun!")</p>
+<p align="center"><img src="https://media.giphy.com/media/tSbgQoZd583Cg/giphy.gif" alt="Have fun!"/></p>
   
 ---
