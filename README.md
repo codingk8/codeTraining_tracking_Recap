@@ -1,4 +1,4 @@
-<h1 align="center>codeTraining_tracking_Recap</h1>
+<h1 align="center">codeTraining_tracking_Recap</h1>
 <h3 align="center">A global view :eyes: on my code training</h3>
 
 ---
