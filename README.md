@@ -19,7 +19,7 @@ A global view :eyes: on my code training
 ##### Advanced level (soon)
 ##### Ludicrous level (soon)
 ##### Logic package (soon)
-##### Numbers package (soon)
+##### [Numbers package](https://github.com/codingk8/codeWars_Numbers_WCS_Bootcamp)
 
 ---
 
