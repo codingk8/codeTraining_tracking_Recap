@@ -23,7 +23,7 @@
 
 ---
 
-## Node School (since 2017/12)
+## Node School (since 2017/12) :flags:
 
 #### [All details](https://github.com/codingk8/nodeSchool_Curriculum)
 
