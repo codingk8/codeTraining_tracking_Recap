@@ -31,7 +31,7 @@
 
 ## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) :princess:
 
-#### Web developper Professional Title (BS equiv.)
+#### :trophy: Web developper Professional Title (BS equiv.)
 
 #### _[WCS JS basis](https://github.com/codingk8/JS_exercices_WCS_Bootcamp)_
 
