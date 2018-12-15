@@ -5,13 +5,13 @@
 
 ## FreeCodeCamp (since 2018/08) :palm_tree:
 
-#### [My public profile](https://www.freecodecamp.org/codingk8)
+#### [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
 ---
 
 ## CodeWars (since 2018/04) :skull:
 
-#### [My public profile](https://www.codewars.com/users/codingk8)
+#### [My CodeWars public profile](https://www.codewars.com/users/codingk8)
 
 #### _WCS CodeWars packages_
 
