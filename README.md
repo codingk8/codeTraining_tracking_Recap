@@ -18,7 +18,7 @@
 ##### [Fundamentals level](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp)
 ##### Advanced level (soon)
 ##### Ludicrous level (soon)
-##### Logic package (soon)
+##### [Logic package](https://github.com/codingk8/codeWars_Logic_WCS_Bootcamp)
 ##### [Numbers package](https://github.com/codingk8/codeWars_Numbers_WCS_Bootcamp)
 
 ---
