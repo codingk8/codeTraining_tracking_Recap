@@ -29,7 +29,7 @@
 
 ---
 
-## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) :princess:
+## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) 👩🏻‍🎓
 
 #### :trophy: Web developper Professional Title (BS equiv.)
 
