@@ -33,7 +33,9 @@
 
 #### :trophy: Web developper National Professional Title (BS equiv.)
 
-#### :circus_tent: [2017/07 Wild Circus](https://github.com/codingk8/wildcircus): my first HTML & CSS project ever, the one that got me in the bootcamp | [Hosted here](https://codingk8.github.io/wildcircus/)
+#### :musical_score: [2017 Radiowild: ](https://github.com/codingk8/radiowild) HTML | CSS | JS - A simple yet elegant website to play music in your browser. This was my bootcamp first hackathon project | [Hosted here](https://codingk8.github.io/radiowild/)
+
+#### :circus_tent: [201 Wild Circus:](https://github.com/codingk8/wildcircus) my first HTML & CSS project ever, the one that got me in the bootcamp | [Hosted here](https://codingk8.github.io/wildcircus/)
 
 #### _[WCS JS basis](https://github.com/codingk8/JS_exercices_WCS_Bootcamp)_
 
