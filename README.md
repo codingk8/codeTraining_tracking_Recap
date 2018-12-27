@@ -3,7 +3,7 @@
 
 ---
 
-## FreeCodeCamp (since 2018/08) :palm_tree:
+## FreeCodeCamp (since 2018/07) :palm_tree:
 
 #### [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
