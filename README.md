@@ -33,7 +33,7 @@
 
 #### :trophy: Web developper National Professional Title (BS equiv.)
 
-#### :circus_tent: [2017/07 Wild Circus](https://github.com/codingk8/wildcircus): my first HTML & CSS project ever, the one that got me in | [Hosted here](https://codingk8.github.io/wildcircus/)
+#### :circus_tent: [2017/07 Wild Circus](https://github.com/codingk8/wildcircus): my first HTML & CSS project ever, the one that got me in the bootcamp | [Hosted here](https://codingk8.github.io/wildcircus/)
 
 #### _[WCS JS basis](https://github.com/codingk8/JS_exercices_WCS_Bootcamp)_
 
