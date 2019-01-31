@@ -7,6 +7,8 @@
 
 #### [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
+##### [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
+
 ---
 
 ## CodeWars (since 2018/04) :skull:
