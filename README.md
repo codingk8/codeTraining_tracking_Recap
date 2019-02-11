@@ -10,6 +10,11 @@
 ##### :point_right: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
 
 ---
+### #100DaysOfCode :beach:
+
+#### :point_right: [My logs](https://github.com/codingk8/100-days-of-code)
+
+---
 
 ## CodeWars (since 2018/04) :skull:
 
