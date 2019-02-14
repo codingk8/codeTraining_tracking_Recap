@@ -7,12 +7,12 @@
 
 #### :point_right: [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
-##### 🏅 [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
+##### 🏅[JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
 
 ---
 ### #100DaysOfCode :cookie:
 
-#### :fast_forward: [My logs](https://github.com/codingk8/100-days-of-code)
+#### :fast_forward: [My logs](https://github.com/codingk8/100-days-of-code/blob/master/r1-log.md)
 
 ---
 
