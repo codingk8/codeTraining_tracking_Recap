@@ -5,9 +5,9 @@
 
 ## FreeCodeCamp (since 2018/07) :palm_tree:
 
-#### [My FCC public profile](https://www.freecodecamp.org/codingk8)
+#### :point_right: [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
-##### :point_right: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
+##### 🏅 [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
 
 ---
 ### #100DaysOfCode :cookie:
