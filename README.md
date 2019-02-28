@@ -10,11 +10,6 @@
 ##### 🏅[JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
 
 ---
-### #100DaysOfCode :cookie:
-
-#### :fast_forward: [My logs](https://github.com/codingk8/100-days-of-code/blob/master/r1-log.md)
-
----
 
 ## CodeWars (since 2018/04) :skull:
 
