@@ -3,7 +3,7 @@
 
 ---
 
-## FreeCodeCamp (since 2018/07) :palm_tree:
+## FreeCodeCamp
 
 #### :point_right: [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
@@ -11,7 +11,7 @@
 
 ---
 
-## CodeWars (since 2018/04) :skull:
+## CodeWars
 
 #### [My CodeWars public profile](https://www.codewars.com/users/codingk8)
 
