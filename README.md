@@ -14,7 +14,7 @@
 
 ---
 
-## CodeWars :bomb:
+## CodeWars
 
 #### [My CodeWars public profile](https://www.codewars.com/users/codingk8)
 
@@ -28,7 +28,7 @@
 
 ---
 
-## Node School (since 2017/12) :flags:
+## Node School (since 2017/12)
 
 #### [All details](https://github.com/codingk8/nodeSchool_Curriculum)
 
@@ -44,7 +44,7 @@
 
 ___
 
-<h2 align="center">Fun is all you need :dancer:</h2>
+<h2 align="center">And remember to make it fun :wink:</h2>
 <p align="center"><img src="https://media.giphy.com/media/tSbgQoZd583Cg/giphy.gif" alt="Have fun!"/></p>
   
 ---
