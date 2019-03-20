@@ -1,6 +1,7 @@
 # #100DaysOfCode - Round 1
 
-The log of my #100DaysOfCode challenge. Started on December 23, 2018. :santa: :christmas_tree:
+The log of my #100DaysOfCode challenge.   
+Started on December 23, 2018. :christmas_tree: :santa: 
 
 ## Log
 
@@ -39,5 +40,11 @@ Link(s) to work:
 #### Finds: xxx.
 
 #### Thoughts: xxx.
+
+---
+
+## All informations about the #100DaysOfCode challenge:  
+[website](https://www.100daysofcode.com/)
+[GitHub repo](https://github.com/kallaway/100-days-of-code)
 
 ---
