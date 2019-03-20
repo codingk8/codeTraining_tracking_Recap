@@ -25,19 +25,19 @@ The log of my #100DaysOfCode challenge. Started on December 21, 2018.
 
 ---
 
-Daily log template
+## Daily log template
 
-2019xxxx - Day xx
+### 2019xxxx - Day xx
 
-Today's Progress: xxx.
+#### Today's Progress: xxx.
 
 Link(s) to work:
 [xxx](#)
 [xxx](#)
 [xxx](#)
 
-Finds: xxx.
+#### Finds: xxx.
 
-Thoughts: xxx.
+#### Thoughts: xxx.
 
 ---
