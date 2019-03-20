@@ -1,6 +1,6 @@
 # #100DaysOfCode - Round 1
 
-The log of my #100DaysOfCode challenge. Started on December 21, 2018.
+The log of my #100DaysOfCode challenge. Started on December 23, 2018. :santa: :christmas_tree:
 
 ## Log
 
