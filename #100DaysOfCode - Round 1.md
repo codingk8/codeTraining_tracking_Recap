@@ -15,8 +15,8 @@ The log of my #100DaysOfCode challenge. Started on December 21, 2018.
 [JAMstackParis website](https://jamstack.paris/)
 
 #### Ideas: 
-.Should dig into this thing, go to the Paris meetups and probably have a side project to create a website using Gatsby and Netlify
-.Should also investigate about non-content APIs
+. Should dig into this thing, go to the Paris meetups and probably have a side project to create a website using Gatsby and Netlify
+. Should also investigate about non-content APIs
 
 #### Question: will there be a fCC JAMstack hachathon on 2019? That'd be fun :smiley:
 
