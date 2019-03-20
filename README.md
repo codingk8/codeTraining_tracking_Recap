@@ -43,8 +43,6 @@
 
 #### :circus_tent: [201 Wild Circus:](https://github.com/codingk8/wildcircus) my first HTML & CSS project ever, the one that got me in the bootcamp | [Hosted here](https://codingk8.github.io/wildcircus/)
 
-#### _[WCS JS basis](https://github.com/codingk8/JS_exercices_WCS_Bootcamp)_
-
 ___
 
 <h2 align="center">Fun is all you need :dancer:</h2>
