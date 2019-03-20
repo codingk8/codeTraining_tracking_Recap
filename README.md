@@ -11,6 +11,10 @@
 
 ---
 
+## #100DaysOfCode challenge: [logs](https://github.com/codingk8/codeTraining_tracking_Recap/blob/master/%23100DaysOfCode%20-%20Round%201.md)
+
+---
+
 ## CodeWars
 
 #### [My CodeWars public profile](https://www.codewars.com/users/codingk8)
