@@ -44,7 +44,7 @@ Link(s) to work:
 ---
 
 ## All informations about the #100DaysOfCode challenge:  
-[website](https://www.100daysofcode.com/)  
+[Official website](https://www.100daysofcode.com/)  
 [GitHub repo](https://github.com/kallaway/100-days-of-code)
 
 ---
