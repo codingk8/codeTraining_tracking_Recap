@@ -32,9 +32,9 @@ The log of my #100DaysOfCode challenge. Started on December 21, 2018.
 #### Today's Progress: xxx.
 
 Link(s) to work:
-[xxx](#)
-[xxx](#)
-[xxx](#)
+[xxx](#)  
+[xxx](#)  
+[xxx](#)  
 
 #### Finds: xxx.
 
