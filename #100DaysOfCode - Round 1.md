@@ -14,8 +14,8 @@ Started on December 23, 2018. :christmas_tree:
 [FCC Medium article 2](https://medium.freecodecamp.org/winners-from-the-2018-freecodecamp-jamstack-hackathon-at-github-2a39bd1db878)  
 [FCC article](https://hackathon.freecodecamp.org/)  
 [JAMstack website](https://jamstack.org/)  
-[JAMstackParis website](https://jamstack.paris/) 
-[https://jamstack.wtf/](https://jamstack.wtf/)
+[JAMstackParis website](https://jamstack.paris/)  
+[Also jamstack.wtf](https://jamstack.wtf/)
 
 1. Remembered about this:
 [codeweek.eu](https://codeweek.eu/about/)
