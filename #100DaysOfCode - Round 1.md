@@ -23,8 +23,7 @@ Started on December 23, 2018. :christmas_tree:
 
 ##### Question: will there be a fCC JAMstack hachathon on 2019? That'd be fun :smiley:
 
-##### Remembered about this:
-[codeweek.eu](https://codeweek.eu/about/)
+##### Remembered about this: [codeweek.eu](https://codeweek.eu/about/)
 
 #### Today's progress: a lot of things on the Portefolio project
 
