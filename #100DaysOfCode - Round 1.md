@@ -17,11 +17,11 @@ Started on December 23, 2018. :christmas_tree:
 [JAMstackParis website](https://jamstack.paris/)  
 [Also jamstack.wtf](https://jamstack.wtf/)
 
-=> Ideas: 
+Ideas: 
 * Should dig into this thing, go to the Paris meetups and probably have a side project to create a website using Gatsby and Netlify
 * Should also investigate about non-content APIs
 
-=> Question: will there be a fCC JAMstack hachathon on 2019? That'd be fun :smiley:
+Question: will there be a fCC JAMstack hachathon on 2019? That'd be fun :smiley:
 
 1. Remembered about this:
 [codeweek.eu](https://codeweek.eu/about/)
