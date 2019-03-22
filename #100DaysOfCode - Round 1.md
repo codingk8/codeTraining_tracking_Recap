@@ -38,6 +38,10 @@ Started on December 23, 2018. :christmas_tree:
 
 #### Today's progress:
 
+1. First ideas for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting" and the painting will be "Angry bull in the sunset" :wink:)
+1. fCC RWD certification Technical Documentation project: finish the structure and all technical challenges and move on to adding the content
+1. Structure of my next Medium article on JS algorythms
+
 ---
 
 ## Daily log template
