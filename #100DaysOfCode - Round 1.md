@@ -50,7 +50,7 @@ NodeSchool Paris Meetup
 
 #### Today's progress:
 
-1. Started drawing the "Abgry bull in the sun set" for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting"), fixed positioning to be improved
+1. Started drawing the "Angry bull in the sun set" for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting"), fixed positioning to be improved
 
 ---
 
