@@ -54,6 +54,29 @@ NodeSchool Paris Meetup
 #### Today's progress:
 
 1. Started drawing the "Angry bull in the sun set" for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting"), fixed positioning to be improved
+1. Added some content to the Technical doc project
+
+---
+
+### 20190325 - Day 66 (Monday)
+
+Tempted to get a picket for Eve Porcello workshop in London on May, 2nd 2019, the day before ReactJSGirl. It's on GraphQL and it would be the perfect opportunity to pratice GraphQL with React
++ Checked her GraphQL course on LinkedIn
+As sonn as I'm done with reviewing/ practicing React, GraphQL sounds so tempting.
+
+#### Today's progress:
+
+1. Still adding the content in the Tech Doc project
+
+---
+
+### 20190326 - Day 67 (Tuesday)
+
+Which I could start coding earlier in the day and would have less busy mornings with stuff.
+
+#### Today's progress:
+
+1. Still adding the content in the Tech Doc project (yep, another day of that, but things are moving on!)
 
 ---
 
