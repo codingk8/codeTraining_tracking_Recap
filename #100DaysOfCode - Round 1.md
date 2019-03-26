@@ -77,6 +77,7 @@ Which I could start coding earlier in the day and would have less busy mornings 
 #### Today's progress:
 
 1. Still adding the content in the Tech Doc project (yep, another day of that, but things are moving on!)
+1. Hope to do something about the Bull projects :bull:
 
 ---
 
