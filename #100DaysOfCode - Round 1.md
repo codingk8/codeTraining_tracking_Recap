@@ -40,7 +40,7 @@ Started on December 23, 2018. :christmas_tree:
 
 1. First ideas for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting" and the painting will be "Angry bull in the sunset" :wink:)
 1. fCC RWD certification Technical Documentation project: finish the structure and all technical challenges and move on to adding the content
-1. Structure of my next Medium article on JS algorythms
+1. Structure of my next Medium article on JS algorithms
 
 ---
 
@@ -62,7 +62,7 @@ NodeSchool Paris Meetup
 
 Tempted to get a picket for Eve Porcello workshop in London on May, 2nd 2019, the day before ReactJSGirl. It's on GraphQL and it would be the perfect opportunity to pratice GraphQL with React
 + Checked her GraphQL course on LinkedIn
-As sonn as I'm done with reviewing/ practicing React, GraphQL sounds so tempting.
+As soon as I'm done with reviewing/ practicing React, GraphQL sounds so tempting.
 
 #### Today's progress:
 
