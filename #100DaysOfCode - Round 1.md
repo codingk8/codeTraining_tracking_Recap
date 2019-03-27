@@ -81,6 +81,17 @@ Which I could start coding earlier in the day and would have less busy mornings 
 
 ---
 
+### 20190327 - Day 68 (Wednesday)
+
+Good start :princess:
+
+#### Today's progress:
+
+1. Focused on finishing the content in the Tech Doc project 
+1. Some responsive and Media Queries to take care of as well
+
+---
+
 ## Daily log template
 
 ### 2019xxxx - Day xx
