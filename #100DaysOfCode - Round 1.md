@@ -98,12 +98,16 @@ Slow start :turtle:
 
 #### Today's progress:
 
-1. Still focused on finishing the content in the Tech Doc project 
-1. Some responsive and Media Queries to take care of as well
+1. [ ] Still focused on finishing the content in the Tech Doc project 
+1. [ ] Some responsive and Media Queries to take care of as well
 
 Next will be fixing the &lt;br&gt;, re-reading it all, performing a last W3C verification and validate
 
 Note: should perform the W3C vérification on the Survey form project as well, might be useful
+
+Next is the Bull project: 
+[ ] finish the CodePen draft
+[ ] start the Tribute page project (structure and assets, frame it thight :wink:)
 
 ---
 
