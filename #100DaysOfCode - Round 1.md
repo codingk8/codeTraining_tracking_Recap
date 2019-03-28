@@ -101,7 +101,7 @@ Slow start :turtle:
 1. Still focused on finishing the content in the Tech Doc project 
 1. Some responsive and Media Queries to take care of as well
 
-Next will be fixing the &lt;,br&gt; re-reading it all, performing a last W3C verification and validate
+Next will be fixing the &lt;br&gt;, re-reading it all, performing a last W3C verification and validate
 
 ---
 
