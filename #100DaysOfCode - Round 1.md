@@ -103,6 +103,8 @@ Slow start :turtle:
 
 Next will be fixing the &lt;br&gt;, re-reading it all, performing a last W3C verification and validate
 
+Note: should perform the W3C vérification on the Survey form project as well, might be useful
+
 ---
 
 ## Daily log template
