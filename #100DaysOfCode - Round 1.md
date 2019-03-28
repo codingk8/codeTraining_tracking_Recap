@@ -106,8 +106,8 @@ Next will be fixing the &lt;br&gt;, re-reading it all, performing a last W3C ver
 Note: should perform the W3C vérification on the Survey form project as well, might be useful
 
 Next is the Bull project: 
-[ ] finish the CodePen draft
-[ ] start the Tribute page project (structure and assets, frame it thight :wink:)
+- [ ] finish the CodePen draft
+- [ ] start the Tribute page project (structure and assets, frame it thight :wink:)
 
 ---
 
