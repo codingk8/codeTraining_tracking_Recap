@@ -92,7 +92,7 @@ Good start :princess:
 
 ---
 
-### 20190327 - Day 69 (Thursday)
+### 20190328 - Day 69 (Thursday)
 
 Slow start :turtle:
 
