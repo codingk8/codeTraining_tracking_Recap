@@ -88,7 +88,20 @@ Good start :princess:
 #### Today's progress:
 
 1. Focused on finishing the content in the Tech Doc project 
+1. ~~Some responsive and Media Queries to take care of as well~~
+
+---
+
+### 20190327 - Day 69 (Thursday)
+
+Slow start :turtle:
+
+#### Today's progress:
+
+1. Still focused on finishing the content in the Tech Doc project 
 1. Some responsive and Media Queries to take care of as well
+
+Next will be fixing the &lt;,br&gt; re-reading it all, performing a last W3C verification and validate
 
 ---
 
