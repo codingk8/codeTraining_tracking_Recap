@@ -127,6 +127,8 @@ Note: should perform the W3C vérification on the Survey form project as well, m
 Next is: 
 - [ ] the Bull project: finish the CodePen draft
 - [ ] the Tribute page project (structure and assets, frame it thight :wink: + try React)
+- [ ] perform the W3C verification on the Survey form project
+- [ ] perform the W3C verification on the Portefolio project
 
 ---
 
