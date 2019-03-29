@@ -130,6 +130,8 @@ Next is:
 - [ ] perform the W3C verification on the Survey form project
 - [ ] perform the W3C verification on the Portefolio project
 
+Exploration of the day: Travis CI and Continuous Integration, should look how to implement it on one of my repos
+
 ---
 
 ## Daily log template
