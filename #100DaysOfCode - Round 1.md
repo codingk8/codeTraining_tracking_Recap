@@ -101,7 +101,26 @@ Slow start :turtle:
 1. [ ] Still focused on finishing the content in the Tech Doc project 
 1. [ ] Some responsive and Media Queries to take care of as well
 
-Next will be fixing the &lt;br&gt;, re-reading it all, performing a last W3C verification and validate
+Next will be ~~fixing the &lt;br&gt;,~~ re-reading it all, performing a last W3C verification and validate
+
+Note: should perform the W3C vérification on the Survey form project as well, might be useful
+
+Next is: 
+- [ ] the Bull project: finish the CodePen draft
+- [ ] start the Tribute page project (structure and assets, frame it thight :wink:)
+
+---
+
+### 20190329 - Day 70 (Friday)
+
+:bomb: day :wink:
+
+#### Today's progress:
+
+1. [ ] One more content to add in the Tech Doc project 
+1. [ ] Some responsive and Media Queries to take care of as well
+1. [ ] Deploy
+1. [ ] Validate
 
 Note: should perform the W3C vérification on the Survey form project as well, might be useful
 
