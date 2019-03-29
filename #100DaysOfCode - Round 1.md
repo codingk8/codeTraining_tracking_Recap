@@ -117,7 +117,7 @@ Next is:
 
 #### Today's progress:
 
-1. [ ] One more content to add in the Tech Doc project 
+1. [x] One more content to add in the Tech Doc project 
 1. [ ] Some responsive and Media Queries to take care of as well
 1. [ ] Deploy
 1. [ ] Validate
@@ -126,7 +126,7 @@ Note: should perform the W3C vérification on the Survey form project as well, m
 
 Next is: 
 - [ ] the Bull project: finish the CodePen draft
-- [ ] start the Tribute page project (structure and assets, frame it thight :wink:)
+- [ ] the Tribute page project (structure and assets, frame it thight :wink: + try React)
 
 ---
 
