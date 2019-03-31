@@ -134,6 +134,27 @@ Exploration of the day: Travis CI and Continuous Integration, should look how to
 
 ---
 
+### 20190331 - Checkppoint
+
+#### #100DaysOfCode check
+
+[Tweet](https://twitter.com/codingk8/status/1112347748936966144)
+
+#### Year goals
+
+[Tweet](https://twitter.com/codingk8/status/1112350217486114819)
+
+#### To keep in mind
+
+> :computer: Build your skills
+> ::ear: Build your reputation
+> :globe_with_méridians: Build your network
+> Think about ways you can build all three at the same time
+> - [Quicy Larson](https://twitter.com/ossia/status/1079942716480344065)
+
+---
+
+
 ## Daily log template
 
 ### 2019xxxx - Day xx
