@@ -147,8 +147,8 @@ Exploration of the day: Travis CI and Continuous Integration, should look how to
 #### To keep in mind
 
 > :computer: Build your skills<br>
-> ::ear: Build your reputation<br>
-> :globe_with_méridians: Build your network<br>
+> :ear: Build your reputation<br>
+> :globe_with_meridians: Build your network<br>
 > Think about ways you can build all three at the same time<br>
 > - [Quicy Larson](https://twitter.com/ossia/status/1079942716480344065)
 
