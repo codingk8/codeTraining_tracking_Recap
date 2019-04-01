@@ -168,7 +168,8 @@ Next is:
 - [ ] the Bull project: finish the CodePen draft
 - [ ] the Tribute page project (structure and assets, frame it thight :wink: + try React)
 - [ ] perform the W3C verification on the Survey form project
-- [ ] perform the W3C verification on the Portefolio project
+- [x] perform the W3C verification on the Portefolio project (in building version)
+- [x] perform the W3C verification on the Portefolio project (next version)
 
 Also an article and a few PRs
 
