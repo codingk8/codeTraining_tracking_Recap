@@ -154,7 +154,7 @@ Next is:
 
 ---
 
-### 20190401 - Day 71 (Friday)
+### 20190401 - Day 71 (Monday)
 
 #### Today's progress:
 
