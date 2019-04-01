@@ -156,7 +156,7 @@ Next is:
 
 ### 20190401 - Day 71 (Monday)
 
-:sun: :cherry_blossom:
+:sunny: :cherry_blossom:
 
 #### Today's progress:
 
