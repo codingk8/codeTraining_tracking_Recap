@@ -130,7 +130,7 @@ Next is:
 - [ ] perform the W3C verification on the Survey form project
 - [ ] perform the W3C verification on the Portefolio project
 
-Exploration of the day: Travis CI and Continuous Integration, should look how to implement it on one of my repos
+##### Exploration of the day: Travis CI and Continuous Integration, should look how to implement it on one of my repos
 
 ---
 
@@ -151,6 +151,26 @@ Exploration of the day: Travis CI and Continuous Integration, should look how to
 > :globe_with_meridians: Build your network<br>
 > Think about ways you can build all three at the same time<br>
 > - [Quicy Larson](https://twitter.com/ossia/status/1079942716480344065)
+
+---
+
+### 20190401 - Day 71 (Friday)
+
+#### Today's progress:
+
+1. [x] Some responsive and Media Queries to take care of as well
+1. [x] Deploy
+1. [x] Validate
+
+Next is: 
+- [ ] the Bull project: finish the CodePen draft
+- [ ] the Tribute page project (structure and assets, frame it thight :wink: + try React)
+- [ ] perform the W3C verification on the Survey form project
+- [ ] perform the W3C verification on the Portefolio project
+
+Also an article and a few PRs
+
+##### Exploration of the day: RESTful and GraphQL APIs (should take my ticket for the workshop)
 
 ---
 
