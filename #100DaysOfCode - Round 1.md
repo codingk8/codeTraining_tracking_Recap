@@ -156,6 +156,8 @@ Next is:
 
 ### 20190401 - Day 71 (Monday)
 
+:sun: :cherry_blossom:
+
 #### Today's progress:
 
 1. [x] Some responsive and Media Queries to take care of as well
