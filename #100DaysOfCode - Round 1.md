@@ -177,6 +177,10 @@ Also an article and a few PRs
 
 ---
 
+### 20190402 - Day off (Tuesday)
+
+---
+
 
 ## Daily log template
 
