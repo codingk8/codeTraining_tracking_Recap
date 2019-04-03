@@ -160,9 +160,9 @@ Next is:
 
 #### Today's progress:
 
-1. [x] Some responsive and Media Queries to take care of as well
-1. [x] Deploy
-1. [x] Validate
+1. [ ] Some responsive and Media Queries to take care of as well
+1. [ ] Deploy
+1. [ ] Validate
 
 Next is: 
 - [ ] the Bull project: finish the CodePen draft
@@ -171,13 +171,15 @@ Next is:
 - [x] perform the W3C verification on the Portefolio project (in building version)
 - [x] perform the W3C verification on the Portefolio project (next version)
 
-Also an article and a few PRs
+Also an article and a few PRs to work on
 
 ##### Exploration of the day: RESTful and GraphQL APIs (should take my ticket for the workshop)
 
 ---
 
-### 20190402 - Day off (Tuesday)
+### 20190403 - Day 72 (Wednesday)
+
+1. [x] Full re-reading an correcting all the CSS and stuff
 
 ---
 
