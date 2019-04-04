@@ -186,8 +186,13 @@ Also an article and a few PRs to work on
 1. [x] Finishing the Responsive and Media queries
 1. [x] Deploy
 1. [x] Validate
+That was a hell of a project! Too long but it looks very good and I learnt a ton about positioning stuff, which will be very useful for the bull project
+
+Link to work [here](https://codingk8.github.io/markdown-up-and-running/)
 
 - [ ] the Bull project: finish the CodePen draft
+- [ ] the Tribute page project (structure and assets, frame it thight :wink: + try React)
+- [ ] perform the W3C verification on the Survey form project
 
 ---
 
