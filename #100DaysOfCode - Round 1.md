@@ -181,7 +181,7 @@ Also an article and a few PRs to work on
 
 ---
 
-### 20190403 - Day 72 (Wednesday)
+### 20190404 - Day 73 (Thursday)
 
 1. [x] Finishing the Responsive and Media queries
 1. [x] Deploy
