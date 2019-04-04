@@ -189,6 +189,8 @@ Also an article and a few PRs to work on
 That was a hell of a project! Too long but it looks very good and I learnt a ton about positioning stuff, which will be very useful for the bull project
 
 Link to work [here](https://codingk8.github.io/markdown-up-and-running/)
+A next step could be creating a burger menu with a toggler for the navbar
+[See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
 
 - [ ] the Bull project: finish the CodePen draft
 - [ ] the Tribute page project (structure and assets, frame it thight :wink: + try React)
