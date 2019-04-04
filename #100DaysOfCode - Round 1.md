@@ -160,9 +160,7 @@ Next is:
 
 #### Today's progress:
 
-1. [ ] Some responsive and Media Queries to take care of as well
-1. [ ] Deploy
-1. [ ] Validate
+1. [x] Some responsive and Media Queries to take care of as well
 
 Next is: 
 - [ ] the Bull project: finish the CodePen draft
@@ -180,6 +178,16 @@ Also an article and a few PRs to work on
 ### 20190403 - Day 72 (Wednesday)
 
 1. [x] Full re-reading an correcting all the CSS and stuff
+
+---
+
+### 20190403 - Day 72 (Wednesday)
+
+1. [x] Finishing the Responsive and Media queries
+1. [x] Deploy
+1. [x] Validate
+
+- [ ] the Bull project: finish the CodePen draft
 
 ---
 
