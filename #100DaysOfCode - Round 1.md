@@ -193,7 +193,7 @@ A next step could be creating a burger menu with a toggler for the navbar<br>
 [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
 
 - [ ] the Bull project: finish the CodePen draft
-- [ ] the Tribute page project (structure and assets, frame it thight :wink: + try React)
+- [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
 - [ ] perform the W3C verification on the Survey form project
 
 ---
