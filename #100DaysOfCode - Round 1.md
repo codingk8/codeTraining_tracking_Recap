@@ -198,7 +198,7 @@ A next step could be creating a burger menu with a toggler for the navbar<br>
 
 ---
 
-### 20190406 - Day 74 (Friday)
+### 20190405 - Day 74 (Friday)
 
 - [ ] the Bull project: finish the CodePen draft
 - [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
