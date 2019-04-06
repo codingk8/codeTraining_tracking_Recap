@@ -206,6 +206,16 @@ A next step could be creating a burger menu with a toggler for the navbar<br>
 
 ---
 
+### 20190406 - Day off (Saturday)
+
+Doing some usefulness and beautification :nailpolish:
+
+- [ ] the Bull project: finish the CodePen draft
+- [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
+- [ ] perform the W3C verification on the Survey form project
+
+---
+
 ## Daily log template
 
 ### 2019xxxx - Day xx
