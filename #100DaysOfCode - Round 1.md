@@ -210,9 +210,9 @@ A next step could be creating a burger menu with a toggler for the navbar<br>
 
 Doing some usefulness and beautification :nail_care:
 
-- [ ] the Bull project: finish the CodePen draft
+- [ ] the Minotaure project: finish the CodePen draft (almost, last check and add some triangles)
 - [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
-- [ ] perform the W3C verification on the Survey form project
+- [ ] perform the W3C verification on the Survey form project (to be finished)
 
 ---
 
