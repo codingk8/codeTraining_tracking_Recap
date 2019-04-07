@@ -214,6 +214,14 @@ Doing some usefulness and beautification :nail_care:
 - [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
 - [ ] perform the W3C verification on the Survey form project (to be finished)
 
++ Framed the Tribute page project
+
+---
+
+### 20190407 - Day off (Sunday)
+
+We'll see :wink: after the Sunday walk
+
 ---
 
 ## Daily log template
