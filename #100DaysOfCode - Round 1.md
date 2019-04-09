@@ -226,9 +226,17 @@ We'll see :wink: after the Sunday walk
 
 ### 20190408 - Day 75 (Monday)
 
-- [ ] the Minotaure project: finish the CodePen draft (last check) & share
-- [ ] the Tribute page project => in React or not ?
+- [x] the Minotaure project: finish the CodePen draft (last check) & share
+- [x] the Tribute page project => not React and nicely moving forward (may be v2 in React?!), very happy about the little wow effect ideas :raised_hands:
 - [ ] Resume reading about React
+
+---
+
+### 20190408 - Day 75 (Monday)
+
+- [x] added some updates to the upcoming Portefolio website
+- [ ] moving on with the Tribute page project. Hope to finish it today for last check and deploy tomorrow
+- [ ] should start thinking about the Landing page project and frame it thight once again
 
 ---
 
