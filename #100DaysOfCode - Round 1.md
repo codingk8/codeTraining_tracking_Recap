@@ -232,11 +232,27 @@ We'll see :wink: after the Sunday walk
 
 ---
 
-### 20190408 - Day 75 (Monday)
+### 20190409 - Day 76 (Tuesday)
 
 - [x] added some updates to the upcoming Portefolio website
-- [ ] moving on with the Tribute page project. Hope to finish it today for last check and deploy tomorrow
+- [x] moving on with the Tribute page project.
 - [ ] should start thinking about the Landing page project and frame it thight once again
+
+For the 2nd time this month, I thought it could be nicer to work on a bigger screen than my 12 inch laptop. May be... :wink:  
++ Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.
+
+---
+
+### 20190410 - Day 77 (Wednesday)
+
+- [ ] moving on with the Tribute page project. Hope to finish it today for last check and deploy tomorrow  
+I MUST stop testing new ideas all the time and focus on finishing. I will fine-tune later in the reasonable remaining time.
+- [ ] prepare for next week training
+- [ ] prepare the slides for the code intro talk I'm giving in 10 days
+
+- [ ] should start thinking about the Landing page project and frame it thight once again
+- [ ] Resume reading about React
+- [ ] Resume React on Scrimba & freeCodeCamp
 
 ---
 
