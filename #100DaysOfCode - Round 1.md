@@ -269,7 +269,7 @@ Could have been a good idea to make it mobile-first (Cf. Makers website). Will t
 - [ ] prepare for the fCC Paris meeting of next Saturday<br>
 ##### Got some feedback on the Minautor project => move on after next week training  
 ##### Asap:
-- [ ] should start thinking about the Landing page project and frame it thight once again
+- [ ] should start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
 - [ ] Resume reading about React
 - [ ] Resume React on Scrimba & freeCodeCamp  
 ##### Ideas to follow-through with
