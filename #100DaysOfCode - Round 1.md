@@ -245,10 +245,24 @@ For the 2nd time this month, I thought it could be nicer to work on a bigger scr
 
 ### 20190410 - Day 77 (Wednesday)
 
-- [ ] moving on with the Tribute page project. Hope to finish it today for last check and deploy tomorrow  
+- [x] moving on with the Tribute page project. Hope to finish it today for last check and deploy tomorrow  => not that part, but did a lot of good things and managaed to find nice visual animations and jQuery effects + good work identifying the autobiography coming next July to add it.  
+A lot of things to do concerning the images.
 I MUST stop testing new ideas all the time and focus on finishing. I will fine-tune later in the reasonable remaining time.
+- [x] prepare for next week training
+- [x] prepare the slides for the code intro talk I'm giving in 10 days
+
+- [ ] should start thinking about the Landing page project and frame it thight once again
+- [ ] Resume reading about React
+- [ ] Resume React on Scrimba & freeCodeCamp
+
+---
+
+### 20190410 - Day 77 (Wednesday)
+
+- [ ] moving on with the Tribute page project. Hope to finish it asap. Even very simple, it's a bigger thing than I thought and I'm doing a good job with the animations and visual effects. A few things to finish and the responsive nav with a burger.   Could have been a good idea to make it mobile-first (Cf. Makers website). Will try that with another project.  
 - [ ] prepare for next week training
 - [ ] prepare the slides for the code intro talk I'm giving in 10 days
+- [ ] prepare for the fCC Paris meeting of next Saturday
 
 - [ ] should start thinking about the Landing page project and frame it thight once again
 - [ ] Resume reading about React
