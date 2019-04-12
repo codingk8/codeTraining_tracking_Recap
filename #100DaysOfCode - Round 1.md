@@ -257,21 +257,44 @@ I MUST stop testing new ideas all the time and focus on finishing. I will fine-t
 
 ---
 
-### 20190410 - Day 77 (Wednesday)
+### 20190411 - Day 78 (Thursday)
 
 ##### Going on
-- [ ] moving on with the Tribute page project. Hope to finish it asap.  
+- [x] moving on with the Tribute page project. Hope to finish it asap.  
 Even very simple, it's a bigger thing than I thought and I'm doing a good job with the animations and visual effects.  
 A few things to finish and the responsive nav with a burger.   
 Could have been a good idea to make it mobile-first (Cf. Makers website). Will try that with another project.  
 - [ ] prepare for next week training
-- [ ] prepare the slides for the code intro talk I'm giving in 10 days
-- [ ] prepare for the fCC Paris meeting of next Saturday<br>
+- [x] prepare the slides for the code intro talk I'm giving in 10 days
+- [x] prepare for the fCC Paris meeting of next Saturday<br>
 ##### Got some feedback on the Minautor project => move on after next week training  
 ##### Asap:
 - [ ] should start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
 - [ ] Resume reading about React
 - [ ] Resume React on Scrimba & freeCodeCamp  
+##### Ideas to follow-through with
++ Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
++ Should try working with the big screen to see how it feels
+
+---
+
+### 20190412 - Day 79 (Friday)
+
+##### Going on
+- [ ] Tribute page project: finish and validate
+Link to work: [Shooting for the moon](#)
+
+- [ ] prepare for next week training
+- [ ] prepare the slides for the code intro talk I'm giving in 10 days
+- [ ] finish preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
+
+##### Got some feedback on the Minautor project => move on after next week training
+
+##### Asap:
+- [ ] should start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
+- [ ] Resume reading about React
+- [ ] Resume React on Scrimba & freeCodeCamp  
+
 ##### Ideas to follow-through with
 + Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
 + Should try working with the big screen to see how it feels
