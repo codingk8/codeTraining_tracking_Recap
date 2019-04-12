@@ -312,7 +312,7 @@ With structure: Today's progress | Thoughts | Link to work (any)
 - [ ] Ask the question about embedded video in #100DaysOfCode Slack + fCC Forum
 
 #### Also:
-- [ ] Add a burger nav to the Tech doc project
+- [ ] Add a burger nav to the Tech doc project [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
 - [ ] Perform the W3C verification on the Tech doc project
 - [ ] Re-deploy the Tech doc project as JS
 
