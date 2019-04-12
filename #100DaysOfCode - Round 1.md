@@ -280,9 +280,9 @@ Could have been a good idea to make it mobile-first (Cf. Makers website). Will t
 
 ### 20190412 - Day 79 (Friday)
 
-##### Going on
-- [ ] Tribute page project: finish and validate
-Link to work: [Shooting for the moon](#)
+##### Today's Progress:
+- [ ] Tribute page project: finish and validate  
+Link to work: [Shooting for the moon](#)<br>
 
 - [ ] prepare for next week training
 - [ ] prepare the slides for the code intro talk I'm giving in 10 days
