@@ -284,6 +284,7 @@ Could have been a good idea to make it mobile-first (Cf. Makers website). Will t
 - [ ] Tribute page project: finish and validate  
 Link to work: [Shooting for the moon](#)<br>
 
+Else:
 - [ ] prepare for next week training
 - [ ] prepare the slides for the code intro talk I'm giving in 10 days
 - [ ] finish preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
