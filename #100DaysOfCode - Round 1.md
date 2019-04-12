@@ -293,7 +293,7 @@ With structure: Today's progress | Thoughts | Link to work (any)
 
 ---
 
-## Nexts steps and ideas
+## Nexts steps and ideas :bulb:
 
 - [ ] Move on with the Minautor project
 
