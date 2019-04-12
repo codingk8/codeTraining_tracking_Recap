@@ -314,7 +314,7 @@ With structure: Today's progress | Thoughts | Link to work (any)
 #### Also:
 - [ ] Add a burger nav to the Tech doc project - [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
 - [ ] Perform the W3C verification on the Tech doc project
-- [ ] Clarify the Sticky anomaly, make a test file and see what works
+- [ ] Clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 - [ ] How to make the zoom in effect without the size change (CSS or JS?)
 
 ---
