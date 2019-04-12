@@ -287,6 +287,8 @@ Also:
 - [ ] prepare the slides for the code intro talk I'm giving in 10 days
 - [ ] finish preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
 
+#### Thoughts: less foggy start, focus on finishing the Tribute page, lovely sun but still cold
+
 #### Inspiration
 [log inspiration](https://github.com/emevonlou/100-days-of-code/blob/master/log.md#day-28-april-11)  
 With structure: Today's progress | Thoughts | Link to work (any)
