@@ -134,7 +134,8 @@ Next is:
 - [ ] perform the W3C verification on the Survey form project
 - [ ] perform the W3C verification on the Portefolio project
 
-##### Exploration of the day: Travis CI and Continuous Integration, should look how to implement it on one of my repos
+##### Exploration of the day:
+Travis CI and Continuous Integration, should look how to implement it on one of my repos
 
 ---
 
@@ -213,11 +214,10 @@ A next step could be creating a burger menu with a toggler for the navbar<br>
 
 Doing some usefulness and beautification :nail_care:
 
+##### Today's Progress:
 - [x] the Minotaure project: finish the CodePen draft (almost, last check and add some triangles)
 - [x] the Tribute page project (structure and assets, frame it tight :wink: + try React)
-- [ ] perform the W3C verification on the Survey form project (to be finished)
-
-+ Framed the Tribute page project
+- [x] Framed the Tribute page project
 
 ---
 
@@ -232,7 +232,6 @@ We'll see :wink: after the Sunday walk
 ##### Today's Progress:
 - [x] the Minotaure project: finish the CodePen draft (last check) & share
 - [x] the Tribute page project => not React and nicely moving forward (may be v2 in React?!), very happy about the little wow effect ideas :raised_hands:
-- [ ] Resume reading about React
 
 ---
 
@@ -241,7 +240,6 @@ We'll see :wink: after the Sunday walk
 ##### Today's Progress:
 - [x] added some updates to the upcoming Portefolio website
 - [x] moving on with the Tribute page project.
-- [ ] should start thinking about the Landing page project and frame it thight once again
 
 For the 2nd time this month, I thought it could be nicer to work on a bigger screen than my 12 inch laptop. May be... :wink:  
 + Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.
@@ -293,14 +291,16 @@ With structure: Today's progress | Thoughts | Link to work (any)
 
 ## Nexts steps and ideas
 
-- [ ] Mive on with the Minautor project
+- [ ] Move on with the Minautor project
 
 ##### Asap:
 - [ ] should start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
 - [ ] Resume React & finish FCC
-- [ ] Resume React on Scrimba & finish the tutorial and the two projects  
+- [ ] Resume React on Scrimba & finish the tutorial and the two projects
+- [ ] perform the W3C verification on the Survey form project (to be finished)
 
-##### Ideas to follow-through with
+
+##### Ideas to follow-through with:
 + Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
 + Should try working with the big screen to see how it feels
 
