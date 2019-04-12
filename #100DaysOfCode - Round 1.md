@@ -300,6 +300,9 @@ Else:
 + Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
 + Should try working with the big screen to see how it feels
 
+Also [log inspiration](https://github.com/emevonlou/100-days-of-code/blob/master/log.md#day-28-april-11)
+Today's progress | Thoughts | Link to work (any)
+
 ---
 
 ## Daily log template
