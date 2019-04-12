@@ -303,6 +303,7 @@ With structure: Today's progress | Thoughts | Link to work (any)
 ##### Ideas to follow-through with:
 - [ ] Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
 - [ ] Should try working with the big screen to see how it feels
+- [ ] Ask the question about embedded video in #100DaysOfCode Slack + fCC Forum
 
 #### Also:
 - [ ] Add a burger nav to the Tech doc project
