@@ -268,7 +268,11 @@ Could have been a good idea to make it mobile-first (Cf. Makers website). Will t
 - [x] prepare the slides for the code intro talk I'm giving in 10 days
 - [x] prepare for the fCC Paris meeting of next Saturday<br>
 
-##### Got some feedback on the Minautor project => move on  
+##### Got some feedback on the Minautor project => move on
+
+#### Inspiration:
+[Medium article about career switch by Syk Houdeib](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)  
+Lots of interesting resources in the [GitHub](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months)
 
 ---
 
