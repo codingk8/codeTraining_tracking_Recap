@@ -31,53 +31,58 @@ Started on December 23, 2018. :christmas_tree:
 
 ### 20190321 - Day 64
 
-#### Today's progress: portefolio project
+#### Today's progress: 
+- [x] portefolio project
 
 ---
+
 ### 20190322 - Day 65
 
 #### Today's progress:
-
-1. First ideas for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting" and the painting will be "Angry bull in the sunset" :wink:)
-1. fCC RWD certification Technical Documentation project: finish the structure and all technical challenges and move on to adding the content
-1. Structure of my next Medium article on JS algorithms
+- [x] First ideas for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting" and the painting will be "Angry bull in the sunset" :wink:)
+- [x] fCC RWD certification Technical Documentation project: finish the structure and all technical challenges and move on to adding the content
+- [x] Structure of my next Medium article on JS algorithms
 
 ---
 
 ### 20190323 - Day off
 
+#### Event:
 NodeSchool Paris Meetup
 
+
+#### Resources:
 * Douglas Crockford, on Fontend masters
 * Udacity, all free JS courses
 
 #### Today's progress:
 
-1. Started drawing the "Angry bull in the sun set" for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting"), fixed positioning to be improved
-1. Added some content to the Technical doc project
+- [x] Started drawing the "Angry bull in the sun set" for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting"), fixed positioning to be improved
+- [x] Added some content to the Technical doc project
 
 ---
 
 ### 20190325 - Day 66 (Monday)
 
-Tempted to get a picket for Eve Porcello workshop in London on May, 2nd 2019, the day before ReactJSGirl. It's on GraphQL and it would be the perfect opportunity to pratice GraphQL with React
-+ Checked her GraphQL course on LinkedIn
-As soon as I'm done with reviewing/ practicing React, GraphQL sounds so tempting.
-
 #### Today's progress:
 
-1. Still adding the content in the Tech Doc project
+- [x] Still adding the content in the Tech Doc project
+
+#### Thoughts:
+Tempted to get a picket for Eve Porcello workshop in London on May, 2nd 2019, the day before ReactJSGirl. It's on GraphQL and it would be the perfect opportunity to pratice GraphQL with React
+Also hecked her GraphQL course on LinkedIn
+As soon as I'm done with reviewing/ practicing React, GraphQL sounds so tempting.
 
 ---
 
 ### 20190326 - Day 67 (Tuesday)
 
-Which I could start coding earlier in the day and would have less busy mornings with stuff :weary:
-
 #### Today's progress:
+- [x] Still adding the content in the Tech Doc project (yep, another day of that, but things are moving on!)
+- [x] Hope to do something about the Bull project :ox:
 
-1. Still adding the content in the Tech Doc project (yep, another day of that, but things are moving on!)
-1. Hope to do something about the Bull project :ox:
+#### Thoughts:
+Wish I could start coding earlier in the day and would have less busy mornings with stuff :weary:
 
 ---
 
@@ -87,8 +92,8 @@ Good start :princess:
 
 #### Today's progress:
 
-1. Focused on finishing the content in the Tech Doc project 
-1. ~~Some responsive and Media Queries to take care of as well~~
+- [x] Focused on finishing the content in the Tech Doc project 
+- [x] Some responsive and Media Queries to take care of as well
 
 ---
 
@@ -103,9 +108,8 @@ Slow start :turtle:
 
 Next will be ~~fixing the &lt;br&gt;,~~ re-reading it all, performing a last W3C verification and validate
 
-Note: should perform the W3C vérification on the Survey form project as well, might be useful
-
 Next is: 
+- [ ] perform the W3C vérification on the Survey form project as well, might be useful
 - [ ] the Bull project: finish the CodePen draft
 - [ ] start the Tribute page project (structure and assets, frame it thight :wink:)
 
