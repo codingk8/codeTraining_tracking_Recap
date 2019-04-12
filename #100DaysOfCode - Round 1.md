@@ -294,15 +294,20 @@ With structure: Today's progress | Thoughts | Link to work (any)
 - [ ] Move on with the Minautor project
 
 ##### Asap:
-- [ ] should start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
+- [ ] Start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
 - [ ] Resume React & finish FCC
 - [ ] Resume React on Scrimba & finish the tutorial and the two projects
-- [ ] perform the W3C verification on the Survey form project (to be finished)
+- [ ] Perform the W3C verification on the Survey form project (to be finished)
 
 
 ##### Ideas to follow-through with:
-+ Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
-+ Should try working with the big screen to see how it feels
+- [ ] Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
+- [ ] Should try working with the big screen to see how it feels
+
+#### Also:
+- [ ] Add a burger nav to the Tech doc project
+- [ ] Perform the W3C verification on the Tech doc project
+- [ ] Re-deploy the Tech doc project as JS
 
 ---
 
