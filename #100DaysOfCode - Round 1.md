@@ -279,7 +279,7 @@ Lots of interesting resources in the [GitHub](https://github.com/Syknapse/My-Lea
 ### 20190412 - Day 79 (Friday)
 
 ##### Today's Progress:
-- [ ] Tribute page project: finish and validate  
+- [x] Tribute page project: finish and validate  
 Link to work: [Shooting for the moon](#)<br>
 
 Also:
@@ -314,7 +314,8 @@ With structure: Today's progress | Thoughts | Link to work (any)
 #### Also:
 - [ ] Add a burger nav to the Tech doc project - [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
 - [ ] Perform the W3C verification on the Tech doc project
-- [ ] Re-deploy the Tech doc project as JS
+- [ ] Clarify the Sticky anomaly, make a test file and see what works
+- [ ] How to make the zoom in effect without the size change (CSS or JS?)
 
 ---
 
