@@ -140,13 +140,9 @@ Next is:
 
 ### 20190331 - Checkppoint
 
-#### #100DaysOfCode check
+#### #100DaysOfCode check [Tweet](https://twitter.com/codingk8/status/1112347748936966144)
 
-[Tweet](https://twitter.com/codingk8/status/1112347748936966144)
-
-#### Year goals
-
-[Tweet](https://twitter.com/codingk8/status/1112350217486114819)
+#### Year goals [Tweet](https://twitter.com/codingk8/status/1112350217486114819)
 
 #### To keep in mind
 
@@ -181,12 +177,14 @@ Also an article and a few PRs to work on
 
 ### 20190403 - Day 72 (Wednesday)
 
-1. [x] Full re-reading an correcting all the CSS and stuff
+##### Today's Progress:
+1. [x] Full re-reading an correcting all the CSS and stuff in the Tech doc page project
 
 ---
 
 ### 20190404 - Day 73 (Thursday)
 
+##### Today's Progress:
 1. [x] Finishing the Responsive and Media queries
 1. [x] Deploy
 1. [x] Validate
@@ -204,6 +202,7 @@ A next step could be creating a burger menu with a toggler for the navbar<br>
 
 ### 20190405 - Day 74 (Friday)
 
+##### Today's Progress:
 - [ ] the Bull project: finish the CodePen draft
 - [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
 - [ ] perform the W3C verification on the Survey form project
@@ -230,6 +229,7 @@ We'll see :wink: after the Sunday walk
 
 ### 20190408 - Day 75 (Monday)
 
+##### Today's Progress:
 - [x] the Minotaure project: finish the CodePen draft (last check) & share
 - [x] the Tribute page project => not React and nicely moving forward (may be v2 in React?!), very happy about the little wow effect ideas :raised_hands:
 - [ ] Resume reading about React
@@ -238,6 +238,7 @@ We'll see :wink: after the Sunday walk
 
 ### 20190409 - Day 76 (Tuesday)
 
+##### Today's Progress:
 - [x] added some updates to the upcoming Portefolio website
 - [x] moving on with the Tribute page project.
 - [ ] should start thinking about the Landing page project and frame it thight once again
@@ -249,21 +250,18 @@ For the 2nd time this month, I thought it could be nicer to work on a bigger scr
 
 ### 20190410 - Day 77 (Wednesday)
 
+##### Today's Progress:
 - [x] moving on with the Tribute page project. Hope to finish it today for last check and deploy tomorrow  => not that part, but did a lot of good things and managaed to find nice visual animations and jQuery effects + good work identifying the autobiography coming next July to add it.  
 A lot of things to do concerning the images.
 I MUST stop testing new ideas all the time and focus on finishing. I will fine-tune later in the reasonable remaining time.
 - [x] prepare for next week training
 - [x] prepare the slides for the code intro talk I'm giving in 10 days
 
-- [ ] should start thinking about the Landing page project and frame it thight once again
-- [ ] Resume reading about React
-- [ ] Resume React on Scrimba & freeCodeCamp
-
 ---
 
 ### 20190411 - Day 78 (Thursday)
 
-##### Going on
+##### Today's Progress:
 - [x] moving on with the Tribute page project. Hope to finish it asap.  
 Even very simple, it's a bigger thing than I thought and I'm doing a good job with the animations and visual effects.  
 A few things to finish and the responsive nav with a burger.   
@@ -271,14 +269,8 @@ Could have been a good idea to make it mobile-first (Cf. Makers website). Will t
 - [ ] prepare for next week training
 - [x] prepare the slides for the code intro talk I'm giving in 10 days
 - [x] prepare for the fCC Paris meeting of next Saturday<br>
-##### Got some feedback on the Minautor project => move on after next week training  
-##### Asap:
-- [ ] should start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
-- [ ] Resume reading about React
-- [ ] Resume React on Scrimba & freeCodeCamp  
-##### Ideas to follow-through with
-+ Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
-+ Should try working with the big screen to see how it feels
+
+##### Got some feedback on the Minautor project => move on  
 
 ---
 
@@ -288,24 +280,29 @@ Could have been a good idea to make it mobile-first (Cf. Makers website). Will t
 - [ ] Tribute page project: finish and validate  
 Link to work: [Shooting for the moon](#)<br>
 
-Else:
+Also:
 - [ ] prepare for next week training
 - [ ] prepare the slides for the code intro talk I'm giving in 10 days
 - [ ] finish preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
 
-##### Got some feedback on the Minautor project => move on after next week training
+#### Inspiration
+[log inspiration](https://github.com/emevonlou/100-days-of-code/blob/master/log.md#day-28-april-11)  
+With structure: Today's progress | Thoughts | Link to work (any)
+
+---
+
+## Nexts steps and ideas
+
+- [ ] Mive on with the Minautor project
 
 ##### Asap:
 - [ ] should start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
-- [ ] Resume reading about React
-- [ ] Resume React on Scrimba & freeCodeCamp  
+- [ ] Resume React & finish FCC
+- [ ] Resume React on Scrimba & finish the tutorial and the two projects  
 
 ##### Ideas to follow-through with
 + Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
 + Should try working with the big screen to see how it feels
-
-Also [log inspiration](https://github.com/emevonlou/100-days-of-code/blob/master/log.md#day-28-april-11)
-Today's progress | Thoughts | Link to work (any)
 
 ---
 
@@ -320,9 +317,9 @@ Link(s) to work:
 [xxx](#)  
 [xxx](#)  
 
-#### Finds: xxx.
+#### Thoughts: xxx
 
-#### Thoughts: xxx.
+#### Finds: xxx
 
 ---
 
