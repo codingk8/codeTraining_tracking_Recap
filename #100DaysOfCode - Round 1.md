@@ -285,7 +285,7 @@ Link to work: [Shooting for the moon](#)<br>
 Also:
 - [ ] prepare for next week training
 - [ ] prepare the slides for the code intro talk I'm giving in 10 days
-- [ ] finish preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
+- [x] finish preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
 
 #### Thoughts: 
 Less foggy start, focus on finishing the Tribute page, lovely sun but still cold
@@ -296,6 +296,10 @@ With structure: Today's progress | Thoughts | Link to work (any)
 
 #### Exploration
 Exploring logos for the Landing page on Flaticon and Freepik
+
+---
+
+### 20190413 - Day 80 (Saturday) - Day off, meetup freeCodeCamp Paris
 
 ---
 
