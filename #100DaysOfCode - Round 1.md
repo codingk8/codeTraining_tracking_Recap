@@ -308,6 +308,13 @@ Exploring logos for the Landing page on Flaticon and Freepik
 
 ---
 
+### 20190415 - (Monday) - Prepare speach & training
+
+- [ ] prepare the speach (slides, Kahoot and files)
+- [ ] prepare for training (print & install)
+
+---
+
 ## Nexts steps and ideas :bulb:
 
 - [ ] Move on with the Minautor project
