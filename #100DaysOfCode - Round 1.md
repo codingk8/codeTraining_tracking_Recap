@@ -304,7 +304,7 @@ Exploring logos for the Landing page on Flaticon and Freepik
 
 ### 20190414 - (Sunday) - Day off
 
-- [x] prepare the slides for the code intro talk I'm giving next Saturday
+- [ ] prepare the slides for the code intro talk I'm giving next Saturday
 
 ---
 
@@ -317,13 +317,15 @@ Exploring logos for the Landing page on Flaticon and Freepik
 
 ## Nexts steps and ideas :bulb:
 
-- [ ] Move on with the Minautor project
+- [ ] Start Season 2 of Picasso project for fCC7.0
 
 ##### Asap:
 - [ ] Start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
-- [ ] Resume React & finish FCC
+- [ ] Resume React & finish FCC notes
 - [ ] Resume React on Scrimba & finish the tutorial and the two projects
 - [ ] Perform the W3C verification on the Survey form project (to be finished)
+- [ ] Track bugs in the Tech doc project
+- [ ] Perform the W3C verification on the Tech doc project
 
 
 ##### Ideas to follow-through with:
@@ -333,7 +335,6 @@ Exploring logos for the Landing page on Flaticon and Freepik
 
 #### Also:
 - [ ] Add a burger nav to the Tech doc project - [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
-- [ ] Perform the W3C verification on the Tech doc project
 - [ ] Clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 - [ ] How to make the zoom in effect without the size change (CSS or JS?)
 
