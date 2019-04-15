@@ -264,7 +264,6 @@ I MUST stop testing new ideas all the time and focus on finishing. I will fine-t
 Even very simple, it's a bigger thing than I thought and I'm doing a good job with the animations and visual effects.  
 A few things to finish and the responsive nav with a burger.   
 Could have been a good idea to make it mobile-first (Cf. Makers website). Will try that with another project.  
-- [ ] prepare for next week training
 - [x] prepare the slides for the code intro talk I'm giving in 10 days
 - [x] prepare for the fCC Paris meeting of next Saturday<br>
 
@@ -283,7 +282,6 @@ Lots of interesting resources in the [GitHub](https://github.com/Syknapse/My-Lea
 Link to work: [Shooting for the moon](#)<br>
 
 Also:
-- [ ] prepare for next week training
 - [x] finish preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
 
 #### Thoughts: 
@@ -304,14 +302,12 @@ Exploring logos for the Landing page on Flaticon and Freepik
 
 ### 20190414 - (Sunday) - Day off
 
-- [ ] prepare the slides for the code intro talk I'm giving next Saturday
-
 ---
 
 ### 20190415 - (Monday) - Prepare speach & training
 
-- [ ] prepare the speach (slides, Kahoot and files)
-- [ ] prepare for training (print & install)
+- [x] prepare the speach (slides, Kahoot and files)
+- [x] prepare for training (print & install)
 
 ---
 
