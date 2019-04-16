@@ -311,6 +311,10 @@ Exploring logos for the Landing page on Flaticon and Freepik
 
 ---
 
+### 20190416 - (Tuesday) - Webapp training Day 1/1
+
+---
+
 ## Nexts steps and ideas :bulb:
 
 - [ ] Start Season 2 of Picasso project for fCC7.0
