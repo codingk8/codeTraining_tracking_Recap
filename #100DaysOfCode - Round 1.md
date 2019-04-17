@@ -311,7 +311,11 @@ Exploring logos for the Landing page on Flaticon and Freepik
 
 ---
 
-### 20190416 - (Tuesday) - Webapp training Day 1/1
+### 20190416 - (Tuesday) - Webapp training Day 1/4
+
+---
+
+### 20190417 - (Wednesday) - Webapp training Day 2/4
 
 ---
 
