@@ -327,6 +327,10 @@ Exploring logos for the Landing page on Flaticon and Freepik
 
 ---
 
+### 20190420 - (Saturday) - Animating the "Intro to web and code" workshop at Lion
+
+---
+
 ## Nexts steps and ideas :bulb:
 
 - [ ] Start Season 2 of Picasso project for fCC7.0
