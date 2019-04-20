@@ -304,32 +304,20 @@ Exploring logos for the Landing page on Flaticon and Freepik
 
 ---
 
-### 20190415 - (Monday) - Prepare speach & training
+## 20190415 - (Monday) - Prepare speach & training
 
 - [x] prepare the speach (slides, Kahoot and files)
 - [x] prepare for training (print & install)
 
----
+## 20190416 - (Tuesday) - Webapp training Day 1/4
 
-### 20190416 - (Tuesday) - Webapp training Day 1/4
+## 20190417 - (Wednesday) - Webapp training Day 2/4
 
----
+## 20190418 - (Thursday) - Webapp training Day 3/4
 
-### 20190417 - (Wednesday) - Webapp training Day 2/4
+## 20190419 - (Friday) - Webapp training Day 4/4
 
----
-
-### 20190418 - (Thursday) - Webapp training Day 3/4
-
----
-
-### 20190419 - (Friday) - Webapp training Day 4/4
-
----
-
-### 20190420 - (Saturday) - Animating the "Intro to web and code" workshop at Lion
-
----
+## 20190420 - (Saturday) - Animating the "Intro to web and code" workshop at Lion
 
 ## Nexts steps and ideas :bulb:
 
@@ -353,8 +341,6 @@ Exploring logos for the Landing page on Flaticon and Freepik
 - [ ] Add a burger nav to the Tech doc project - [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
 - [ ] Clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 - [ ] How to make the zoom in effect without the size change (CSS or JS?)
-
----
 
 ## Daily log template
 
