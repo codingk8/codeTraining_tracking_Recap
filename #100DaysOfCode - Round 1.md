@@ -80,12 +80,12 @@ Wish I could start coding earlier in the day and would have less busy mornings w
 
 ## 20190327 - Day 68 (Wednesday)
 
-Good start :princess:
-
 #### Today's progress:
 
 - [x] Focused on finishing the content in the Tech Doc project 
 - [x] Some responsive and Media Queries to take care of as well
+
+__Thoughts:__ Good start :princess:
 
 ## 20190328 - Day 69 (Thursday)
 
