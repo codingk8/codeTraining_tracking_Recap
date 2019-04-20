@@ -3,9 +3,13 @@
 The log of my #100DaysOfCode challenge.   
 Started on December 23, 2018. :christmas_tree:
 
+---
+
 ## Log
 
-### 20190320 - Day 63
+---
+
+## 20190320 - Day 63
 
 1. Decided to start this log for the 2nd time and in a more personal way to make the process sustainable on the long term
 
@@ -27,25 +31,19 @@ Started on December 23, 2018. :christmas_tree:
 
 #### Today's progress: a lot of things on the Portefolio project
 
----
-
-### 20190321 - Day 64
+## 20190321 - Day 64
 
 #### Today's progress: 
 - [x] portefolio project
 
----
-
-### 20190322 - Day 65
+## 20190322 - Day 65
 
 #### Today's progress:
 - [x] First ideas for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting" and the painting will be "Angry bull in the sunset" :wink:)
 - [x] fCC RWD certification Technical Documentation project: finish the structure and all technical challenges and move on to adding the content
 - [x] Structure of my next Medium article on JS algorithms
 
----
-
-### 20190323 - Day off
+## 20190323 - Day off
 
 #### Event:
 NodeSchool Paris Meetup
@@ -60,9 +58,7 @@ NodeSchool Paris Meetup
 - [x] Started drawing the "Angry bull in the sun set" for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting"), fixed positioning to be improved
 - [x] Added some content to the Technical doc project
 
----
-
-### 20190325 - Day 66 (Monday)
+## 20190325 - Day 66 (Monday)
 
 #### Today's progress:
 
@@ -73,9 +69,7 @@ Tempted to get a picket for Eve Porcello workshop in London on May, 2nd 2019, th
 Also hecked her GraphQL course on LinkedIn
 As soon as I'm done with reviewing/ practicing React, GraphQL sounds so tempting.
 
----
-
-### 20190326 - Day 67 (Tuesday)
+## 20190326 - Day 67 (Tuesday)
 
 #### Today's progress:
 - [x] Still adding the content in the Tech Doc project (yep, another day of that, but things are moving on!)
@@ -84,9 +78,7 @@ As soon as I'm done with reviewing/ practicing React, GraphQL sounds so tempting
 #### Thoughts:
 Wish I could start coding earlier in the day and would have less busy mornings with stuff :weary:
 
----
-
-### 20190327 - Day 68 (Wednesday)
+## 20190327 - Day 68 (Wednesday)
 
 Good start :princess:
 
@@ -95,9 +87,7 @@ Good start :princess:
 - [x] Focused on finishing the content in the Tech Doc project 
 - [x] Some responsive and Media Queries to take care of as well
 
----
-
-### 20190328 - Day 69 (Thursday)
+## 20190328 - Day 69 (Thursday)
 
 Slow start :turtle:
 
@@ -113,13 +103,11 @@ Next is:
 - [ ] the Bull project: finish the CodePen draft
 - [ ] start the Tribute page project (structure and assets, frame it thight :wink:)
 
----
-
-### 20190329 - Day 70 (Friday)
+## 20190329 - Day 70 (Friday)
 
 :bomb: day :wink:
 
-#### Today's progress:
+##### Today's progress:
 
 1. [x] One more content to add in the Tech Doc project 
 1. [ ] Some responsive and Media Queries to take care of as well
@@ -134,18 +122,16 @@ Next is:
 - [ ] perform the W3C verification on the Survey form project
 - [ ] perform the W3C verification on the Portefolio project
 
-##### Exploration of the day:
+###### Exploration of the day:
 Travis CI and Continuous Integration, should look how to implement it on one of my repos
 
----
+## 20190331 - Checkppoint
 
-### 20190331 - Checkppoint
+##### #100DaysOfCode check [Tweet](https://twitter.com/codingk8/status/1112347748936966144)
 
-#### #100DaysOfCode check [Tweet](https://twitter.com/codingk8/status/1112347748936966144)
+##### Year goals [Tweet](https://twitter.com/codingk8/status/1112350217486114819)
 
-#### Year goals [Tweet](https://twitter.com/codingk8/status/1112350217486114819)
-
-#### To keep in mind
+##### To keep in mind
 
 > :computer: Build your skills<br>
 > :ear: Build your reputation<br>
@@ -153,13 +139,11 @@ Travis CI and Continuous Integration, should look how to implement it on one of 
 > Think about ways you can build all three at the same time<br>
 > - [Quicy Larson](https://twitter.com/ossia/status/1079942716480344065)
 
----
-
-### 20190401 - Day 71 (Monday)
+## 20190401 - Day 71 (Monday)
 
 :sunny: :cherry_blossom:
 
-#### Today's progress:
+##### Today's progress:
 
 1. [x] Some responsive and Media Queries to take care of as well
 
@@ -174,16 +158,12 @@ Also an article and a few PRs to work on
 
 ##### Exploration of the day: RESTful and GraphQL APIs (should take my ticket for the workshop)
 
----
-
-### 20190403 - Day 72 (Wednesday)
+## 20190403 - Day 72 (Wednesday)
 
 ##### Today's Progress:
 1. [x] Full re-reading an correcting all the CSS and stuff in the Tech doc page project
 
----
-
-### 20190404 - Day 73 (Thursday)
+## 20190404 - Day 73 (Thursday)
 
 ##### Today's Progress:
 1. [x] Finishing the Responsive and Media queries
@@ -199,18 +179,14 @@ A next step could be creating a burger menu with a toggler for the navbar<br>
 - [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
 - [ ] perform the W3C verification on the Survey form project
 
----
-
-### 20190405 - Day 74 (Friday)
+## 20190405 - Day 74 (Friday)
 
 ##### Today's Progress:
 - [ ] the Bull project: finish the CodePen draft
 - [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
 - [ ] perform the W3C verification on the Survey form project
 
----
-
-### 20190406 - Day off (Saturday)
+## 20190406 - Day off (Saturday)
 
 Doing some usefulness and beautification :nail_care:
 
@@ -219,23 +195,17 @@ Doing some usefulness and beautification :nail_care:
 - [x] the Tribute page project (structure and assets, frame it tight :wink: + try React)
 - [x] Framed the Tribute page project
 
----
-
-### 20190407 - Day off (Sunday)
+## 20190407 - Day off (Sunday)
 
 We'll see :wink: after the Sunday walk
 
----
-
-### 20190408 - Day 75 (Monday)
+## 20190408 - Day 75 (Monday)
 
 ##### Today's Progress:
 - [x] the Minotaure project: finish the CodePen draft (last check) & share
 - [x] the Tribute page project => not React and nicely moving forward (may be v2 in React?!), very happy about the little wow effect ideas :raised_hands:
 
----
-
-### 20190409 - Day 76 (Tuesday)
+## 20190409 - Day 76 (Tuesday)
 
 ##### Today's Progress:
 - [x] added some updates to the upcoming Portefolio website
@@ -244,9 +214,7 @@ We'll see :wink: after the Sunday walk
 For the 2nd time this month, I thought it could be nicer to work on a bigger screen than my 12 inch laptop. May be... :wink:  
 + Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.
 
----
-
-### 20190410 - Day 77 (Wednesday)
+## 20190410 - Day 77 (Wednesday)
 
 ##### Today's Progress:
 - [x] moving on with the Tribute page project. Hope to finish it today for last check and deploy tomorrow  => not that part, but did a lot of good things and managaed to find nice visual animations and jQuery effects + good work identifying the autobiography coming next July to add it.  
@@ -255,9 +223,7 @@ I MUST stop testing new ideas all the time and focus on finishing. I will fine-t
 - [x] prepare for next week training
 - [x] prepare the slides for the code intro talk I'm giving in 10 days
 
----
-
-### 20190411 - Day 78 (Thursday)
+## 20190411 - Day 78 (Thursday)
 
 ##### Today's Progress:
 - [x] moving on with the Tribute page project. Hope to finish it asap.  
@@ -273,9 +239,7 @@ Could have been a good idea to make it mobile-first (Cf. Makers website). Will t
 [Medium article about career switch by Syk Houdeib](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)  
 Lots of interesting resources in the [GitHub](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months)
 
----
-
-### 20190412 - Day 79 (Friday)
+## 20190412 - Day 79 (Friday)
 
 ##### Today's Progress:
 - [x] Tribute page project: finish and validate  
@@ -284,21 +248,18 @@ Link to work: [Shooting for the moon](#)<br>
 Also:
 - [x] finish preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
 
-#### Thoughts: 
+##### Thoughts: 
 Less foggy start, focus on finishing the Tribute page, lovely sun but still cold
 
-#### Inspiration
+##### Inspiration
 [log inspiration](https://github.com/emevonlou/100-days-of-code/blob/master/log.md#day-28-april-11)  
 With structure: Today's progress | Thoughts | Link to work (any)
 
-#### Exploration
+##### Exploration
 Exploring logos for the Landing page on Flaticon and Freepik
 
----
-
-### 20190413 - (Saturday) - Day off, meetup freeCodeCamp Paris
-
----
+## 20190413 - (Saturday)
+Day off, meetup freeCodeCamp Paris
 
 ## 20190414 - (Sunday)
 Day off
