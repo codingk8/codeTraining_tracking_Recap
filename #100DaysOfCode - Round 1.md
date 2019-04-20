@@ -89,8 +89,6 @@ Good start :princess:
 
 ## 20190328 - Day 69 (Thursday)
 
-Slow start :turtle:
-
 #### Today's progress:
 
 1. [ ] Still focused on finishing the content in the Tech Doc project 
@@ -103,35 +101,25 @@ Next is:
 - [ ] the Bull project: finish the CodePen draft
 - [ ] start the Tribute page project (structure and assets, frame it thight :wink:)
 
+#### Thoughts: Slow start :turtle:
+
 ## 20190329 - Day 70 (Friday)
 
-:bomb: day :wink:
-
-##### Today's progress:
-
+#### Today's progress:
 1. [x] One more content to add in the Tech Doc project 
 1. [ ] Some responsive and Media Queries to take care of as well
 1. [ ] Deploy
 1. [ ] Validate
 
-Note: should perform the W3C vérification on the Survey form project as well, might be useful
-
-Next is: 
-- [ ] the Bull project: finish the CodePen draft
-- [ ] the Tribute page project (structure and assets, frame it thight :wink: + try React)
-- [ ] perform the W3C verification on the Survey form project
-- [ ] perform the W3C verification on the Portefolio project
-
-###### Exploration of the day:
-Travis CI and Continuous Integration, should look how to implement it on one of my repos
+#### Exploration of the day: Travis CI and Continuous Integration, should look how to implement it on one of my repos
 
 ## 20190331 - Checkppoint
 
-##### #100DaysOfCode check [Tweet](https://twitter.com/codingk8/status/1112347748936966144)
+#### #100DaysOfCode check [Tweet](https://twitter.com/codingk8/status/1112347748936966144)
 
-##### Year goals [Tweet](https://twitter.com/codingk8/status/1112350217486114819)
+#### Year goals [Tweet](https://twitter.com/codingk8/status/1112350217486114819)
 
-##### To keep in mind
+#### To keep in mind
 
 > :computer: Build your skills<br>
 > :ear: Build your reputation<br>
@@ -144,19 +132,11 @@ Travis CI and Continuous Integration, should look how to implement it on one of 
 :sunny: :cherry_blossom:
 
 ##### Today's progress:
-
-1. [x] Some responsive and Media Queries to take care of as well
-
-Next is: 
-- [ ] the Bull project: finish the CodePen draft
-- [ ] the Tribute page project (structure and assets, frame it thight :wink: + try React)
-- [ ] perform the W3C verification on the Survey form project
+- [x] Some responsive and Media Queries to take care of as well
 - [x] perform the W3C verification on the Portefolio project (in building version)
 - [x] perform the W3C verification on the Portefolio project (next version)
 
-Also an article and a few PRs to work on
-
-##### Exploration of the day: RESTful and GraphQL APIs (should take my ticket for the workshop)
+##### Exploration: RESTful and GraphQL APIs (should take my ticket for the workshop)
 
 ## 20190403 - Day 72 (Wednesday)
 
