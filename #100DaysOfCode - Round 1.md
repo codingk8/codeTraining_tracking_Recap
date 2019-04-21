@@ -248,6 +248,9 @@ Webapp training Day 4/4
 ## 20190420 - (Saturday)
 __Event:__ Animating the "Intro to web and code" workshop at Lion
 
+## 20190421 - Sunday - Day off (Easter :hatching_chick: :rabbit:)
+
+
 ---
 
 ## Nexts steps and ideas :bulb:
@@ -262,9 +265,12 @@ __Asap:__
 - [ ] Track bugs in the Tech doc project
 - [ ] Perform the W3C verification on the Tech doc project + Survey form + Portefolio
 
+- [ ] Follow through with the Webapp training (lots of things to practice)
+
 
 __Ideas to follow-through with:__
 - [ ] Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
+- [ ] Dig into Vim
 - [ ] Should try working with the big screen to see how it feels
 - [ ] Ask the question about embedded video in #100DaysOfCode Slack + fCC Forum
 
