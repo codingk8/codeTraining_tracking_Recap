@@ -269,22 +269,25 @@ __Priority stack:__
 - [ ] *Wrap:* fCC RWD certification
 - [ ] *Tutorial:* Resume React & finish fCC notes
 - [ ] *Tutorial:* Resume React on Scrimba & finish the tutorial and the two projects
-- [ ] *Fine tunning:* Perform the W3C verification on the Survey form project (to be finished)
-- [ ] *Fine tunning:* Track bugs in the Tech doc project
-- [ ] *Fine tunning:* Perform the W3C verification on the Tech doc project + Survey form + Portefolio
+- [ ] *Fine tuning:* Perform the W3C verification on the Survey form project (to be finished)
+- [ ] *Fine tuning:* Track bugs in the Tech doc project
+- [ ] *Fine tuning:* Perform the W3C verification on the Tech doc project + Survey form + Portefolio
 
 __Ideas to follow-through with:__
-- [ ] *Tools:* Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
+- [ ] *Tools:* Should find this little post-it with nice VSCode shortcuts on it. Dig in VSCode  
 - [ ] *Tools:* Dig into Vim
+- [ ] *Tools:* Dig into Nano
+- [ ] *Tools:* Dig into CLI, Shell Shell tolls (Oh my zsh and others)
 - [ ] *Tools:* Should try working with the big screen to see how it feels
 - [ ] Ask the question about embedded video in #100DaysOfCode Slack + fCC Forum
 
 __Also:__
-- [ ] Add a burger nav to the Tech doc project - [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
+- [ ] *Fine-tuning:* Add a burger nav to the Tech doc project - [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783) may be also to the Tribute page project, and to the portefolio project
+- [ ] *Fine-tuning:* Change the Tribute page project end text effect and choose one in CSS
 - [ ] Clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 - [ ] How to make the zoom in effect without the size change (CSS or JS?)
 
-- [ ] Node School
+- [ ] *Tutorial:* Node School (make a list)
 
 ---
 
