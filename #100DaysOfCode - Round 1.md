@@ -5,13 +5,9 @@ Started on December 23, 2018 :christmas_tree:
 
 ---
 
-## Log
-
----
-
 ## 20190320 - Day 63
 
-1. Decided to start this log for the 2nd time and in a more personal way to make the process sustainable on the long term
+__Decided to start this log for the 2nd time__ and in a more personal way to make the process sustainable on the long term
 
 __Today's progress:__ a lot of things on the Portefolio project
 
@@ -32,11 +28,11 @@ __Question:__ will there be a fCC JAMstack hachathon on 2019? That'd be fun :smi
 __Remembered about this:__ [codeweek.eu](https://codeweek.eu/about/)
 
 
-
 ## 20190321 - Day 64
 
 __Today's progress:__
 - [x] portefolio project
+
 
 ## 20190322 - Day 65
 
@@ -44,6 +40,7 @@ __Today's progress:__
 - [x] First ideas for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting" and the painting will be "Angry bull in the sunset" :wink:)
 - [x] fCC RWD certification Technical Documentation project: finish the structure and all technical challenges and move on to adding the content
 - [x] Structure of my next Medium article on JS algorithms
+
 
 ## 20190323 - Day off
 
@@ -57,6 +54,7 @@ __New resources:__
 __Today's progress:__
 - [x] Started drawing the "Angry bull in the sun set" for the fCC7.0 CSS project I'm working on ("Learn CSS by Building a Picasso Painting"), fixed positioning to be improved
 - [x] Added some content to the Technical doc project
+
 
 ## 20190325 - Day 66 (Monday)
 
