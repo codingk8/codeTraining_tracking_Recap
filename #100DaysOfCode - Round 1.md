@@ -176,7 +176,7 @@ __Today's Progress:__
 - [x] moving on with the Tribute page project.
 
 __Thoughts:__ For the 2nd time this month, I thought it could be nicer to work on a bigger screen than my 12 inch laptop. May be... :wink:  
-+ Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.
+Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.
 
 ## 20190410 - Day 77 (Wednesday)
 
@@ -262,9 +262,9 @@ __Thoughts:__ "Simplify to amplify"
 - [ ] Start Season 2 of Picasso project for fCC7.0
 
 __Asap:__
-- [ ] Follow through with the wam training (lots of things to practice)
-- [ ] fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
-- [ ] fCC portefolio project
+-[ ] Follow through with the wam training (lots of things to practice)
+-[ ] fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
+-[ ] fCC portefolio project
 - [ ] fCC RWD certification
 - [ ] Resume React & finish fCC notes
 - [ ] Resume React on Scrimba & finish the tutorial and the two projects
