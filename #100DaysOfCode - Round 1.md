@@ -261,23 +261,22 @@ __Inspiration:__ another great [log and progress tracking inspiration](https://g
 
 ## Nexts steps and ideas :bulb:
 
-- [ ] Start Season 2 of Picasso project for fCC7.0
-
-__Asap:__
--[ ] Follow through with the wam training (lots of things to practice)
--[ ] fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
--[ ] fCC portefolio project
-- [ ] fCC RWD certification
-- [ ] Resume React & finish fCC notes
-- [ ] Resume React on Scrimba & finish the tutorial and the two projects
-- [ ] Perform the W3C verification on the Survey form project (to be finished)
-- [ ] Track bugs in the Tech doc project
-- [ ] Perform the W3C verification on the Tech doc project + Survey form + Portefolio
+__Priority stack:__
+- [ ] *Projects:* Season 2 of Picasso project for fCC7.0
+- [ ] *Misc:* Follow through with the wam training (lots of things to practice)
+- [ ] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
+- [ ] *Project:* fCC portefolio project
+- [ ] *Wrap:* fCC RWD certification
+- [ ] *Tutorial:* Resume React & finish fCC notes
+- [ ] *Tutorial:* Resume React on Scrimba & finish the tutorial and the two projects
+- [ ] *Fine tunning:* Perform the W3C verification on the Survey form project (to be finished)
+- [ ] *Fine tunning:* Track bugs in the Tech doc project
+- [ ] *Fine tunning:* Perform the W3C verification on the Tech doc project + Survey form + Portefolio
 
 __Ideas to follow-through with:__
-- [ ] Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
-- [ ] Dig into Vim
-- [ ] Should try working with the big screen to see how it feels
+- [ ] *Tools:* Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
+- [ ] *Tools:* Dig into Vim
+- [ ] *Tools:* Should try working with the big screen to see how it feels
 - [ ] Ask the question about embedded video in #100DaysOfCode Slack + fCC Forum
 
 __Also:__
@@ -285,8 +284,6 @@ __Also:__
 - [ ] Clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 - [ ] How to make the zoom in effect without the size change (CSS or JS?)
 
-- [ ] VSCode
-- [ ] VIM
 - [ ] Node School
 
 ---
