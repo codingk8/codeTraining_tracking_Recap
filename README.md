@@ -36,7 +36,7 @@
 
 ## 2017/09 - 2018/02: 👩🏻‍🎓 JavaScript, React & Node bootcamp
 
-### :trophy: Softwre developper National Professional Title (BS level)
+### :trophy: Software developper National Professional Title (BS level)
 
 ___
 
