@@ -1,7 +1,7 @@
 # #100DaysOfCode - Round 1
 
 The log of my #100DaysOfCode challenge.   
-Started on December 23, 2018. :christmas_tree:
+Started on December 23, 2018 :christmas_tree:
 
 ---
 
@@ -249,6 +249,10 @@ Webapp training Day 4/4
 __Event:__ Animating the "Intro to web and code" workshop at Lion
 
 ## 20190421 - Sunday - Day off (Easter :hatching_chick: :rabbit:)
+
+## 20190422 - Monday - Day off
+
+__Today's progress:__ updating the to-do list and the next steps
 
 
 ---
