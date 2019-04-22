@@ -34,13 +34,9 @@
 
 ---
 
-## Wild Code School, 5 months bootcamp in JavaScript, React & Node (2017/09 - 2018/02) 👩🏻‍🎓
+## 2017/09 - 2018/02: 👩🏻‍🎓 JavaScript, React & Node bootcamp
 
 ### :trophy: Web developper National Professional Title (BS equiv.)
-
-#### :musical_score: [2017 Radiowild: ](https://github.com/codingk8/radiowild) HTML | CSS | JS - A simple yet elegant website to play music in your browser. This was my bootcamp first hackathon project | [Hosted here](https://codingk8.github.io/radiowild/)
-
-#### :circus_tent: [2017 Wild Circus:](https://github.com/codingk8/wildcircus) my first HTML & CSS project ever, the one that got me in the bootcamp | [Hosted here](https://codingk8.github.io/wildcircus/)
 
 ___
 
