@@ -124,7 +124,7 @@ __Today's progress:__
 - [x] perform the W3C verification on the Portefolio project (in building version)
 - [x] perform the W3C verification on the Portefolio project (next version)
 
-##### Exploration: RESTful and GraphQL APIs (should take my ticket for the workshop)
+__Exploration:__ RESTful and GraphQL APIs (should take my ticket for the workshop)
 
 ## 20190403 - Day 72 (Wednesday)
 
@@ -252,6 +252,8 @@ __Event:__ Animating the "Intro to web and code" workshop at Lion
 
 __Today's progress:__ updating the to-do list and the next steps
 
+__Thoughts:__ "Simplify to amplify"
+
 
 ---
 
@@ -260,15 +262,15 @@ __Today's progress:__ updating the to-do list and the next steps
 - [ ] Start Season 2 of Picasso project for fCC7.0
 
 __Asap:__
-- [ ] Start thinking about the Landing page project and frame it thight once again (could be wsisnext, or sheroes, NL to come)
-- [ ] Resume React & finish FCC notes
+- [ ] Follow through with the wam training (lots of things to practice)
+- [ ] fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
+- [ ] fCC portefolio project
+- [ ] fCC RWD certification
+- [ ] Resume React & finish fCC notes
 - [ ] Resume React on Scrimba & finish the tutorial and the two projects
 - [ ] Perform the W3C verification on the Survey form project (to be finished)
 - [ ] Track bugs in the Tech doc project
 - [ ] Perform the W3C verification on the Tech doc project + Survey form + Portefolio
-
-- [ ] Follow through with the Webapp training (lots of things to practice)
-
 
 __Ideas to follow-through with:__
 - [ ] Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.  
@@ -280,6 +282,10 @@ __Also:__
 - [ ] Add a burger nav to the Tech doc project - [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
 - [ ] Clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 - [ ] How to make the zoom in effect without the size change (CSS or JS?)
+
+- [ ] VSCode
+- [ ] VIM
+- [ ] Node School
 
 ---
 
