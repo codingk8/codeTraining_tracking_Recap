@@ -19,7 +19,7 @@ __Exploration:__ JAMstack
 [JAMstackParis website](https://jamstack.paris/)  
 [Also jamstack.wtf](https://jamstack.wtf/)
 
-__Ideas: __
+__Ideas:__
 * Should dig into this thing, go to the Paris meetups and probably have a side project to create a website using Gatsby and Netlify
 * Should also investigate about non-content APIs
 
