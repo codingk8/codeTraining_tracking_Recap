@@ -254,6 +254,8 @@ __Today's progress:__ updating the to-do list and the next steps
 
 __Thoughts:__ "Simplify to amplify"
 
+__Inspiration:__ another great [log and progress tracking inspiration](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months)
+
 
 ---
 
