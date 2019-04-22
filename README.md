@@ -44,7 +44,7 @@
 
 ___
 
-<h2 align="center">And remember to make it fun :wink:</h2>
+<h2 align="center">Let's make this fun :wink:</h2>
 <p align="center"><img src="https://media.giphy.com/media/tSbgQoZd583Cg/giphy.gif" alt="Have fun!"/></p>
   
 ---
