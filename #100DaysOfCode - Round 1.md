@@ -62,8 +62,8 @@ __Today's progress:__
 - [x] Still adding the content in the Tech Doc project
 
 __Thoughts:__
-Tempted to get a picket for Eve Porcello workshop in London on May, 2nd 2019, the day before ReactJSGirl. It's on GraphQL and it would be the perfect opportunity to pratice GraphQL with React
-Also hecked her GraphQL course on LinkedIn
+Tempted to get a ticket for Eve Porcello workshop in London on May, 2nd 2019, the day before ReactJSGirl. It's on GraphQL and it would be the perfect opportunity to pratice GraphQL with React
+Also checked her GraphQL course on LinkedIn
 As soon as I'm done with reviewing/ practicing React, GraphQL sounds so tempting.
 
 ## 20190326 - Day 67 (Tuesday)
