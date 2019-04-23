@@ -272,7 +272,7 @@ __Thoughts:__ get back into the rythm :notes:, move forward step by step :feet:
 
 __Priority stack:__
 - [ ] *Projects:* Season 2 of Picasso project for fCC7.0
-- [ ] *Misc:* Follow through with the wam training (lots of things to practice)
+- [ ] *WAM training:* Follow through with the wam training (lots of things to practice)
 - [ ] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
 - [ ] *Project:* fCC portefolio project
 - [ ] *Wrap:* fCC RWD certification
@@ -293,8 +293,8 @@ __Ideas to follow-through with:__
 __Also:__
 - [ ] *Fine-tuning:* Add a burger nav to the Tech doc project - [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783) may be also to the Tribute page project, and to the portefolio project
 - [ ] *Fine-tuning:* Change the Tribute page project end text effect and choose one in CSS
-- [ ] Clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
-- [ ] How to make the zoom in effect without the size change (CSS or JS?)
+- [ ] *Fine-tuning:* Clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
+- [ ] *Fine-tuning:* How to make the zoom in effect without the size change (CSS or JS?)
 
 - [ ] *Tutorial:* Node School (make a list)
 
