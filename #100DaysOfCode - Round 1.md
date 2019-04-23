@@ -256,6 +256,15 @@ __Thoughts:__ "Simplify to amplify"
 
 __Inspiration:__ another great [log and progress tracking inspiration](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months)
 
+## 20190423 - Tuesday - Day 80
+
+__Today's progress:__
+-[x] *Project:* fCC Landing page project, choose the subject and create the structure
+-[x] *WAM training:* create pdf, print, make the list of the next steps
+
+__Link to work:__
+
+__Thoughts:__ get back into the rythm :notes:, move forward step by step :feet:
 
 ---
 
