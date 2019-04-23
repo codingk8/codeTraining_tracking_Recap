@@ -258,9 +258,9 @@ __Inspiration:__ another great [log and progress tracking inspiration](https://g
 
 ## 20190423 - Tuesday - Day 80
 
-__Today's progress:__
--[x] *Project:* fCC Landing page project, choose the subject and create the structure
--[x] *WAM training:* create pdf, print, make the list of the next steps
+__Today's progress:__  
+- [x] *Project:* fCC Landing page project, choose the subject and create the structure
+- [x] *WAM training:* create pdf, print, make the list of the next steps
 
 __Link to work:__
 
