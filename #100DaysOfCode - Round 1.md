@@ -259,7 +259,7 @@ __Inspiration:__ another great [log and progress tracking inspiration](https://g
 ## 20190423 - Tuesday - Not enough code to call it a day
 
 __Today's progress:__  
-- [x] *WAM training:* create pdf, print, make the list of the next steps
+- [x] *WAM training:* wait for the mails and resources, make the list of the next steps
 
 __Link to work:__
 
@@ -268,6 +268,7 @@ __Thoughts:__ get back into the rythm :notes:, move forward step by step :feet:
 ## 20190424 - Wednesday - Day 80 ?
 
 __Today's progress:__
+- [x] *WAM training:* create pdf, print, make the list of the next steps
 - [x] *Project:* fCC Landing page project, choose the subject and create the structure
 
 __Link to work:__
