@@ -270,21 +270,23 @@ __Thoughts:__ get back into the rythm :notes:, move forward step by step :feet:
 __Today's progress:__
 - [x] *WAM training:* re-read notes, post-event notes, checked resources
 
-__Link to work:__
-
 __Thoughts:__ Tough days, slow and foggy, taking them one step at a time, and soooo much maintenance stuff... But did a lot of good things for fCCP.
 
-## 20190425 - Thursday - Day 80 ?
+## 20190425 - Thursday - Not enough code to call it a day
 
 __Today's progress:__
 - [x] *WAM training:* create pdf, print, make the list of the next steps
-- [x] *Project:* fCC Landing page project, choose the subject and create the structure
-
-__Link to work:__
 
 __Thoughts:__ Doing my best until I feel better
 
 __Event:__ [fCC Paris](https://twitter.com/freeCodeCampPAR) Meetup #4
+
+## 20190428 - Friday
+
+__Today's progress:__
+- [x] *WAM training:* create pdf, print, make the list of the next steps
+
+__Thoughts:__ Same
 
 ---
 
