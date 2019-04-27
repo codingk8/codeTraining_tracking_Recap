@@ -281,12 +281,16 @@ __Thoughts:__ Doing my best until I feel better
 
 __Event:__ [fCC Paris](https://twitter.com/freeCodeCampPAR) Meetup #4
 
-## 20190428 - Friday
+## 20190426 - Friday
 
 __Today's progress:__
 - [x] *WAM training:* create pdf, print, make the list of the next steps
 
 __Thoughts:__ Same
+
+## 20190427 - Saturday
+
+__Thoughts:__ It feels good to feel better
 
 ---
 
