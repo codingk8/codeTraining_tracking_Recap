@@ -292,6 +292,16 @@ __Thoughts:__ Same
 
 __Thoughts:__ It feels good to feel better
 
+## 20190428 - Sunday
+
+__Today's progress:__
+- [x] *WAM training:* create pdf, print, make the list of the next steps
+- [x] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
+
+__Thoughts:__ Here we go again :dancer:
+
+__Link to work:__
+
 ---
 
 ## Nexts steps and ideas :bulb:
