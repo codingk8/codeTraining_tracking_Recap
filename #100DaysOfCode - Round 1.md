@@ -295,10 +295,18 @@ __Thoughts:__ It feels good to feel better
 ## 20190428 - Sunday
 
 __Today's progress:__
-- [x] *WAM training:* create pdf, print, make the list of the next steps
-- [x] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
+- [x] *WAM training:* finish wrap-up mail, reviewed my before-during-after notes
 
 __Thoughts:__ Here we go again :dancer:
+
+## 20190429 - Monday
+
+__Today's progress:__
+- [x] *WAM training:* create pdf, print, make the list of the next steps, finish the evaluation
+- [x] *ReactGirls GraphQL workshop:* review some material about APIs and RESTful APIs to fully grab the difference between the two
+- [x] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
+
+__Thoughts:__ I started dreaming about code, React and Redux to be precise, cannot wait to move on and go back to React
 
 __Link to work:__
 
