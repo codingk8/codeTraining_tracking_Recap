@@ -302,13 +302,21 @@ __Thoughts:__ Here we go again :dancer:
 ## 20190429 - Monday
 
 __Today's progress:__
-- [x] *WAM training:* create pdf, print, make the list of the next steps, finish the evaluation
 - [x] *ReactGirls GraphQL workshop:* review some material about APIs and RESTful APIs to fully grab the difference between the two
-- [x] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
 
 __Thoughts:__ I started dreaming about code, React and Redux to be precise, cannot wait to move on and go back to React
 
 __Link to work:__
+
+## 20190430 - Tuesday
+
+__Today's progress:__ Busy preparing my trip to London to attend the ReactGirls conference
+
+__Thoughts:__ Let's face it, things will come back to normal next week when I'm back from London and into my usual rhythm again. Let's go with the flow and leverage that
+
+__Next:__ 
+- [x] *WAM training:* create pdf, print, make the list of the next steps, finish the evaluation
+- [x] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
 
 ---
 
