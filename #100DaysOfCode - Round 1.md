@@ -318,6 +318,10 @@ __Next:__
 - [x] *WAM training:* create pdf, print, make the list of the next steps, finish the evaluation
 - [x] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
 
+## 20190501 - Wednesday
+
+## 20190502 - Thursday
+
 ---
 
 ## Nexts steps and ideas :bulb:
