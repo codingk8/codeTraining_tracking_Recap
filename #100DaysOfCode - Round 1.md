@@ -320,7 +320,9 @@ __Next:__
 
 ## 20190501 - Wednesday
 
-## 20190502 - Thursday
+## 20190502 - Thursday - ReactJSGirsl workshop about GraphQL with Eve Porcello
+
+## 20190503 - Friday - ReactJSGirls conference
 
 ---
 
