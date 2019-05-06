@@ -324,6 +324,14 @@ __Next:__
 
 ## 20190503 - Friday - ReactJSGirls conference
 
+## 20190506 - Monday - Day 80 - BAck to normal code planning
+
+__Today's progress:__ Move on with the Picasso project for freeCodeCamp 7.0 new curriculum
+
+__Thoughts:__ Must re-organise the planning and add all things WAM trainong + GraphQL workshop + ideas from the ReactJSGirls conference (lots of good stuff)
+
+__Link to work:__
+
 ---
 
 ## Nexts steps and ideas :bulb:
