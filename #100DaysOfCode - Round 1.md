@@ -332,6 +332,10 @@ __Thoughts:__ Must re-organise the planning and add all things WAM trainong + Gr
 
 __Link to work:__
 
+## 20190507 - Tuesday
+
+## 20190508 - Wednesday
+
 ---
 
 ## Nexts steps and ideas :bulb:
