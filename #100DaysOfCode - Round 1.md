@@ -334,6 +334,8 @@ __Link to work:__
 
 ## 20190507 - Tuesday
 
+__Thoughts:__ Looks like I'm stuck in no-code days but I haven't yet identified what's the problem. Let's see...
+
 ## 20190508 - Wednesday
 
 ---
