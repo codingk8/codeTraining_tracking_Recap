@@ -324,6 +324,8 @@ __Next:__
 
 ## 20190503 - Friday - ReactJSGirls conference
 
+__[It's all here.](https://www.youtube.com/results?search_query=reactjsgirls+london)__ Please take some time to enjoy the amazing intro by Eve (minute 32) :wink:
+
 ## 20190506 - Monday - Day 80 - Back to normal code planning
 
 __Today's progress:__ Move on with the Picasso project for freeCodeCamp 7.0 new curriculum
