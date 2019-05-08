@@ -322,6 +322,9 @@ __Next:__
 
 ## 20190502 - Thursday - ReactJSGirsl workshop about GraphQL with Eve Porcello
 
+__Guess what? I understood everything and I feel completely GraphQL addicted now!__
+__Should put the list to the resources here__
+
 ## 20190503 - Friday - ReactJSGirls conference
 
 __[It's all here.](https://www.youtube.com/results?search_query=reactjsgirls+london)__ Please take some time to enjoy the amazing intro by Eve (minute 32) :wink:
