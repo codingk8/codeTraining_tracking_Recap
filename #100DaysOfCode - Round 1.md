@@ -328,17 +328,17 @@ __Next:__
 
 __Today's progress:__ Move on with the Picasso project for freeCodeCamp 7.0 new curriculum
 
-__Thoughts:__ Must re-organise the planning and add all things WAM training + GraphQL workshop + ideas from the ReactJSGirls conference (lots of good stuff)
-
-__Link to work:__
+__Thoughts:__ Must re-organise the planning & priorities, and add all things WAM training + GraphQL workshop + ideas from the ReactJSGirls conference (lots of good stuff)
 
 ## 20190507 - Tuesday
 
 __Thoughts:__ Looks like I'm stuck in no-code days but I haven't yet identified what's the problem. Let's see...
 
-## 20190508 - Wednesday
+## 20190508 - Wednesday - Day 80
 
 __Thoughts:__ too much worry about too many things, starting with health and not feeling so well
+
+__Today's progress:__ The "Learn CSS by building a Picasso paintning" is on ots way and moving nicely. At last!
 
 ---
 
