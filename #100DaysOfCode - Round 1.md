@@ -324,11 +324,11 @@ __Next:__
 
 ## 20190503 - Friday - ReactJSGirls conference
 
-## 20190506 - Monday - Day 80 - BAck to normal code planning
+## 20190506 - Monday - Day 80 - Back to normal code planning
 
 __Today's progress:__ Move on with the Picasso project for freeCodeCamp 7.0 new curriculum
 
-__Thoughts:__ Must re-organise the planning and add all things WAM trainong + GraphQL workshop + ideas from the ReactJSGirls conference (lots of good stuff)
+__Thoughts:__ Must re-organise the planning and add all things WAM training + GraphQL workshop + ideas from the ReactJSGirls conference (lots of good stuff)
 
 __Link to work:__
 
@@ -338,21 +338,27 @@ __Thoughts:__ Looks like I'm stuck in no-code days but I haven't yet identified 
 
 ## 20190508 - Wednesday
 
+__Thoughts:__ too much worry about too many things, starting with health and not feeling so well
+
 ---
 
 ## Nexts steps and ideas :bulb:
 
 __Priority stack:__
 - [ ] *Projects:* Season 2 of Picasso project for fCC7.0
-- [ ] *WAM training:* Follow through with the wam training (lots of things to practice)
 - [ ] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
 - [ ] *Project:* fCC portefolio project
 - [ ] *Wrap:* fCC RWD certification
 - [ ] *Tutorial:* Resume React & finish fCC notes
 - [ ] *Tutorial:* Resume React on Scrimba & finish the tutorial and the two projects
+
 - [ ] *Fine tuning:* Perform the W3C verification on the Survey form project (to be finished)
 - [ ] *Fine tuning:* Track bugs in the Tech doc project
 - [ ] *Fine tuning:* Perform the W3C verification on the Tech doc project + Survey form + Portefolio
+
+__post training, workshop & conference:__
+- [ ] *WAM training:* Follow through with the wam training (lots of things to practice)
+- [ ] *GraphQL workshop:* follow up
 
 __Ideas to follow-through with:__
 - [ ] *Tools:* Should find this little post-it with nice VSCode shortcuts on it. Dig in VSCode  
