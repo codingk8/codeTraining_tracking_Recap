@@ -319,10 +319,10 @@ __Next:__
 - [x] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
 
 ## 20190501 - Wednesday
+__Eurostar to London and climbed to the top of Saint Paul Cathedral, [view here](https://twitter.com/codingk8/status/1123588910788091905)__
 
 ## 20190502 - Thursday - ReactJSGirsl workshop about GraphQL with Eve Porcello
-
-__Guess what? I understood everything and I feel completely GraphQL addicted now!__
+__Guess what? I understood everything and I feel completely GraphQL addicted now!__<br>
 __Should put the list to the resources here__
 
 ## 20190503 - Friday - ReactJSGirls conference
