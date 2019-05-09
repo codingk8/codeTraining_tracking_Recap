@@ -345,6 +345,12 @@ __Thoughts:__ too much worry about too many things, starting with health and not
 
 __Today's progress:__ The "Learn CSS by building a Picasso paintning" is on ots way and moving nicely. At last!
 
+## 20190509 - Thursday
+
+__Thoughts:__ Better start
+
+__Today's progress:__ More of Picasso CSS
+
 ---
 
 ## Nexts steps and ideas :bulb:
