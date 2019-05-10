@@ -351,6 +351,12 @@ __Thoughts:__ Better start
 
 __Today's progress:__ More of Picasso CSS
 
+## 20190510 - Friday
+
+__Thoughts:__ 
+
+__Today's progress:__ Who knows...
+
 ---
 
 ## Nexts steps and ideas :bulb:
