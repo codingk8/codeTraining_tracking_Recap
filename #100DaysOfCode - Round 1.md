@@ -357,6 +357,11 @@ __Thoughts:__
 
 __Today's progress:__ Who knows...
 
+__Find:__ [freeCodeCamp Brasov](https://freecodecampbrasov.github.io/)  
+Could do this first for fCC Paris...
+
+## 20190511 - Saturday
+
 ---
 
 ## Nexts steps and ideas :bulb:
