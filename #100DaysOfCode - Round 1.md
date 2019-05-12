@@ -362,6 +362,12 @@ Could do this first for fCC Paris...
 
 ## 20190511 - Saturday
 
+## 20190512 - Sunday
+
+--Thoughts:__ Live feels better with some sun :sun:
+
+__Today's progress:__ Just had a brilliant idea for the Landing page project. Now I need a picture to create a nice logo and a video. Let's se  what we find...
+
 ---
 
 ## Nexts steps and ideas :bulb:
