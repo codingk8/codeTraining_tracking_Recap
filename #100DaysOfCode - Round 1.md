@@ -364,9 +364,15 @@ Could do this first for fCC Paris...
 
 ## 20190512 - Sunday
 
---Thoughts:__ Live feels better with some sun :sun:
+__Thoughts:__ Life feels better with some sun :sun:
 
 __Today's progress:__ Just had a brilliant idea for the Landing page project. Now I need a picture to create a nice logo and a video. Let's se  what we find...
+
+## 20190513 - Monday
+
+__Thoughts:__ It's all a journey, there's no destination. Make everyday an amazing day!
+
+__Today's progress:__
 
 ---
 
