@@ -368,11 +368,20 @@ __Thoughts:__ Life feels better with some sun :sun:
 
 __Today's progress:__ Just had a brilliant idea for the Landing page project. Now I need a picture to create a nice logo and a video. Let's se  what we find...
 
-## 20190513 - Monday
+## 20190513 - Monday - Not enough to call it a code day but...
+
+__Today's progress:__ Did some research about the logo for the Landing page project. Wrote a list of ideas and possibilities. Will spleep on it while I finish the Picasso project.
 
 __Thoughts:__ It's all a journey, there's no destination. Make everyday an amazing day!
 
-__Today's progress:__
+__Inspiration:__ [Liz Gilbert Ted Talk on creative genius](https://www.ted.com/talks/elizabeth_gilbert_on_genius?)  
+Code is definitely a creative activity
+
+## 20190514 - Tuesday - Day 81! YES!
+
+__Today's progress:__ Working on the Picasso project for fCC 7.0
+
+__Thoughts:__ A full empty week, empty days, each day with one main coding task and 3 add-ons and the everyday mundane (up to 3 as well), that sounds like the best routine. Then mix passion with discipline. Procrastination is alsways an indication of some kind of conflict. Find it and solve it to get back in the flow
 
 ---
 
