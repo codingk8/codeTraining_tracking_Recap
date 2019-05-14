@@ -207,10 +207,10 @@ Lots of interesting resources in the [GitHub](https://github.com/Syknapse/My-Lea
 __Today's Progress:__
 - [x] Tribute page project: finish and validate  
 
-__Link to work:__ [Shooting for the moon](#)<br>
+__Link to work:__ [Shooting for the moon](https://codingk8.github.io/shooting-for-the-moon/)<br>
 
 Also:
-- [x] finish preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
+- [x] finished preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
 
 __Thoughts:__ Less foggy start, focus on finishing the Tribute page, lovely sun but still cold
 
@@ -379,29 +379,36 @@ Code is definitely a creative activity
 
 ## 20190514 - Tuesday - Day 81! YES!
 
-__Today's progress:__ Working on the Picasso project for fCC 7.0
+__Today's progress:__ Working on the Picasso project for fCC 7.0. Done 80%. Asked the question about Responsive that is a bit diffucult because of the triangles and border-width accepting only pixels. Will finish and submit tomorrow.
 
-__Thoughts:__ A full empty week, empty days, each day with one main coding task and 3 add-ons and the everyday mundane (up to 3 as well), that sounds like the best routine. Then mix passion with discipline. Procrastination is alsways an indication of some kind of conflict. Find it and solve it to get back in the flow
+__Thoughts:__ A full empty week, empty days, each day with one main coding task and 3 add-ons and the everyday mundane (up to 3 as well), that sounds like the best routine. Then mix passion with discipline. Procrastination is alsways an indication of some kind of conflict. Find it and solve it to get back in the flow.  
+Will organised those at least 3 empty days per week.  
+Should also give a try to 3 days / 1 days off rhythm to see how it work. May be a bit mùore difficult to organize but let's see.
+
+__Link to work:__ [CSS Picasso](https://codepen.io/codingk8/full/qGOXmM?editors=1100)
 
 ---
 
 ## Nexts steps and ideas :bulb:
 
 __Priority stack:__
-- [ ] *Projects:* Season 2 of Picasso project for fCC7.0
-- [ ] *Project:* fCC Landing page project (could be wsisnext, or sheroes, NL to come, 3 days)
-- [ ] *Project:* fCC portefolio project
-- [ ] *Wrap:* fCC RWD certification
-- [ ] *Tutorial:* Resume React & finish fCC notes
-- [ ] *Tutorial:* Resume React on Scrimba & finish the tutorial and the two projects
+- [X] *Projects:* Season 2 of Picasso project for fCC7.0
+- [ ] *Project:* fCC Landing page project (en + fr | dark mode ? | burger menu | think thourgh that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate)
+- [ ] *Project:* fCC portefolio project (to be finished as the closure of the RWD certification)
 
 - [ ] *Fine tuning:* Perform the W3C verification on the Survey form project (to be finished)
 - [ ] *Fine tuning:* Track bugs in the Tech doc project
-- [ ] *Fine tuning:* Perform the W3C verification on the Tech doc project + Survey form + Portefolio
+- [ ] *Fine tuning:* Perform the W3C verification on the Tech doc project + Survey form + Portefolio  
+See below in the "Also" section, more fine tuning on RWD projects
+- [ ] *Wrap:* fCC RWD certification
+
+- [ ] *Tutorial:* Resume React & finish fCC notes
+- [ ] *Tutorial:* Resume React on Scrimba & finish the tutorial and the two projects
+- [ ] *Tutorials:* Explore possibilities and other availables tutos and resources (Wes Bos...)
 
 __post training, workshop & conference:__
 - [ ] *WAM training:* Follow through with the wam training (lots of things to practice)
-- [ ] *GraphQL workshop:* follow up
+- [ ] *GraphQL workshop:* follow up, make a project with GraphQL (or tuto project, something to get my hands dirty with it)
 
 __Ideas to follow-through with:__
 - [ ] *Tools:* Should find this little post-it with nice VSCode shortcuts on it. Dig in VSCode  
