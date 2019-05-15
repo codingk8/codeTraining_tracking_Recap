@@ -387,6 +387,14 @@ Should also give a try to 3 days / 1 days off rhythm to see how it work. May be 
 
 __Link to work:__ [CSS Picasso](https://codepen.io/codingk8/full/qGOXmM?editors=1100)
 
+## 20190515 - Wednesday - Day 82
+
+__Today's progress:__
+- [ ] Finishing the first draft of CSS Picasso and sending it on GitHub
+- [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
+
+__Thoughts:__
+
 ---
 
 ## Nexts steps and ideas :bulb:
