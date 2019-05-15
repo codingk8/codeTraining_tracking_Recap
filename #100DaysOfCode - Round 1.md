@@ -390,10 +390,10 @@ __Link to work:__ [CSS Picasso](https://codepen.io/codingk8/full/qGOXmM?editors=
 ## 20190515 - Wednesday - Day 82
 
 __Today's progress:__
-- [ ] Finishing the first draft of CSS Picasso and sending it on GitHub
+- [x] Finishing the first draft of CSS Picasso and sending it on GitHub
 - [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
 
-__Thoughts:__
+__Thoughts:__ It feels good when my brain is in the flow
 
 ---
 
