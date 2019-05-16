@@ -1,13 +1,9 @@
-#Multi-themes resources
+## Multi-themes resources
 
-## Udacity
-
+### Udacity
 18 free courses on JavaScript
 
----
 
-## Treehouse
+### Treehouse
 
 ## Frontend masters
-
---
