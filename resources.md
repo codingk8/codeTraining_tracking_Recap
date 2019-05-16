@@ -74,6 +74,9 @@ __Treehouse__
 
 [debugging](https://medium.freecodecamp.org/debugging-javascript-for-beginners-5d4ac15dd1cd)
 
+[Samantha Ming](https://www.samanthaming.com/tidbits)
+<mark>test</mark>
+
 ## React
 
 [this](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
