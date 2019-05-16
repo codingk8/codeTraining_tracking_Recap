@@ -17,14 +17,12 @@ __Priority stack:__
 - [ ] PR the project
 - [ ] PR merge
 
-- [ ] *Project:* fCC __Landing page project__ (en + fr | dark mode ? "rad" :wink: | burger menu | think through that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate...)
+*Project:* fCC __Landing page project__ (en + fr | dark mode ? "rad" :wink: | burger menu | think through that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate...)
 
+*Projects*
 - [ ] *Fine tuning:* Perform the W3C verification on the __Tech doc project + Survey form + Portefolio__  
-
 - [ ] *Fine tuning:* Track bugs in links names in the __Tech doc project__  
-
 - [ ] *Fine-tuning:* Add a burger nav to the __Tech doc project__ [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783) may be also to the __Tribute page project__ and to the __portefolio project__
-
 - [ ] *Fine-tuning:* Change the __Tribute page project__ end text effect and choose one in CSS + change the grey color to a darker one
 - [ ] *Fine-tuning:* In the __Tribute page project__, clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 
