@@ -4,6 +4,13 @@
 
 __freeCodeCamp__
 
+- [ ] Responsive Web Deisgn
+- [x] JavaScript
+- [ ] Frontend Librairies
+- [ ] xxx
+- [ ] xxx
+- [ ] xxx
+
 __Scrimba__
 - [ ] React
 - [ ] JavaScript
