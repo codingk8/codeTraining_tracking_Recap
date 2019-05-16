@@ -1,15 +1,21 @@
 # #100DaysOfCode - Round 1
 
 The log of my #100DaysOfCode challenge.   
-Started on December 23, 2018 :christmas_tree:
+Started on December 23, 2018 :christmas_tree: page
+See page bottom for details about #100DaysOfCode, the project, the website, the repo...
 
 ---
 
 ## Nexts steps and ideas :bulb:
 
 __Priority stack:__
-- [X] *Projects:* Season 2 of Picasso project for fCC7.0
-- [ ] *Projects:* CSS Picasso, finish the draft and validate the final version
+
+*Project:* CSS Picasso project for fCC7.0
+- [x] Finished and submitted 1st draft (15/05)
+- [ ] Validate final version
+- [ ] Prepare Repo and files structure
+- [ ] PR the project
+- [ ] PR merge
 
 - [ ] *Project:* fCC __Landing page project__ (en + fr | dark mode ? "rad" :wink: | burger menu | think through that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate...)
 
@@ -65,8 +71,9 @@ __Thoughts:__ Enthousiasm and focus/priorities :dart:
 
 ## 20190515 - Wednesday - Day 82
 
-__Today's progress:__
-- [x] Finishing the first draft of CSS Picasso and sending it on GitHub - All on [this twit](https://twitter.com/codingk8/status/1128693825218797569)
+__Today's progress:__ Finished the first draft of CSS Picasso and sending it on GitHub - All on [this tweet](https://twitter.com/codingk8/status/1128693825218797569)
+
+__Link to work:__ [CSS Picasso](https://codepen.io/codingk8/full/qGOXmM?editors=1100)
 
 __Thoughts:__ It feels good when my brain is in the flow
 
@@ -74,11 +81,10 @@ __Thoughts:__ It feels good when my brain is in the flow
 
 __Today's progress:__ Working on the Picasso project for fCC 7.0. Done 80%. Asked the question about Responsive that is a bit diffucult because of the triangles and border-width accepting only pixels. Will finish and submit tomorrow.
 
-__Thoughts:__ A full empty week, empty days, each day with one main coding task and 3 add-ons and the everyday mundane (up to 3 as well), that sounds like the best routine. Then mix passion with discipline. Procrastination is alsways an indication of some kind of conflict. Find it and solve it to get back in the flow.  
-Will organised those at least 3 empty days per week.  
+__Thoughts:__ Organize and find the flow  
+A full empty week, empty days, each day with one main coding task and 3 add-ons and the everyday mundane (up to 3 as well), that sounds like the best routine. Then mix passion with discipline. Procrastination is alsways an indication of some kind of conflict. Find it and solve it to get back in the flow.  
+Will organized those at least 3 empty days per week.  
 Should also give a try to 3 days / 1 days off rhythm to see how it work. May be a bit mùore difficult to organize but let's see.
-
-__Link to work:__ [CSS Picasso](https://codepen.io/codingk8/full/qGOXmM?editors=1100)
 
 ## 20190513 - Monday - Not enough to call it a code day but...
 
@@ -99,12 +105,8 @@ __Today's progress:__ Just had a brilliant idea for the Landing page project. No
 
 ## 20190510 - Friday
 
-__Thoughts:__ 
-
-__Today's progress:__ Who knows...
-
 __Find:__ [freeCodeCamp Brasov](https://freecodecampbrasov.github.io/)  
-Could do this first for fCC Paris...
+Could do this first for fCC Paris... May be as the fCC Landing page project :bulb:
 
 ## 20190509 - Thursday
 
@@ -116,7 +118,7 @@ __Today's progress:__ More of Picasso CSS
 
 __Thoughts:__ too much worry about too many things, starting with health and not feeling so well
 
-__Today's progress:__ The "Learn CSS by building a Picasso paintning" is on ots way and moving nicely. At last!
+__Today's progress:__ The "Learn CSS by building a Picasso paintning" is on its way and moving nicely. At last!
 
 ## 20190507 - Tuesday
 
@@ -210,42 +212,30 @@ __Inspiration:__ another great [log and progress tracking inspiration](https://g
 
 ## 20190421 - Sunday - Day off (Easter :hatching_chick: :rabbit:)
 
-## 20190420 - (Saturday)
+## 20190420 - Saturday
 __Event:__ Animating the "Intro to web and code" workshop at Lion
 
-## 20190419 - (Friday)
-Webapp training Day 4/4
+## 20190416-19 - Tuesday -> Friday
+Webapp training 
 
-## 20190418 - (Thursday)
-Webapp training Day 3/4
-
-## 20190417 - (Wednesday)
-Webapp training Day 2/4
-
-## 20190416 - (Tuesday)
-Webapp training Day 1/4
-
-## 20190415 - (Monday)
+## 20190415 - Monday
 
 __Prepare speach for Lion & training with Delicious Insights__
 - [x] prepare the speach (slides, Kahoot and files)
 - [x] prepare for training (print & install)
 
-## 20190414 - (Sunday)
+## 20190414 - Sunday
 Day off
 
 ## 20190413 - (Saturday)
 __Event:__ Meetup freeCodeCamp Paris
 
-## 20190412 - Day 79 (Friday)
+## 20190412 - Friday - Day 79
 
 __Today's Progress:__
 - [x] Tribute page project: finish and validate  
 
 __Link to work:__ [Shooting for the moon](https://codingk8.github.io/shooting-for-the-moon/)<br>
-
-Also:
-- [x] finished preparing for the fCC Paris meeting of next Saturday (meetup message, list, cheatsheet)
 
 __Thoughts:__ Less foggy start, focus on finishing the Tribute page, lovely sun but still cold
 
@@ -254,22 +244,22 @@ With structure: Today's progress | Thoughts | Link to work (any)
 
 __Exploration:__ Exploring logos for the Landing page on Flaticon and Freepik
 
-## 20190411 - Day 78 (Thursday)
+## 20190411 - Thursday - Day 78
 
 __Today's Progress:__
-- [x] moving on with the Tribute page project. Hope to finish it asap.  
+- [x] moving on with the fCC Tribute page project. Hope to finish it asap.  
 Even very simple, it's a bigger thing than I thought and I'm doing a good job with the animations and visual effects.  
 A few things to finish and the responsive nav with a burger.   
 Could have been a good idea to make it mobile-first (Cf. Makers website). Will try that with another project.  
 - [x] prepare the slides for the code intro talk I'm giving in 10 days
-- [x] prepare for the fCC Paris meeting of next Saturday<br>
+- [x] prepare for the fCC Paris meetup of next Saturday
 
-__Got some feedback on the Minautor project__ => move on
+__News:__ Got some feedback on the Minautor project => move on
 
 __Inspiration:__ [Medium article about career switch by Syk Houdeib](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)  
 Lots of interesting resources in the [GitHub](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months)
 
-## 20190410 - Day 77 (Wednesday)
+## 20190410 - Wednesday - Day 77
 
 __Today's Progress:__
 - [x] moving on with the Tribute page project. Hope to finish it today for last check and deploy tomorrow  => not that part, but did a lot of good things and managaed to find nice visual animations and jQuery effects + good work identifying the autobiography coming next July to add it.  
@@ -278,7 +268,7 @@ I MUST stop testing new ideas all the time and focus on finishing. I will fine-t
 - [x] prepare for next week training
 - [x] prepare the slides for the code intro talk I'm giving in 10 days
 
-## 20190409 - Day 76 (Tuesday)
+## 20190409 - Tuesday - Day 76
 
 __Today's Progress:__
 - [x] added some updates to the upcoming Portefolio website
@@ -287,29 +277,24 @@ __Today's Progress:__
 __Thoughts:__ For the 2nd time this month, I thought it could be nicer to work on a bigger screen than my 12 inch laptop. May be... :wink:  
 Should find this little post-it with nice VSCode shortcuts on it. Would be helpful too.
 
-## 20190408 - Day 75 (Monday)
+## 20190408 - Monday - Day 75
 
 __Today's Progress:__
 - [x] the Minotaure project: finish the CodePen draft (last check) & share
 - [x] the Tribute page project => not React and nicely moving forward (may be v2 in React?!), very happy about the little wow effect ideas :raised_hands:
 
-## 20190407 - Day off (Sunday)
+## 20190407 - Sunday
 
-## 20190406 - Day off (Saturday)
+## 20190406 - Saturday - Day 74
 
 __Today's Progress:__
 - [x] the Minotaure project: finish the CodePen draft (almost, last check and add some triangles)
 - [x] the Tribute page project (structure and assets, frame it tight :wink: + try React)
 - [x] Framed the Tribute page project
 
-## 20190405 - Day 74 (Friday)
+## 20190405 - Friday
 
-__Today's Progress:__
-- [ ] the Bull project: finish the CodePen draft
-- [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
-- [ ] perform the W3C verification on the Survey form project
-
-## 20190404 - Day 73 (Thursday)
+## 20190404 - Thursday - Day 73
 
 __Today's Progress:__
 1. [x] Finishing the Responsive and Media queries
@@ -321,16 +306,12 @@ __Link to work:__ [here](https://codingk8.github.io/markdown-up-and-running/)<br
 A next step could be creating a burger menu with a toggler for the navbar<br>
 [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783)
 
-- [ ] the Bull project: finish the CodePen draft
-- [ ] the Tribute page project (structure and assets, frame it tight :wink: + try React)
-- [ ] perform the W3C verification on the Survey form project
-
-## 20190403 - Day 72 (Wednesday)
+## 20190403 - Wednesday - Day 72
 
 __Today's Progress:__
-1. [x] Full re-reading an correcting all the CSS and stuff in the Tech doc page project
+1. [x] Full re-reading an correcting all the CSS and stuff in the fCC Tech doc page project
 
-## 20190401 - Day 71 (Monday)
+## 20190401 - Monday - Day 71
 
 __Today's progress:__
 - [x] Some responsive and Media Queries to take care of as well
@@ -339,7 +320,9 @@ __Today's progress:__
 
 __Exploration:__ RESTful and GraphQL APIs (should take my ticket for the workshop)
 
-## 20190331 - Checkppoint
+---
+
+## 20190331 - <ins>Checkppoint</ins>
 
 #### #100DaysOfCode check [Tweet](https://twitter.com/codingk8/status/1112347748936966144)
 
@@ -353,27 +336,26 @@ __Exploration:__ RESTful and GraphQL APIs (should take my ticket for the worksho
 > Think about ways you can build all three at the same time<br>
 > - [Quicy Larson](https://twitter.com/ossia/status/1079942716480344065)
 
-## 20190329 - Day 70 (Friday)
+---
+
+## 20190329 - Friday - Day 70
 
 __Today's progress:__
-1. [x] One more content to add in the Tech Doc project 
-1. [ ] Some responsive and Media Queries to take care of as well
-1. [ ] Deploy
-1. [ ] Validate
+- [x] One more content to add in the Tech Doc project 
 
 __Exploration:__ Travis CI and Continuous Integration, should look how to implement it on one of my repos
 
-## 20190328 - Day 69 (Thursday)
+## 20190328 - Thursday - Day 69
 
 __Today's progress:__
-1. [ ] Still focused on finishing the content in the Tech Doc project 
-1. [ ] Some responsive and Media Queries to take care of as well
+- [ ] Still focused on finishing the content in the Tech Doc project 
+- [ ] Some responsive and Media Queries to take care of as well
 
 Next will be ~~fixing the &lt;br&gt;,~~ re-reading it all, performing a last W3C verification and validate
 
 __Thoughts:__ Slow start :turtle:
 
-## 20190327 - Day 68 (Wednesday)
+## 20190327 - Wednesday - Day 68
 
 __Today's progress:__
 - [x] Focused on finishing the content in the Tech Doc project 
@@ -381,30 +363,26 @@ __Today's progress:__
 
 __Thoughts:__ Good start :princess:
 
-## 20190326 - Day 67 (Tuesday)
+## 20190326 - Tuesday - Day 67 
 
 __Today's progress:__
 - [x] Still adding the content in the Tech Doc project (yep, another day of that, but things are moving on!)
 - [x] Hope to do something about the Bull project :ox:
 
-__Thoughts:__
-Wish I could start coding earlier in the day and would have less busy mornings with stuff :weary:
+__Thoughts:__ Wish I could start coding earlier in the day and would have less busy mornings with stuff :weary:
 
-## 20190325 - Day 66 (Monday)
+## 20190325 - Monday - Day 66
 
 __Today's progress:__
 - [x] Still adding the content in the Tech Doc project
 
-__Thoughts:__
-Tempted to get a ticket for Eve Porcello workshop in London on May, 2nd 2019, the day before ReactJSGirl. It's on GraphQL and it would be the perfect opportunity to pratice GraphQL with React
+__Thoughts:__ Tempted to get a ticket for Eve Porcello workshop in London on May, 2nd 2019, the day before ReactJSGirl. It's on GraphQL and it would be the perfect opportunity to pratice GraphQL with React
 Also checked her GraphQL course on LinkedIn
 As soon as I'm done with reviewing/ practicing React, GraphQL sounds so tempting.
 
+## 20190323 - Saturday
 
-## 20190323 - Day off
-
-__Event:__
-NodeSchool Paris Meetup
+__Event:__ NodeSchool Paris Meetup
 
 __New resources:__
 * Douglas Crockford, on Fontend masters
@@ -428,7 +406,7 @@ __Today's progress:__
 
 ## 20190320 - Day 63
 
-__<ins>Decided to start this log for the 2nd time</ins>__ and in a more personal way to make the process sustainable on the long term
+<ins><b>Decided to start this log for the 2nd time</b> and in a more personal way to make the process sustainable on the long term</ins>
 
 __Today's progress:__ a lot of things on the Portefolio project
 
@@ -446,7 +424,7 @@ __Ideas:__
 
 __Question:__ will there be a fCC JAMstack hachathon on 2019? That'd be fun :smiley:
 
-__Remembered about this:__ [codeweek.eu](https://codeweek.eu/about/)
+__To keep in mind:__ [codeweek.eu](https://codeweek.eu/about/)
 
 ---
 
