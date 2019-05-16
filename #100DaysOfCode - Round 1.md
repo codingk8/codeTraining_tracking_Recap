@@ -413,15 +413,16 @@ __Priority stack:__
 - [X] *Projects:* Season 2 of Picasso project for fCC7.0
 - [ ] *Projects:* CSS Picasso, finish the draft and validate the final version
 
-- [ ] *Project:* fCC Landing page project (en + fr | dark mode ? | burger menu | think through that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate...)
+- [ ] *Project:* fCC __Landing page project__ (en + fr | dark mode ? "rad" :wink: | burger menu | think through that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate...)
 
 
 - [ ] *Fine tuning:* Perform the W3C verification on the __Tech doc project + Survey form + Portefolio__  
 
 - [ ] *Fine tuning:* Track bugs in links names in the __Tech doc project__  
-- [ ] *Fine-tuning:* Add a burger nav to the __Tech doc project__ [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783) may be also to the Tribute page project, and to the portefolio project
 
-- [ ] *Fine-tuning:* Change the __Tribute page project__ end text effect and choose one in CSS + change the grey color to a draker one
+- [ ] *Fine-tuning:* Add a burger nav to the __Tech doc project__ [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783) may be also to the __Tribute page project__ and to the __portefolio project__
+
+- [ ] *Fine-tuning:* Change the __Tribute page project__ end text effect and choose one in CSS + change the grey color to a darker one
 - [ ] *Fine-tuning:* In the __Tribute page project__, clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 
 - [ ] *Project:* fCC __portefolio project__ (to be finished as the closure of the RWD certification)
