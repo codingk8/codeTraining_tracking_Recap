@@ -53,9 +53,9 @@ __Also:__
 
 ---
 
-## 20190516 - Thursday - Day 83 ?
+## 20190516 - Thursday
 
-__Today's progress:__
+__Today's progress:__ Some GitHub usefulness and beautification
 - [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
 
 __Actions:__ very positive hangout with Kris about the CSS Picasso project.  
