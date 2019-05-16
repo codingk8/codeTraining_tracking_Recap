@@ -15,16 +15,16 @@
 | :heavy_check_mark: | __Project__ | fCC RWD 1 - [Tribute page](https://github.com/codingk8/shooting-for-the-moon) | 201904 |
 | :heavy_check_mark: | *Training* | [Web Apps Modernes](https://delicious-insights.com/fr/formations/web-apps-modernes/) | 201904 |
 | :heavy_check_mark: | *Workshop* | ReactJSGirls London - GraphQL | 201905 |
-| :heavy_check_mark: | __Open source__ | fCC next curriculum - Learn CSS by building a Picasso painting | 201906 |
-| :heavy_check_mark: | __Project__ | fCC RWD 3 - Landing page | 201906 |
-| :heavy_check_mark: | __Project__ | fCC RWD 5 - Professional portefolio | 201606 |
-| :heavy_check_mark: | <ins>Milestone</ins> | <ins>fCC RWD certification</ins> | 201906 |
-| :heavy_check_mark: | ??? | ??? | ??? |
-| :heavy_check_mark: | ??? | ??? | ??? |
-| :heavy_check_mark: | ??? | ??? | ??? |
-| :heavy_check_mark: | ??? | ??? | ??? |
-| :heavy_check_mark: | ??? | ??? | ??? |
-| :heavy_check_mark: | ??? | ??? | ??? |
-| :heavy_check_mark: | ??? | ??? | ??? |
+| :steps: | __Open source__ | fCC next curriculum - Learn CSS by building a Picasso painting | 201906 |
+| :steps: | __Project__ | fCC RWD 3 - Landing page | 201906 |
+| :steps: | __Project__ | fCC RWD 5 - Professional portefolio | 201606 |
+| :steps: | <ins>Milestone</ins> | <ins>fCC RWD certification</ins> | 201906 |
+| :dart: | ??? | ??? | ??? |
+| :dart: | ??? | ??? | ??? |
+| :dart: | ??? | ??? | ??? |
+| :dart: | ??? | ??? | ??? |
+| :dart: | ??? | ??? | ??? |
+| :dartk: | ??? | ??? | ??? |
+| :dart: | ??? | ??? | ??? |
 
 
