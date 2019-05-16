@@ -62,7 +62,7 @@ __Actions:__ very positive hangout with Kris about the CSS Picasso project.
 Next steps are: fix the 4 issues, validate the final draft, create the steps  
 In the mentime, I can fork & clone the repo + create a branch + create the directory structure...
 
-__Thoughts:__ Enthousiasm and focus/priorities :dart:
+__Thoughts:__ Enthousiasm and focus/priorities
 
 ## 20190515 - Wednesday - Day 82
 
