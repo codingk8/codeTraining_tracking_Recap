@@ -57,6 +57,7 @@ __Also:__
 
 __Today's progress:__ Some GitHub usefulness and beautification
 - [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
+- [ ] Fix the image link in the projects GitHub readmes
 
 __Actions:__ very positive hangout with Kris about the CSS Picasso project.  
 Next steps are: fix the 4 issues, validate the final draft, create the steps  
