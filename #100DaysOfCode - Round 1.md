@@ -19,7 +19,6 @@ __Priority stack:__
 
 - [ ] *Project:* fCC __Landing page project__ (en + fr | dark mode ? "rad" :wink: | burger menu | think through that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate...)
 
-
 - [ ] *Fine tuning:* Perform the W3C verification on the __Tech doc project + Survey form + Portefolio__  
 
 - [ ] *Fine tuning:* Track bugs in links names in the __Tech doc project__  
@@ -49,11 +48,7 @@ __Ideas to follow-through with:__
 - [ ] Ask the question about embedded video in #100DaysOfCode Slack + fCC Forum
 
 __Also:__
-- [ ] *Fine-tuning:* Add a burger nav to the Tech doc project - [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783) may be also to the Tribute page project, and to the portefolio project
-- [ ] *Fine-tuning:* Change the Tribute page project end text effect and choose one in CSS
-- [ ] *Fine-tuning:* Clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 - [ ] *Fine-tuning:* How to make the zoom in effect without the size change (CSS or JS?)
-
 - [ ] *Tutorial:* Node School (make a list)
 
 ---
@@ -79,14 +74,14 @@ __Thoughts:__ It feels good when my brain is in the flow
 
 ## 20190514 - Tuesday - Day 81! YES!
 
-__Today's progress:__ Working on the Picasso project for fCC 7.0. Done 80%. Asked the question about Responsive that is a bit diffucult because of the triangles and border-width accepting only pixels. Will finish and submit tomorrow.
+__Today's progress:__ Working on the Picasso project for fCC 7.0. Done 80%. Asked the question about Responsive that is a bit difficult because of the triangles and border-width accepting only pixels. Will finish and submit tomorrow.
 
 __Thoughts:__ Organize and find the flow  
 A full empty week, empty days, each day with one main coding task and 3 add-ons and the everyday mundane (up to 3 as well), that sounds like the best routine. Then mix passion with discipline. Procrastination is alsways an indication of some kind of conflict. Find it and solve it to get back in the flow.  
 Will organized those at least 3 empty days per week.  
 Should also give a try to 3 days / 1 days off rhythm to see how it work. May be a bit mùore difficult to organize but let's see.
 
-## 20190513 - Monday - Not enough to call it a code day but...
+## 20190513 - Monday - Not enough code
 
 __Today's progress:__ Did some research about the logo for the Landing page project. Wrote a list of ideas and possibilities. Will spleep on it while I finish the Picasso project.
 
@@ -406,7 +401,7 @@ __Today's progress:__
 
 ## 20190320 - Day 63
 
-<ins><b>Decided to start this log for the 2nd time</b> and in a more personal way to make the process sustainable on the long term</ins>
+<ins><b>Decided to start this log for the 2nd time and in a more personal way to make the process sustainable</b></ins>
 
 __Today's progress:__ a lot of things on the Portefolio project
 
