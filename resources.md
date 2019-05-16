@@ -65,24 +65,50 @@ __Treehouse__
 [this](http://cssgridgarden.com/#fr)  
 [this](https://gedd.ski/post/grid-beats-flexbox-full-page-layout/)  
 
+[flexbox \ grid](https://medium.freecodecamp.org/the-main-differences-between-flexbox-and-css-grid-667c03461d2b)
+
 ## JavaScript
 
 [this](https://github.com/ryanmcdermott/clean-code-javascript)  
 [this](https://learnvanillajs.com/roadmap/)
 
+[debugging](https://medium.freecodecamp.org/debugging-javascript-for-beginners-5d4ac15dd1cd)
+
 ## React
 
 [this](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
+
+## JAMstack
+
+https://flaviocopes.com/jamstack/
 
 ## CLI, Shell & Unix
 
 ## Webpack
 
+Eve Porcello on Lynda & The Net Ninja
+
 ## Git & GitHub
 [Udacity](https://eu.udacity.com/course/optimize-your-github--ud247)  
 [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 
+https://twitter.com/freeCodeCamp/status/1097300667260174337?s=20
+
+https://vickylai.com/verbose/git-commit-practices-your-future-self-will-thank-you-for/
+
 ## HTTP network
+
+## Typescript
+
+https://egghead.io/lessons/react-configure-typescript-for-react-and-jsx
+
+https://egghead.io/courses/practical-advanced-typescript
+
+https://medium.freecodecamp.org/how-to-wrap-your-head-around-typescript-generics-8d243f7de78
+
+https://flaviocopes.com/typescript/
+
+
 
 
 ---
