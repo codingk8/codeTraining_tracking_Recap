@@ -3,14 +3,14 @@
 
 ---
 
+## #100DaysOfCode challenge 👩🏻‍💻 [Logs](https://github.com/codingk8/codeTraining_tracking_Recap/blob/master/%23100DaysOfCode%20-%20Round%201.md)
+
+---
+
 ## freeCodeCamp 👩🏻‍🎓 [Public profile](https://www.freecodecamp.org/codingk8)
 
 ### Certifications
 ##### 🏅[JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
-
----
-
-## #100DaysOfCode challenge 👩🏻‍💻 [Logs](https://github.com/codingk8/codeTraining_tracking_Recap/blob/master/%23100DaysOfCode%20-%20Round%201.md)
 
 ---
 
