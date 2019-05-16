@@ -39,14 +39,16 @@ __Egghead__
 
 
 ### Paying
-- Treehouse
-- Frontend masters
+
+__Frontend masters__
+
+__Treehouse__
 
 ---
 
 ## To explore
 
-[this](https://tylermcginnis.com/subscribe/)
+[this](https://tylermcginnis.com/subscribe/)  
 [this](https://www.robinwieruch.de/node-express-server-rest-api/)
 
 
@@ -59,7 +61,6 @@ __Egghead__
 ## JavaScript
 
 [this](https://github.com/ryanmcdermott/clean-code-javascript)
-
 [this](https://learnvanillajs.com/roadmap/)
 
 ## React
@@ -71,7 +72,7 @@ __Egghead__
 ## Webpack
 
 ## Git & GitHub
-[Udacity](https://eu.udacity.com/course/optimize-your-github--ud247)
+[Udacity](https://eu.udacity.com/course/optimize-your-github--ud247)  
 [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 
 
