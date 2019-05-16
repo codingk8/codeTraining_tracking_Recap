@@ -428,7 +428,7 @@ __To keep in mind:__ [codeweek.eu](https://codeweek.eu/about/)
 
 ---
 
-## All informations about the #100DaysOfCode challenge:  
+## All informations about the #100DaysOfCode challenge  
 [Official website](https://www.100daysofcode.com/)  
 [GitHub repo](https://github.com/kallaway/100-days-of-code)
 
