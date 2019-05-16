@@ -390,10 +390,20 @@ __Link to work:__ [CSS Picasso](https://codepen.io/codingk8/full/qGOXmM?editors=
 ## 20190515 - Wednesday - Day 82
 
 __Today's progress:__
-- [x] Finishing the first draft of CSS Picasso and sending it on GitHub
-- [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
+- [x] Finishing the first draft of CSS Picasso and sending it on GitHub - All on [this twit](https://twitter.com/codingk8/status/1128693825218797569)
 
 __Thoughts:__ It feels good when my brain is in the flow
+
+## 20190516 - Thursday - Day 83 ?
+
+__Today's progress:__
+- [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
+
+__Actions:__ very positive hangout with Kris about the CSS Picasso project.  
+Next steps are: fix the 4 issues, validate the final draft, create the steps  
+In the mentime, I can fork & clone the repo + create a branch + create the directory structure...
+
+__Thoughts:__ Enthousiasm and focus/priorities :dart:
 
 ---
 
@@ -401,13 +411,20 @@ __Thoughts:__ It feels good when my brain is in the flow
 
 __Priority stack:__
 - [X] *Projects:* Season 2 of Picasso project for fCC7.0
-- [ ] *Project:* fCC Landing page project (en + fr | dark mode ? | burger menu | think thourgh that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate)
-- [ ] *Project:* fCC portefolio project (to be finished as the closure of the RWD certification)
+- [ ] *Projects:* CSS Picasso, finish the draft and validate the final version
 
-- [ ] *Fine tuning:* Perform the W3C verification on the Survey form project (to be finished)
-- [ ] *Fine tuning:* Track bugs in the Tech doc project
-- [ ] *Fine tuning:* Perform the W3C verification on the Tech doc project + Survey form + Portefolio  
-See below in the "Also" section, more fine tuning on RWD projects
+- [ ] *Project:* fCC Landing page project (en + fr | dark mode ? | burger menu | think through that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate...)
+
+
+- [ ] *Fine tuning:* Perform the W3C verification on the __Tech doc project + Survey form + Portefolio__  
+
+- [ ] *Fine tuning:* Track bugs in links names in the __Tech doc project__  
+- [ ] *Fine-tuning:* Add a burger nav to the __Tech doc project__ [See here](https://medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783) may be also to the Tribute page project, and to the portefolio project
+
+- [ ] *Fine-tuning:* Change the __Tribute page project__ end text effect and choose one in CSS + change the grey color to a draker one
+- [ ] *Fine-tuning:* In the __Tribute page project__, clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
+
+- [ ] *Project:* fCC __portefolio project__ (to be finished as the closure of the RWD certification)
 - [ ] *Wrap:* fCC RWD certification
 
 - [ ] *Tutorial:* Resume React & finish fCC notes
