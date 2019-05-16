@@ -118,6 +118,9 @@ https://medium.freecodecamp.org/how-to-wrap-your-head-around-typescript-generics
 
 https://flaviocopes.com/typescript/
 
+## API ti use in projects
+
+https://dog.ceo/dog-api/
 
 
 
