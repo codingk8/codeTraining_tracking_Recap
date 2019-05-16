@@ -1,4 +1,4 @@
-# #100DaysOfCode - Round 1
+# #100DaysOfCode - Round 1 - 20181223 -> ?
 
 The log of my #100DaysOfCode challenge.   
 Started on December 23, 2018 :christmas_tree:  
