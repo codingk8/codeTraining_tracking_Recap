@@ -1,5 +1,5 @@
 | Progress | Type | Title | Date |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :--- | :---: |
 | :heavy_check_mark: | Course | [freeCodeCamp](https://learn.freecodecamp.org/) - Responsive Web Design | 201807 - 201905 |
 | :heavy_check_mark: | Tutorial | NodeSchool - ??? | 201811 |
 | :heavy_check_mark: | Course | [freeCodeCamp](https://learn.freecodecamp.org/) - JavaScript | 201810 - 201901 |
