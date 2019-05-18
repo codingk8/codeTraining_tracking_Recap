@@ -17,7 +17,16 @@ __Priority stack:__
 - [ ] PR the project
 - [ ] PR merge
 
-*Project:* fCC __Landing page project__ (en + fr | dark mode ? "rad" :wink: | burger menu | think through that logo thing for all social media | sponsors' corner... Lots of good stuff + experiment with the webpack boiler plate...)
+*Project:* fCC __Landing page project__ 
+- [ ] v1 version
+- [ ] final version
+- [ ] en + fr
+- [ ] dark mode ? "rad" :wink
+- [ ] stinky nav
+- [ ] responsive burger menu
+- [ ] think through that logo thing for all social media
+- [ ] sponsors' corner
+- [ ] webpack boiler plate & NPM packages
 
 *Projects*
 - [ ] *Fine tuning:* Perform the W3C verification on the __Tech doc project + Survey form + Portefolio__  
