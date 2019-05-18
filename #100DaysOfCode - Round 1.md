@@ -51,6 +51,14 @@ __Also:__
 
 ---
 
+## 20190518 - Saturday
+
+__Event organization and animation:__ freeCodeCamp Paris Meetup #6
+
+## 20190517 - Friday
+
+__Today's progress:__ Fine-tuned the fCC Landing page project frame
+
 ## 20190516 - Thursday
 
 __Today's progress:__ Some GitHub usefulness and beautification
