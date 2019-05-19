@@ -12,14 +12,14 @@ __Priority stack:__
 
 *Project:* CSS Picasso project for fCC7.0
 - [x] Finished and submitted 1st draft (15/05)
-- [ ] Validate final version
+- [ ] Validate final version (target 22/05)
 - [ ] Prepare Repo and files structure
 - [ ] PR the project
 - [ ] PR merge
 
 *Project:* fCC __Landing page project__ 
-- [ ] v1 version
-- [ ] final version
+- [ ] v1 version (target 24/05)
+- [ ] final version (target 31/05)
 - [ ] en + fr
 - [ ] dark mode ? "rad" :wink
 - [ ] stinky nav
@@ -35,9 +35,11 @@ __Priority stack:__
 - [ ] *Fine-tuning:* Change the __Tribute page project__ end text effect and choose one in CSS + change the grey color to a darker one
 - [ ] *Fine-tuning:* In the __Tribute page project__, clarify the Sticky anomaly, make a test file and see what works ([here](https://developer.mozilla.org/fr/docs/Web/CSS/position) [here](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/))
 
-- [ ] *Project:* fCC __portefolio project__ (to be finished as the closure of the RWD certification)
-- [ ] *Wrap:* fCC RWD certification
+*Milestone*
+- [ ] *Project:* fCC __portefolio project__ (to be finished as the closure of the RWD certification - Target 06/06)
+- [ ] *Wrap:* fCC RWD certification (target 06/06)
 
+*React / Redux*
 - [ ] *Tutorial:* Resume React & finish fCC notes
 - [ ] *Tutorial:* Resume React on Scrimba & finish the tutorial and the two projects
 - [ ] *Tutorials:* Explore possibilities and other availables tutos and resources (Wes Bos...)
