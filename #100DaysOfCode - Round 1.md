@@ -60,6 +60,8 @@ __Also:__
 
 ---
 
+## 20190519 - Sunday
+
 ## 20190518 - Saturday
 
 __Event organization and animation:__ freeCodeCamp Paris meetup #6 + Ladies Of Code "side-projects" meetup
