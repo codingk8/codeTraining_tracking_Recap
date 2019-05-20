@@ -29,7 +29,7 @@ __NodeSchool__ See specific recap
 ### Some free some not
 __Udacity:__ 18 free courses on JavaScript
 
-__Wes Bos:__ 11 tutorials, [recap](https://wesbos.com/courses/)
+__[Wes Bos:](https://wesbos.com/courses/)__ 11 tutorials
 - [x] Mastering Markdown (free) - 201902
 - [x] What is Flexbox ? (free) - 201901
 - [ ] CSS grid (free)
@@ -50,9 +50,11 @@ __[Code academy](https://www.codecademy.com/)__
 
 ### Paying
 
-__Frontend masters__
+__[Frontend masters](https://frontendmasters.com/)__
 
-__Treehouse__
+__[Team Treehouse](https://teamtreehouse.com/)__
+- [ ] Front end development
+- [ ] Fullstack JavaScript
 
 ---
 
