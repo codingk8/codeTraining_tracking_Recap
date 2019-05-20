@@ -2,6 +2,9 @@
 
 ## Table of contents  
 
+__[Road maps](#road-maps)__  
+
+
 __[Multi-themes resources](#multi-themes-resources)__  
 [On-line bootcamps](#on-line-bootcamps)  
 [On-line courses](#on-line-courses)  
@@ -14,19 +17,16 @@ __[Mono-theme resources](#mono-theme-resources)__
 [JavaScript](#javascript)
 [React](#react)
 
-
 ---
 
-Books  
-Blogs  
-Courses  
-Stand-alone tutorials (by subjects) 
-On-line bootcamps
+<h2 id="road-maps">Road maps</h2>
 
-https://hackr.io/
+https://github.com/kamranahmedse/developer-roadmap  
+https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code/  
+https://github.com/bradtraversy/A-to-Z-Resources-for-Students  
 
-https://github.com/bradtraversy/A-to-Z-Resources-for-Students
-
+__Some wisdom__  
+https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 <h2 id="multi-themes-resources">Multi-themes resources</h2>
 
@@ -297,6 +297,8 @@ https://flaviocopes.com/typescript/
 
 https://dog.ceo/dog-api/
 
+---
 
+https://hackr.io/
 
 ---
