@@ -54,13 +54,6 @@ __[Team Treehouse](https://teamtreehouse.com/)__
 - [ ] [Front end development](https://join.teamtreehouse.com/front-end-web-development-techdegree/)
 - [ ] [Fullstack JavaScript](https://teamtreehouse.com/techdegree/full-stack-javascript-2)
 
-__[Frontend masters](https://frontendmasters.com/)__  
-- [ ] [Beginner](https://frontendmasters.com/learn/beginner/)
-- [ ] [Professional](https://frontendmasters.com/learn/professional/)
-- [ ] [Expert](https://frontendmasters.com/learn/advanced/)
-- [ ] [Design to code](https://frontendmasters.com/learn/designers-code/)
-- [ ] [Fullstack](https://frontendmasters.com/learn/fullstack/)
-
 __[Lambda school](https://lambdaschool.com/)__  
 - [ ] Full stack web
 
@@ -75,15 +68,20 @@ __[Viking Code School free prep](https://www.thinkful.com/blog/the-beginners-dil
 __[Lambda school(#)__   (free prep part)
 
 
-
-
 ### *__Paid__*
 
-
+__[Frontend masters](https://frontendmasters.com/)__  
+- [ ] [Beginner](https://frontendmasters.com/learn/beginner/)
+- [ ] [Professional](https://frontendmasters.com/learn/professional/)
+- [ ] [Expert](https://frontendmasters.com/learn/advanced/)
+- [ ] [Design to code](https://frontendmasters.com/learn/designers-code/)
+- [ ] [Fullstack](https://frontendmasters.com/learn/fullstack/)
 
 <h2 id="on-line-courses"><ins>On-line courses</ins></h2>
 
 ### *__Free__*
+
+__[Solo learn courses](https://www.sololearn.com/Courses/)__
 
 __[Scrimba](https://scrimba.com/)__
 - [ ] React (best!)
@@ -104,9 +102,8 @@ __[Solo learn](https://www.sololearn.com/)__ ??? Bootcamp ???
 __[Lambda school on YouTube](https://www.youtube.com/channel/UCmgWnKIhmOi-MuRUC62mOFw)__  
 Have a look at this Stuff about JS and the DOM by Jonas
 
-
-
 ### *__Some free some not__*
+
 __[Udacity:](https://eu.udacity.com/)__ 18 free courses on JavaScript
 
 __[Wes Bos:](https://wesbos.com/courses/)__ 11 tutorials
@@ -126,16 +123,20 @@ __[Egghead](https://egghead.io/)__
 https://egghead.io/courses/functional-programming-in-javascript-with-ramda-js  
 https://egghead.io/courses/getting-started-with-algolia-instantsearch-js
 
-
-__[Code academy](https://www.codecademy.com/)__ Promo sometimes for pro plans
-
-
+__[Code academy](https://www.codecademy.com/)__ Promo sometimes for pro plans + hard to know wht is free what is not without an account
 
 ### *__Paid__*
 
-[Frontend masters courses](https://frontendmasters.com/courses/)
+__[Frontend masters](https://frontendmasters.com/)__  
+- [ ] [JavaScript](https://frontendmasters.com/learn/javascript/)
+- [ ] [CSS](https://frontendmasters.com/learn/css/)
+- [ ] [Node.js](https://frontendmasters.com/learn/node-js/)
+- [ ] [React.js](https://frontendmasters.com/learn/react/)
+- [ ] [Webpack](https://frontendmasters.com/learn/webpack/)
 
-[this guy](https://roadtoreact.com/) Books and courses
+__[Frontend masters courses](https://frontendmasters.com/courses/)__
+
+__[this guy](https://roadtoreact.com/) Books and courses__
 
 
 <h2 id="blogs"><ins>Blogs</ins></h2>
