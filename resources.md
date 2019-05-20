@@ -121,8 +121,12 @@ https://github.com/leonardomso/33-js-concepts
 
 ## React
 
+[Dan Abramov's blog Overreacted](https://overreacted.io/)
+
 [this](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)  
 [fCC course](https://www.freecodecamp.org/news/learn-react-course/) on [youtube)(https://www.youtube.com/watch?v=DLX62G4lc44)
+
+https://overreacted.io/how-does-react-tell-a-class-from-a-function/
 
 
 ### Hooks
@@ -189,9 +193,11 @@ https://twitter.com/freeCodeCamp/status/1097300667260174337?s=20
 https://vickylai.com/verbose/git-commit-practices-your-future-self-will-thank-you-for/
 
 https://medium.freecodecamp.org/the-essential-git-handbook-a1cf77ed11b5  
-https://medium.freecodecamp.org/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861
+https://medium.freecodecamp.org/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861  
+https://medium.com/p/the-basics-of-version-control-git-commands-in-less-than-10-minutes-c53922625a73 ??? link broken
 
-https://egghead.io/courses/productive-git-for-developers
+https://egghead.io/courses/productive-git-for-developers  
+https://egghead.io/lessons/git-move-some-commits-to-a-separate-branch-that-i-have-accidentally-committed-to-master
 
 
 ## CI
