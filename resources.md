@@ -22,6 +22,7 @@ __[Mono-theme resources](#mono-theme-resources)__
 <h2 id="road-maps">Road maps</h2>
 
 https://github.com/kamranahmedse/developer-roadmap  
+https://frontendmasters.com/books/front-end-handbook/2019/ (also https://github.com/FrontendMasters/front-end-handbook-2018)
 https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code/  
 https://github.com/bradtraversy/A-to-Z-Resources-for-Students  
 
@@ -32,7 +33,7 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 <h3 id="on-line-bootcamps">On-line bootcamps</h3>
 
-#### Free
+### Free
 
 __freeCodeCamp__
 
@@ -43,17 +44,13 @@ __freeCodeCamp__
 - [ ] xxx
 - [ ] xxx
 
-#### Paid
+### Paid
 
 __[Team Treehouse](https://teamtreehouse.com/)__
 - [ ] [Front end development](https://join.teamtreehouse.com/front-end-web-development-techdegree/)
 - [ ] [Fullstack JavaScript](https://teamtreehouse.com/techdegree/full-stack-javascript-2)
 
-
 __[Frontend masters](https://frontendmasters.com/)__  
-The amazing __[2019 handbook](https://frontendmasters.com/books/front-end-handbook/2019/)__  
-Also https://github.com/FrontendMasters/front-end-handbook-2018
-
 
 __[Lambda school(#)__  
 
@@ -62,7 +59,7 @@ __[Lambda school(#)__
 
 ### On-line tutorials{#on-line-tutorials}
 
-#### Free
+### Free
 
 __[Viking Code School free prep](https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code/)__
 
