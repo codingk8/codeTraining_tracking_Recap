@@ -13,7 +13,7 @@ https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code
 
 ## Stories
 
-
+https://medium.freecodecamp.org/how-i-went-from-complete-beginner-to-software-developer-and-how-you-can-too-dd36ed08e11b
 
 
 ## Portefolios
