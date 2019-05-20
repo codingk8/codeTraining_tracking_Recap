@@ -1,9 +1,11 @@
 # Code resources
 
 ## Table of contents  
-[Free on-line bootcamps](#free-on-line-bootcamps)  
-[Free on-line courses](#free-on-line-courses)  
-[Free on-line tutorials](#free-on-line-tutorials)  
+
+__[Multi-themes resources](#multi-themes-resources)__  
+[On-line bootcamps](#on-line-bootcamps)  
+[On-line courses](#on-line-courses)  
+[On-line tutorials](#on-line-tutorials)  
 
 
 ---
@@ -19,7 +21,11 @@ https://hackr.io/
 https://github.com/bradtraversy/A-to-Z-Resources-for-Students
 
 
-<h3 id="free-on-line-bootcamps">Free on-line bootcamps</h3>
+<h2 id="multi-themes-resources">Multi-themes resources</h2>
+
+<h3 id="on-line-bootcamps">On-line bootcamps</h3>
+
+#### Free
 
 __freeCodeCamp__
 
@@ -30,11 +36,43 @@ __freeCodeCamp__
 - [ ] xxx
 - [ ] xxx
 
-### Free on-line tutorials{#free-on-line-tutorials}
+#### Paid
+
+__[Team Treehouse](https://teamtreehouse.com/)__
+- [ ] [Front end development](https://join.teamtreehouse.com/front-end-web-development-techdegree/)
+- [ ] [Fullstack JavaScript](https://teamtreehouse.com/techdegree/full-stack-javascript-2)
+
+
+__[Frontend masters](https://frontendmasters.com/)__  
+The amazing __[2019 handbook](https://frontendmasters.com/books/front-end-handbook/2019/)__  
+Also https://github.com/FrontendMasters/front-end-handbook-2018
+
+
+__[Lambda school(#)__  
+
+
+
+
+### On-line tutorials{#on-line-tutorials}
+
+#### Free
 
 __[Viking Code School free prep](https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code/)__
 
+__[Lambda school(#)__   (free prep part)
+
+
+
+
+#### Paid
+
+
+
+
 ### Free on-line courses{#free-on-line-courses}
+
+
+#### Free
 
 __[Scrimba](https://scrimba.com/)__
 - [ ] React (best!)
@@ -52,8 +90,13 @@ __NodeSchool__ See specific recap
 
 __[Solo learn](https://www.sololearn.com/)__ ???
 
+__[Lambda school(#)__  
+[on youtube](https://www.youtube.com/channel/UCmgWnKIhmOi-MuRUC62mOFw) Have a look at this  
+Stuff about JS and the DOM by Jonas
 
-### Some free some not
+
+
+#### Some free some not
 __[Udacity:](https://eu.udacity.com/)__ 18 free courses on JavaScript
 
 __[Wes Bos:](https://wesbos.com/courses/)__ 11 tutorials
