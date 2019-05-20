@@ -42,7 +42,9 @@ __Wes Bos:__ 11 tutorials, [recap](https://wesbos.com/courses/)
 - [ ] Command Line Power User
 - [ ] Sublime Text Power User
 
-__Egghead__
+__[Egghead](https://egghead.io/)__
+
+__[Code academy](https://www.codecademy.com/)__
 
 
 
