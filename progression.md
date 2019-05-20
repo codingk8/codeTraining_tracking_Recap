@@ -2,6 +2,7 @@ __2017__
 | Progress | Type | Title | Date |
 | :---: | :---: | :--- | :---: |
 | :+1: | *Bootcamp* | Wild Code School | 201709 - 201802 |
+
 __2018__
 | Progress | Type | Title | Date |
 | :---: | :---: | :--- | :---: |
@@ -11,6 +12,7 @@ __2018__
 | :+1: | *Course* | [freeCodeCamp](https://learn.freecodecamp.org/) - JavaScript | 201810 - 201901 |
 | :heavy_check_mark: | __Project__ | fCC JS1 - Palindrome Checker | 201812 |
 | :heavy_check_mark: | __Project__ | fCC JS2 - Roman Numeral Converter | 201811 |
+
 __2019__
 | Progress | Type | Title | Date |
 | :---: | :---: | :--- | :---: |
