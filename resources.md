@@ -38,7 +38,7 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 <h2 id="on-line-bootcamps"><ins>On-line bootcamps</ins></h2>
 
-### Free
+### *__Free__*
 
 __[freeCodeCamp](https://www.freecodecamp.org/)__
 - [ ] Responsive Web Design (201906)
@@ -48,7 +48,7 @@ __[freeCodeCamp](https://www.freecodecamp.org/)__
 - [ ] APIs and microservices
 - [ ] Information security and quality assurance
 
-### Paid
+### *__Paid__*
 
 __[Team Treehouse](https://teamtreehouse.com/)__
 - [ ] [Front end development](https://join.teamtreehouse.com/front-end-web-development-techdegree/)
@@ -68,7 +68,7 @@ __[Lambda school](https://lambdaschool.com/)__
 
 <h2 id="on-line-tutorials"><ins>On-line tutorials</ins></h2>
 
-### Free
+### *__Free__*
 
 __[Viking Code School free prep](https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code/)__
 
@@ -77,13 +77,13 @@ __[Lambda school(#)__   (free prep part)
 
 
 
-### Paid
+### *__Paid__*
 
 
 
 <h2 id="on-line-courses"><ins>On-line courses</ins></h2>
 
-### Free
+### *__Free__*
 
 __[Scrimba](https://scrimba.com/)__
 - [ ] React (best!)
@@ -106,7 +106,7 @@ Have a look at this Stuff about JS and the DOM by Jonas
 
 
 
-### Some free some not
+### *__Some free some not__*
 __[Udacity:](https://eu.udacity.com/)__ 18 free courses on JavaScript
 
 __[Wes Bos:](https://wesbos.com/courses/)__ 11 tutorials
@@ -131,7 +131,7 @@ __[Code academy](https://www.codecademy.com/)__ Promo sometimes for pro plans
 
 
 
-### Paid
+### *__Paid__*
 
 [Frontend masters courses](https://frontendmasters.com/courses/)
 
