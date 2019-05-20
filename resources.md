@@ -29,6 +29,8 @@ https://github.com/bradtraversy/A-to-Z-Resources-for-Students
 __Some general wisdom on learning to code__  
 https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
+---
+
 <h1 id="multi-themes-resources">Multi-themes resources</h1>
 
 <h2 id="on-line-bootcamps"><ins>On-line bootcamps</ins></h2>
