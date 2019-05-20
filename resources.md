@@ -31,7 +31,7 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 <h2 id="multi-themes-resources">Multi-themes resources</h2>
 
-<h3 id="on-line-bootcamps">On-line bootcamps</h3>
+<h3 id="on-line-bootcamps"><ins>On-line bootcamps</ins></h3>
 
 ### Free
 
@@ -55,8 +55,7 @@ __[Lambda school(#)__
 
 
 
-
-### On-line tutorials{#on-line-tutorials}
+<h3 id="on-line-tutorials"><ins>On-line tutorials</ins></h3>
 
 ### Free
 
@@ -67,15 +66,13 @@ __[Lambda school(#)__   (free prep part)
 
 
 
-#### Paid
+### Paid
 
 
 
+<h3 id="on-line-courses"><ins>On-line courses</ins></h3>
 
-### Free on-line courses{#free-on-line-courses}
-
-
-#### Free
+### Free
 
 __[Scrimba](https://scrimba.com/)__
 - [ ] React (best!)
@@ -91,11 +88,10 @@ __The Net Ninja__ [On YouTube](https://www.youtube.com/channel/UCW5YeuERMmlnqo4o
 
 __NodeSchool__ See specific recap
 
-__[Solo learn](https://www.sololearn.com/)__ ???
+__[Solo learn](https://www.sololearn.com/)__ ??? Bootcamp ???
 
-__[Lambda school(#)__  
-[on youtube](https://www.youtube.com/channel/UCmgWnKIhmOi-MuRUC62mOFw) Have a look at this  
-Stuff about JS and the DOM by Jonas
+__[Lambda school on YouTube](https://www.youtube.com/channel/UCmgWnKIhmOi-MuRUC62mOFw)__  
+Have a look at this Stuff about JS and the DOM by Jonas
 
 
 
@@ -126,31 +122,21 @@ __[Code academy](https://www.codecademy.com/)__ Promo sometimes for pro plans
 
 ### Paying
 
-__[Frontend masters](https://frontendmasters.com/)__  
-The amazing __[2019 handbook](https://frontendmasters.com/books/front-end-handbook/2019/)__  
-Also https://github.com/FrontendMasters/front-end-handbook-2018
-
-__[Team Treehouse](https://teamtreehouse.com/)__
-- [ ] [Front end development](https://join.teamtreehouse.com/front-end-web-development-techdegree/)
-- [ ] [Fullstack JavaScript](https://teamtreehouse.com/techdegree/full-stack-javascript-2)
-
-__[Lambda school(#)__  
-[on youtube](https://www.youtube.com/channel/UCmgWnKIhmOi-MuRUC62mOFw) Have a look at this  
-Stuff about JS and the DOM by Jonas
 
 [this guy](https://roadtoreact.com/) Books and courses
 
 ---
-
-## Blogs 
+<h3 id="blogs"><ins>Blogs</ins></h3>
 
 https://www.valentinog.com/
+
+[Zen of programming by Ali](https://zen-of-programming.com/)
 
 
 Flavio  
 [The JS course](https://thejscourse.com/_drip/1-language-basics/1-introduction/)  
 
-[Zen of programming by Ali](https://zen-of-programming.com/)
+
 
 --
 
