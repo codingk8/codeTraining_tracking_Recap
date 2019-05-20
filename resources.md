@@ -6,6 +6,13 @@ __[Multi-themes resources](#multi-themes-resources)__
 [On-line bootcamps](#on-line-bootcamps)  
 [On-line courses](#on-line-courses)  
 [On-line tutorials](#on-line-tutorials)  
+[Web sites](#web-sites)  
+[Blogs](#blogs)
+
+
+__[Mono-theme resources](#mono-theme-resources)__  
+[JavaScript](#javascript)
+[React](#react)
 
 
 ---
