@@ -25,7 +25,7 @@ https://github.com/kamranahmedse/developer-roadmap
 https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code/  
 https://github.com/bradtraversy/A-to-Z-Resources-for-Students  
 
-__Some wisdom__  
+__Some general wisdom on learning to code__  
 https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 <h2 id="multi-themes-resources">Multi-themes resources</h2>
