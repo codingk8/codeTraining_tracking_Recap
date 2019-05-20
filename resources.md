@@ -21,7 +21,10 @@ __[Mono-theme resources](#mono-theme-resources)__
 
 <h1 id="road-maps">Road maps</h1>
 
+__Over view__  
 https://github.com/kamranahmedse/developer-roadmap  
+
+__Lists of resources__  
 https://frontendmasters.com/books/front-end-handbook/2019/ (also https://github.com/FrontendMasters/front-end-handbook-2018)
 https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code/  
 https://github.com/bradtraversy/A-to-Z-Resources-for-Students  
