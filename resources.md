@@ -7,6 +7,8 @@ Courses
 Stand-alone tutorials (by subjects) 
 On-line bootcamps
 
+https://hackr.io/
+
 ## Multi-themes resources
 
 ### Free
