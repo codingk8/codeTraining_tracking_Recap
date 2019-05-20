@@ -62,6 +62,10 @@ __Also:__
 
 ---
 
+## 20190520 - Monday
+
+__Thoughts:__ Stressful challenging week ahead. Will do my best but don't expect miracles.
+
 ## 20190519 - Sunday
 
 ## 20190518 - Saturday
