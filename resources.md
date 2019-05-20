@@ -1,3 +1,12 @@
+# Code resources
+
+Create a table of contents with inner links  
+Books  
+Blogs  
+Courses  
+Stand-alone tutorials (by subjects) 
+On-line bootcamps
+
 ## Multi-themes resources
 
 ### Free
