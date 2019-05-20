@@ -23,6 +23,7 @@ __[Mono-theme resources](#mono-theme-resources)__
 
 __Over view__  
 https://github.com/kamranahmedse/developer-roadmap  
+Also this one https://medium.freecodecamp.org/a-guide-to-teaching-yourself-to-code-and-getting-a-job-db7908dfb12e
 
 __Lists of resources__  
 https://frontendmasters.com/books/front-end-handbook/2019/ (also https://github.com/FrontendMasters/front-end-handbook-2018)
@@ -296,7 +297,8 @@ https://medium.freecodecamp.org/how-to-wrap-your-head-around-typescript-generics
 
 https://flaviocopes.com/typescript/
 
-https://egghead.io/courses/up-and-running-with-typescript
+https://egghead.io/courses/up-and-running-with-typescript  
+https://dev.to/borrellidev/a-complete-introduction-guide-to-typescript-4a66  
 
 ## API ti use in projects
 
