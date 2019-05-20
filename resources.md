@@ -19,7 +19,7 @@ __[Mono-theme resources](#mono-theme-resources)__
 
 ---
 
-<h2 id="road-maps">Road maps</h2>
+<h1 id="road-maps">Road maps</h1>
 
 https://github.com/kamranahmedse/developer-roadmap  
 https://frontendmasters.com/books/front-end-handbook/2019/ (also https://github.com/FrontendMasters/front-end-handbook-2018)
@@ -29,9 +29,9 @@ https://github.com/bradtraversy/A-to-Z-Resources-for-Students
 __Some general wisdom on learning to code__  
 https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
-<h2 id="multi-themes-resources">Multi-themes resources</h2>
+<h1 id="multi-themes-resources">Multi-themes resources</h1>
 
-<h3 id="on-line-bootcamps"><ins>On-line bootcamps</ins></h3>
+<h2 id="on-line-bootcamps"><ins>On-line bootcamps</ins></h2>
 
 ### Free
 
@@ -61,7 +61,7 @@ __[Lambda school](https://lambdaschool.com/)__
 
 
 
-<h3 id="on-line-tutorials"><ins>On-line tutorials</ins></h3>
+<h2 id="on-line-tutorials"><ins>On-line tutorials</ins></h2>
 
 ### Free
 
@@ -76,7 +76,7 @@ __[Lambda school(#)__   (free prep part)
 
 
 
-<h3 id="on-line-courses"><ins>On-line courses</ins></h3>
+<h2 id="on-line-courses"><ins>On-line courses</ins></h2>
 
 ### Free
 
@@ -133,7 +133,7 @@ __[Code academy](https://www.codecademy.com/)__ Promo sometimes for pro plans
 [this guy](https://roadtoreact.com/) Books and courses
 
 
-<h3 id="blogs"><ins>Blogs</ins></h3>
+<h2 id="blogs"><ins>Blogs</ins></h2>
 
 https://www.valentinog.com/
 
@@ -155,7 +155,7 @@ Flavio
 
 ---
 
-<h2 id="mono-themes-resources">Mono-themes resources</h2>
+<h1 id="mono-theme-resources">Mono-themes resources</h1>
 
 ## HTML
 
