@@ -11,6 +11,8 @@ https://hackr.io/
 
 ## Multi-themes resources
 
+https://github.com/bradtraversy/A-to-Z-Resources-for-Students
+
 ### Free
 
 __freeCodeCamp__
