@@ -1,6 +1,6 @@
 # Code resources
 
-Table of contents
+## Table of contents  
 [Free on-line bootcamps](#free-on-line-bootcamps)  
 [Free on-line courses](#free-on-line-courses)  
 [Free on-line tutorials](#free-on-line-tutorials)  
