@@ -1,5 +1,7 @@
 | Progress | Type | Title | Date |
 | :---: | :---: | :--- | :---: |
+| :+1: | *Bootcamp* | Wild Code School | 201709 - 201802 |
+| :trophy: | *Milestone* | Official National Professional title "Software developer" | 201807 |
 | :+1: | *Course* | [freeCodeCamp](https://learn.freecodecamp.org/) - Responsive Web Design | 201807 - 201905 |
 | :+1: | *Tutorial* | NodeSchool - ??? | 201811 |
 | :+1: | *Course* | [freeCodeCamp](https://learn.freecodecamp.org/) - JavaScript | 201810 - 201901 |
