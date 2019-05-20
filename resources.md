@@ -4,7 +4,7 @@
 
 __freeCodeCamp__
 
-- [ ] Responsive Web Deisgn
+- [ ] Responsive Web Design
 - [x] JavaScript
 - [ ] Frontend Librairies
 - [ ] xxx
