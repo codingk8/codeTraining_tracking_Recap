@@ -173,6 +173,9 @@ Flavio
 [this](http://cssgridgarden.com/#fr)  
 [this](https://gedd.ski/post/grid-beats-flexbox-full-page-layout/)  
 
+Effects  
+https://cssfx.dev/
+
 [flexbox \ grid](https://medium.freecodecamp.org/the-main-differences-between-flexbox-and-css-grid-667c03461d2b)
 
 https://flaviocopes.com/css-centering/
@@ -216,7 +219,8 @@ https://medium.freecodecamp.org/building-a-modern-chat-application-with-react-js
 
 ## redux
 
-https://www.valentinog.com/blog/redux/
+https://www.valentinog.com/blog/redux/  
+https://medium.freecodecamp.org/an-intro-to-redux-and-how-state-is-updated-in-a-redux-application-839c8334d1b1  
 
 
 
@@ -258,6 +262,8 @@ Eve Porcello on Lynda &
 
 https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
 
+http://jonathancreamer.com/how-webpack-decides-what-entry-to-load-from-a-package-json/
+
 ## Git & GitHub
 [Udacity](https://eu.udacity.com/course/optimize-your-github--ud247)  
 [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -289,6 +295,8 @@ https://egghead.io/courses/practical-advanced-typescript
 https://medium.freecodecamp.org/how-to-wrap-your-head-around-typescript-generics-8d243f7de78
 
 https://flaviocopes.com/typescript/
+
+https://egghead.io/courses/up-and-running-with-typescript
 
 ## API ti use in projects
 
