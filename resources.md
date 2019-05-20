@@ -19,7 +19,7 @@ https://hackr.io/
 https://github.com/bradtraversy/A-to-Z-Resources-for-Students
 
 
-### Free on-line bootcamps {#free-on-line-bootcamps}
+### Free on-line bootcamps{#free-on-line-bootcamps}
 
 __freeCodeCamp__
 
@@ -30,11 +30,11 @@ __freeCodeCamp__
 - [ ] xxx
 - [ ] xxx
 
-### Free on-line tutorials {#free-on-line-tutorials}
+### Free on-line tutorials{#free-on-line-tutorials}
 
 __[Viking Code School free prep](https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code/)__
 
-### Free on-line courses {#free-on-line-courses}
+### Free on-line courses{#free-on-line-courses}
 
 __[Scrimba](https://scrimba.com/)__
 - [ ] React (best!)
