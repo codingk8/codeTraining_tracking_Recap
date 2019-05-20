@@ -11,8 +11,8 @@ __freeCodeCamp__
 - [ ] xxx
 - [ ] xxx
 
-__Scrimba__
-- [ ] React
+__[Scrimba](https://scrimba.com/)__
+- [ ] React (best!)
 - [ ] JavaScript
 - [ ] ES6
 - [ ] Modern JavaScript
@@ -27,7 +27,7 @@ __NodeSchool__ See specific recap
 
 
 ### Some free some not
-__Udacity:__ 18 free courses on JavaScript
+__[Udacity:](https://eu.udacity.com/)__ 18 free courses on JavaScript
 
 __[Wes Bos:](https://wesbos.com/courses/)__ 11 tutorials
 - [x] Mastering Markdown (free) - 201902
