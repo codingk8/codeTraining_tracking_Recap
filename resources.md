@@ -1,6 +1,13 @@
 # Code resources
 
-Create a table of contents with inner links  
+Table of contents
+[Free on-line bootcamps](#free-on-line-bootcamps)
+[Free on-line courses](#free-on-line-courses)
+[Free on-line tutorials](#free-on-line-tutorials)
+
+
+---
+
 Books  
 Blogs  
 Courses  
@@ -9,11 +16,10 @@ On-line bootcamps
 
 https://hackr.io/
 
-## Multi-themes resources
-
 https://github.com/bradtraversy/A-to-Z-Resources-for-Students
 
-### Free
+
+### Free on-line bootcamps {#free-on-line-bootcamps}
 
 __freeCodeCamp__
 
@@ -23,6 +29,12 @@ __freeCodeCamp__
 - [ ] xxx
 - [ ] xxx
 - [ ] xxx
+
+### Free on-line tutorials {#free-on-line-tutorials}
+
+__[Viking Code School free prep](https://www.thinkful.com/blog/the-beginners-dilemma-your-first-100-hours-of-code/)__
+
+### Free on-line courses {#free-on-line-courses}
 
 __[Scrimba](https://scrimba.com/)__
 - [ ] React (best!)
@@ -90,7 +102,9 @@ https://www.valentinog.com/
 
 
 Flavio  
-[The JS course](https://thejscourse.com/_drip/1-language-basics/1-introduction/)
+[The JS course](https://thejscourse.com/_drip/1-language-basics/1-introduction/)  
+
+[Zen of programming by Ali](https://zen-of-programming.com/)
 
 --
 
