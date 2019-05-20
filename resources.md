@@ -35,14 +35,13 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 ### Free
 
-__freeCodeCamp__
-
-- [ ] Responsive Web Design
-- [x] JavaScript
-- [ ] Frontend Librairies
-- [ ] xxx
-- [ ] xxx
-- [ ] xxx
+__[freeCodeCamp](https://www.freecodecamp.org/)__
+- [ ] Responsive Web Design (201906)
+- [x] JavaScript (201901)
+- [ ] Frontend Librairies (201907)
+- [ ] Data Visualization
+- [ ] APIs and microservices
+- [ ] Information security and quality assurance
 
 ### Paid
 
