@@ -1,15 +1,19 @@
+__2017__
 | Progress | Type | Title | Date |
 | :---: | :---: | :--- | :---: |
-__2017__
 | :+1: | *Bootcamp* | Wild Code School | 201709 - 201802 |
 __2018__
+| Progress | Type | Title | Date |
+| :---: | :---: | :--- | :---: |
 | :trophy: | <ins>Milestone</ins> | Official National Professional title "Software developer" | 201807 |
 | :+1: | *Course* | [freeCodeCamp](https://learn.freecodecamp.org/) - Responsive Web Design | 201807 - 201905 |
 | :+1: | *Tutorial* | NodeSchool - ??? | 201811 |
 | :+1: | *Course* | [freeCodeCamp](https://learn.freecodecamp.org/) - JavaScript | 201810 - 201901 |
 | :heavy_check_mark: | __Project__ | fCC JS1 - Palindrome Checker | 201812 |
 | :heavy_check_mark: | __Project__ | fCC JS2 - Roman Numeral Converter | 201811 |
-| __2019__ |
+__2019__
+| Progress | Type | Title | Date |
+| :---: | :---: | :--- | :---: |
 | :heavy_check_mark: | __Project__ | fCC JS3 - Caesar's Cipher | 201901 |
 | :heavy_check_mark: | __Project__ | fCC JS4 - Telephone Number Validator | 201901 |
 | :heavy_check_mark: | __Project__ | fCC JS5 - Cash Register | 201901 |
