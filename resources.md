@@ -50,8 +50,14 @@ __[Team Treehouse](https://teamtreehouse.com/)__
 - [ ] [Fullstack JavaScript](https://teamtreehouse.com/techdegree/full-stack-javascript-2)
 
 __[Frontend masters](https://frontendmasters.com/)__  
+- [ ] [Beginner](https://frontendmasters.com/learn/beginner/)
+- [ ] [Professional](https://frontendmasters.com/learn/professional/)
+- [ ] [Expert](https://frontendmasters.com/learn/advanced/)
+- [ ] [Design to code](https://frontendmasters.com/learn/designers-code/)
+- [ ] [Fullstack](https://frontendmasters.com/learn/fullstack/)
 
-__[Lambda school(#)__  
+__[Lambda school](https://lambdaschool.com/)__  
+- [ ] Full stack web
 
 
 
@@ -95,7 +101,7 @@ Have a look at this Stuff about JS and the DOM by Jonas
 
 
 
-#### Some free some not
+### Some free some not
 __[Udacity:](https://eu.udacity.com/)__ 18 free courses on JavaScript
 
 __[Wes Bos:](https://wesbos.com/courses/)__ 11 tutorials
@@ -120,12 +126,13 @@ __[Code academy](https://www.codecademy.com/)__ Promo sometimes for pro plans
 
 
 
-### Paying
+### Paid
 
+[Frontend masters courses](https://frontendmasters.com/courses/)
 
 [this guy](https://roadtoreact.com/) Books and courses
 
----
+
 <h3 id="blogs"><ins>Blogs</ins></h3>
 
 https://www.valentinog.com/
@@ -147,6 +154,8 @@ Flavio
 
 
 ---
+
+<h2 id="mono-themes-resources">Mono-themes resources</h2>
 
 ## HTML
 
