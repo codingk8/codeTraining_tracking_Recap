@@ -23,6 +23,7 @@ https://medium.freecodecamp.org/how-i-went-from-complete-beginner-to-software-de
 
 ## Best practices
 
+https://medium.freecodecamp.org/how-to-become-a-rockstar-engineer-e785b09cc104  
 
 
 
