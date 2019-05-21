@@ -62,7 +62,15 @@ __Also:__
 
 ---
 
+## 20190521 - Tuesday
+
+__fCC Paris Community management:__ follow-up with the sponsor of the lastest meetup, updated fCC forum, posted on the slack...
+
+__Thoughts:__ I can feel things slowly moving forward in the right direction. So ready for some positive change and some more stability.
+
 ## 20190520 - Monday
+
+__Today's progress:__ organized and updated the resources pages, worked on the learning path next steps, not a lot of code but fastforward in clarity. Also went to the hospital to visit.
 
 __Thoughts:__ Stressful challenging week ahead. Will do my best but don't expect miracles.
 
