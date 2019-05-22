@@ -63,7 +63,7 @@ __Also:__
 
 ---
 
-## 20190522 - Wednesday
+## 20190522 - Wednesday - Day 83
 
 __Today's progress:__ finished the new version of the Picasso challenge for fCC7.0  
 __Link to work:__ [Css Picasso v2](https://codepen.io/codingk8/full/XwVVKW)  
