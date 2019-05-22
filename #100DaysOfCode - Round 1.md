@@ -12,7 +12,8 @@ __Priority stack:__
 
 *Project:* CSS Picasso project for fCC7.0
 - [x] Finished and submitted 1st draft (15/05)
-- [ ] Validate final version (target 22/05)
+- [x] Finished and submitted 2nd draft (22/05)
+- [ ] Validate final version (target 24/05)
 - [ ] Prepare Repo and files structure
 - [ ] PR the project
 - [ ] PR merge
@@ -62,9 +63,18 @@ __Also:__
 
 ---
 
+## 20190522 - Wednesday
+
+__Today's progress:__ finished the new version of the Picasso challenge for fCC7.0
+__Link to work:__ [Css Picasso v2](https://codepen.io/codingk8/full/XwVVKW)
+__Thought:__ It was all way easier than I feared. Supressing the flexbox was eye-openning. Interesting how I tend to forget the simple things while I learn more complicated ones. Like centering horizontally with "margin: auto;", or creating columns with "display: block;". Quite funny.
+
+__fCC Paris animation:__ It seems the Meetup histed by Algolia is happenning! I'm over the moon :moon:
+
 ## 20190521 - Tuesday
 
-__fCC Paris Community management:__ follow-up with the sponsor of the lastest meetup, updated fCC forum, posted on the slack...
+__fCC Paris Community management:__ follow-up with the sponsor of the lastest meetup, updated fCC forum, posted on the slack...  
+Also wrote that post about ALLLLL my ideas to grow the fCC local group in Paris. Such an inspiring project :star:
 
 __Thoughts:__ I can feel things slowly moving forward in the right direction. So ready for some positive change and some more stability.
 
