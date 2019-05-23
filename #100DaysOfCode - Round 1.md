@@ -19,15 +19,15 @@ __Priority stack:__
 - [ ] PR merge
 
 *Project:* fCC __Landing page project__ 
-- [ ] v1 version (target 24/05)
-- [ ] final version (target 31/05)
-- [ ] en + fr
-- [ ] dark mode ? "rad" :wink
+- [ ] *v1 version (target 24/05)*
 - [ ] stinky nav
 - [ ] responsive burger menu
-- [ ] think through that logo thing for all social media
-- [ ] sponsors' corner
 - [ ] webpack boiler plate & NPM packages
+- [ ] *final version (target 31/05)*
+- [ ] en + fr
+- [ ] dark mode ? "rad" :wink
+- [ ] sponsors' corner
+- [ ] think through that logo thing for all social media (one round logo with picture, one large logo with skyline)
 
 *Projects*
 - [ ] *Fine tuning:* Perform the W3C verification on the __Tech doc project + Survey form + Portefolio__  
@@ -63,13 +63,19 @@ __Also:__
 
 ---
 
+## 20190523 - Thursday - Day 84
+
+__Today's progress:__ xxx  
+__Link to work:__ xxx  
+__Thoughts:__ I need a visual paper tool with each week's targets. I must keep things under my nose or I loose track of them.
+
 ## 20190522 - Wednesday - Day 83
 
 __Today's progress:__ finished the new version of the Picasso challenge for fCC7.0  
 __Link to work:__ [Css Picasso v2](https://codepen.io/codingk8/full/XwVVKW)  
-__Thought:__ It was all way easier than I feared. Supressing the flexbox was eye-openning. Interesting how I tend to forget the simple things while I learn more complicated ones. Like centering horizontally with "margin: auto;", or creating columns with "display: block;". Quite funny.
+__Thoughts:__ It was all way easier than I feared. Supressing the flexbox was eye-openning. Interesting how I tend to forget the simple things while I learn more complicated ones. Like centering horizontally with "margin: auto;", or creating columns with "display: block;". Quite funny.
 
-__fCC Paris animation:__ It seems the Meetup histed by Algolia is happenning! I'm over the moon :moon:
+__fCC Paris animation:__ It seems the Meetup hosted by Algolia is happenning! I'm over the moon :moon:
 
 ## 20190521 - Tuesday
 
