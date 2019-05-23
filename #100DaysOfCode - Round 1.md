@@ -72,7 +72,7 @@ __Thoughts:__ I need a visual paper tool with each week's targets. I must keep t
 ## 20190522 - Wednesday - Day 83
 
 __Today's progress:__ finished the new version of the Picasso challenge for fCC7.0  
-__Link to work:__ [Css Picasso v2](https://codepen.io/codingk8/full/XwVVKW)  
+__Link to work:__ [CSS Picasso v2](https://codepen.io/codingk8/full/XwVVKW)  
 __Thoughts:__ It was all way easier than I feared. Supressing the flexbox was eye-openning. Interesting how I tend to forget the simple things while I learn more complicated ones. Like centering horizontally with "margin: auto;", or creating columns with "display: block;". Quite funny.
 
 __fCC Paris animation:__ It seems the Meetup hosted by Algolia is happenning! I'm over the moon :moon:
