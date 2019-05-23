@@ -13,7 +13,7 @@ __Priority stack:__
 *Project:* CSS Picasso project for fCC7.0
 - [x] Finished and submitted 1st draft (15/05)
 - [x] Finished and submitted 2nd draft (22/05)
-- [x] Validate final version  
+- [x] Submitted final version (23/05) 
 - [ ] Prepare Repo and files structure
 - [ ] PR the project
 - [ ] PR merge
