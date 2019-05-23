@@ -19,6 +19,9 @@ https://medium.freecodecamp.org/how-i-went-from-complete-beginner-to-software-de
 ## Portefolios
 
 
+## First job as dev
+
+https://www.fullstackacademy.com/blog/right-job-after-bootcamp
 
 
 ## Best practices
