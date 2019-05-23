@@ -22,8 +22,8 @@
 | :heavy_check_mark: | __Project__ | fCC RWD 1 - [Tribute page](https://github.com/codingk8/shooting-for-the-moon) | 201904 |
 | :+1: | *Training* | [Web Apps Modernes](https://delicious-insights.com/fr/formations/web-apps-modernes/) | 201904 |
 | :+1: | *Workshop* | ReactJSGirls London - GraphQL | 201905 |
-| :feet: :octocat: | __Open source__ | fCC7.0 new curriculum - Learn CSS by building a Picasso painting | 201906 |
-| :feet: | __Project__ | fCC RWD 3 - Landing page | 201906 |
+| :feet: :octocat: | __Open source__ | fCC7.0 next curriculum - [Learn Intermediate CSS by building a Picasso painting](https://github.com/freeCodeCamp/CurriculumExpansion/issues/132) | 201905 |
+| :feet: | __Project__ | fCC RWD 3 - Landing page | 201905 |
 | :feet: | __Project__ | fCC RWD 5 - Professional portefolio | 201606 |
 | :feet: | <ins>Milestone</ins> | <ins>fCC RWD certification</ins> | 201906 |
 | :feet: | ??? | ??? | ??? |
