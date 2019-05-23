@@ -13,14 +13,15 @@ __Priority stack:__
 *Project:* CSS Picasso project for fCC7.0
 - [x] Finished and submitted 1st draft (15/05)
 - [x] Finished and submitted 2nd draft (22/05)
-- [ ] Validate final version (target 24/05)
+- [x] Validate final version  
 - [ ] Prepare Repo and files structure
 - [ ] PR the project
 - [ ] PR merge
+- [ ] Create the tests
 
 *Project:* fCC __Landing page project__ 
-- [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
 - [ ] *v1 version (target 24/05)*
+- [ ] First draft with content
 - [ ] stinky nav
 - [ ] responsive burger menu
 - [ ] webpack boiler plate & NPM packages
@@ -29,6 +30,7 @@ __Priority stack:__
 - [ ] dark mode ? "rad" :wink
 - [ ] sponsors' corner
 - [ ] think through that logo thing for all social media (one round logo with picture, one large logo with skyline)
+- [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
 
 *Misc:*
 - [ ] Fix the image link in the projects GitHub readmes. Seems there is a pb
