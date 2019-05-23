@@ -16,7 +16,7 @@
 | :heavy_check_mark: | __Project__ | fCC JS5 - Cash Register | 201901 |
 | :trophy: | <ins>Milestone</ins> | <ins>[freeCodeCamp JavaScript certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)</ins> | 201901 |
 | :+1: | Book | ??? | 201901 |
-| :gift: | OpenSource | [freeCodeCamp JavaScript challenges](https://github.com/freeCodeCamp/freeCodeCamp/pull/35299) | 201902 |
+| :octocat: | OpenSource | [freeCodeCamp JavaScript challenges](https://github.com/freeCodeCamp/freeCodeCamp/pull/35299) | 201902 |
 | :heavy_check_mark: | __Project__ | fCC RWD 2 - [Survey form](https://codingk8.github.io/freeCodeCamp-Paris-meetups-survey-form/) | 201903 |
 | :heavy_check_mark: | __Project__ | fCC RWD 4 - [Technical doc](https://codingk8.github.io/markdown-up-and-running/) | 201903 |
 | :heavy_check_mark: | __Project__ | fCC RWD 1 - [Tribute page](https://github.com/codingk8/shooting-for-the-moon) | 201904 |
