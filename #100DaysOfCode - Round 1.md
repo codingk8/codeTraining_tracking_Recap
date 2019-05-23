@@ -19,6 +19,7 @@ __Priority stack:__
 - [ ] PR merge
 
 *Project:* fCC __Landing page project__ 
+- [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
 - [ ] *v1 version (target 24/05)*
 - [ ] stinky nav
 - [ ] responsive burger menu
@@ -28,6 +29,9 @@ __Priority stack:__
 - [ ] dark mode ? "rad" :wink
 - [ ] sponsors' corner
 - [ ] think through that logo thing for all social media (one round logo with picture, one large logo with skyline)
+
+*Misc:*
+- [ ] Fix the image link in the projects GitHub readmes. Seems there is a pb
 
 *Projects*
 - [ ] *Fine tuning:* Perform the W3C verification on the __Tech doc project + Survey form + Portefolio__  
@@ -65,7 +69,7 @@ __Also:__
 
 ## 20190523 - Thursday - Day 84
 
-__Today's progress:__ xxx  
+__Today's progress:__ CSS Picasso final version, fCC RWD Landing page project first draft
 __Link to work:__ xxx  
 __Thoughts:__ I need a visual paper tool with each week's targets. I must keep things under my nose or I loose track of them.
 
@@ -103,8 +107,6 @@ __Today's progress:__ Fine-tuned the fCC Landing page project frame
 ## 20190516 - Thursday
 
 __Today's progress:__ Some GitHub usefulness and beautification
-- [ ] Framing the Landing page project (create the GH account, create the repo, create the structure, work on the webpack boiler plate, review SASS...)
-- [ ] Fix the image link in the projects GitHub readmes
 
 __Actions:__ very positive hangout with Kris about the CSS Picasso project.  
 Next steps are: fix the 4 issues, validate the final draft, create the steps  
