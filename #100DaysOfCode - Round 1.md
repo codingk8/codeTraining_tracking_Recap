@@ -69,7 +69,7 @@ __Also:__
 
 ## 20190523 - Thursday - Day 84
 
-__Today's progress:__ CSS Picasso final version, fCC RWD Landing page project first draft
+__Today's progress:__ CSS Picasso final version, fCC RWD Landing page project first draft  
 __Link to work:__ xxx  
 __Thoughts:__ I need a visual paper tool with each week's targets. I must keep things under my nose or I loose track of them.
 
