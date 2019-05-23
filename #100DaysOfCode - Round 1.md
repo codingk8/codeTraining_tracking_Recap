@@ -110,7 +110,7 @@ __Today's progress:__ Some GitHub usefulness and beautification
 
 __Actions:__ very positive hangout with Kris about the CSS Picasso project.  
 Next steps are: fix the 4 issues, validate the final draft, create the steps  
-In the mentime, I can fork & clone the repo + create a branch + create the directory structure...
+In the meantime, I can fork & clone the repo + create a branch + create the directory structure...
 
 __Thoughts:__ Enthousiasm and focus/priorities
 
