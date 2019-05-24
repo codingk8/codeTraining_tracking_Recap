@@ -69,10 +69,16 @@ __Also:__
 
 ---
 
+## 20190524 - Friday
+
+__Thoughts:__ Cannot wait for things to settle down in a peaceful way. All this stress is bothering me. Longing for bright, long, uninterrupted days spent coding and all things code.
+
 ## 20190523 - Thursday - Day 84
 
-__Today's progress:__ CSS Picasso final version, fCC RWD Landing page project first draft  
-__Link to work:__ xxx  
+__Today's progress:__
+- [x] CSS Picasso final version, fCC RWD Landing page project first draft  
+- [x] fCC RWD Landing page project: created the structure and moving on with the content
+__Link to work:__ [CSS Picasso](https://codepen.io/codingk8/pen/NVywrR?editors=1100)  
 __Thoughts:__ I need a visual paper tool with each week's targets. I must keep things under my nose or I loose track of them.
 
 ## 20190522 - Wednesday - Day 83
