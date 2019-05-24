@@ -21,8 +21,8 @@ __Priority stack:__
 
 *Project:* fCC __Landing page project__ 
 - [ ] *v1 version (target 24/05)*
-- [ ] First draft with content
-- [ ] stinky nav
+- [x] First draft with content
+- [x] stinky nav
 - [ ] responsive burger menu
 - [ ] webpack boiler plate & NPM packages
 - [ ] *final version (target 31/05)*
@@ -79,7 +79,7 @@ __Today's progress:__
 - [x] CSS Picasso final version, fCC RWD Landing page project first draft  
 - [x] fCC RWD Landing page project: created the structure and moving on with the content 
 
-__Link to work:__ [CSS Picasso](https://codepen.io/codingk8/pen/NVywrR?editors=1100) 
+__Link to work:__ [CSS Picasso](https://codepen.io/codingk8/pen/NVywrR?editors=1100)  
 __Thoughts:__ I need a visual paper tool with each week's targets. I must keep things under my nose or I loose track of them.
 
 ## 20190522 - Wednesday - Day 83
