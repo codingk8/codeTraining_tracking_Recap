@@ -69,6 +69,10 @@ __Also:__
 
 ---
 
+## 20190526 - Sunday
+
+__Today's progress:__ A few things for fCC Paris
+
 ## 20190524 - Friday
 
 __Thoughts:__ Cannot wait for things to settle down in a peaceful way. All this stress is bothering me. Longing for bright, long, uninterrupted days spent coding and all things code.
