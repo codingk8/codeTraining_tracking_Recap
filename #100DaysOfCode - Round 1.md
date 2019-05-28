@@ -69,6 +69,12 @@ __Also:__
 
 ---
 
+## 20190528 - Tuesday
+
+## 20190527 - Monday
+
+__Today's progress:__ Organized fCCP 7th meetup + buzz
+
 ## 20190526 - Sunday
 
 __Today's progress:__ A few things for fCC Paris
