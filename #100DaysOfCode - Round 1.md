@@ -69,7 +69,7 @@ __Also:__
 
 ---
 
-## 20190529 - Wednesday
+## 20190530 - Thursday
 
 ## 20190527 - Monday
 
