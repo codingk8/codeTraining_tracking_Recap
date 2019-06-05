@@ -71,7 +71,7 @@ __Also:__
 
 ## 20190605 - Wednesday
 
-__Event animation:__ freeCodeCamp Paris Meetup #7 at Algolia
+__Event animation:__ freeCodeCamp Paris Meetup #7 at Algolia  
 __link to work:__ [Twitter](https://twitter.com/freeCodeCampPAR/status/1136328195299598336)
 
 ## 20190604 - Tuesday - The nesting has started
