@@ -69,6 +69,8 @@ __Also:__
 
 ---
 
+## 20190613 - Thursday
+
 ## 20190612 - Wednesday - That special day :gift:
 
 ## 20190611 - Tuesday
