@@ -70,7 +70,7 @@ __Also:__
 ---
 
 ## 20190615 - Saturday
-__Event animation:__ freeCodeCamp Paris Meetup #8 at Le Reacteur :rocket:
+__Event animation:__ freeCodeCamp Paris Meetup #8 at Le Reacteur :rocket:  
 __Link to work:__ [Twitter]()
 
 ## 20190612 - Wednesday - That special day :gift:
