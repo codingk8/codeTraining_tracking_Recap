@@ -69,9 +69,11 @@ __Also:__
 
 ---
 
+## 20190616 - Sunday
+
 ## 20190615 - Saturday
 __Event animation:__ freeCodeCamp Paris Meetup #8 at Le Reacteur :rocket:  
-__Link to work:__ [Twitter]()
+__Link to work:__ [Twitter](https://twitter.com/freeCodeCampPAR/status/1139882169956995072)
 
 ## 20190612 - Wednesday - That special day :gift:
 
