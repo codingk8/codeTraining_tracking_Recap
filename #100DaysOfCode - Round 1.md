@@ -69,7 +69,7 @@ __Also:__
 
 ---
 
-## 20190625 - Tuesday
+## 20190626 - Wednesday
 
 ## 20190615 - Saturday
 __Event animation:__ freeCodeCamp Paris Meetup #8 at Le Reacteur :rocket:  
