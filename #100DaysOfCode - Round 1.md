@@ -69,6 +69,8 @@ __Also:__
 
 ---
 
+## 20190628 - Friday - Yay :tada:
+
 ## 20190627 - Thursday
 __Event animation:__ freeCodeCamp Paris Meetup #9 at Comet :comet:  
 __Link to work:__ [Twitter]()
