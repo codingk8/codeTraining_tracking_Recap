@@ -69,7 +69,7 @@ __Also:__
 
 ---
 
-## 20190630 - Sunday
+## 20190701 - Monday
 
 ## 20190629 - Saturday
 __Event:__ NodeSchool Paris Meetup
