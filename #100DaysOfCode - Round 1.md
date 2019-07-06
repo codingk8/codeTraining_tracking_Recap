@@ -69,7 +69,9 @@ __Also:__
 
 ---
 
-## 20190703 - Wednesday
+## 20190706 - Saturday
+__Event animation:__ freeCodeCamp Paris Meetup #10 at Lion :lion:  
+__Link to work:__ [Twitter](https://twitter.com/codingk8/status/1147492853939093504)
 
 ## 20190629 - Saturday
 __Event:__ NodeSchool Paris Meetup
