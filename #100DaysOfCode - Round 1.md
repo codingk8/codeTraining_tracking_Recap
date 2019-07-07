@@ -69,6 +69,8 @@ __Also:__
 
 ---
 
+## 20190707 - Sunday, sunny Sunday :sun:
+
 ## 20190706 - Saturday
 __Event animation:__ freeCodeCamp Paris Meetup #10 at Lion :lion:  
 __Link to work:__ [Twitter](https://twitter.com/codingk8/status/1147492853939093504)
