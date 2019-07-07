@@ -69,7 +69,7 @@ __Also:__
 
 ---
 
-## 20190707 - Sunday, sunny Sunday :sun:
+## 20190707 - Sunday, sunny Sunday :sunny:
 
 ## 20190706 - Saturday
 __Event animation:__ freeCodeCamp Paris Meetup #10 at Lion :lion:  
