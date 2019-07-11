@@ -69,7 +69,7 @@ __Also:__
 
 ---
 
-## 20190709 - Tuesday
+## 201907011 - Thursday
 
 ## 20190707 - Sunday, sunny Sunday :sunny:
 
