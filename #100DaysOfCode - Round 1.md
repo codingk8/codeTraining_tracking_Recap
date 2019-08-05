@@ -69,7 +69,13 @@ __Also:__
 
 ---
 
-## 201907802 - Friday
+## 20190805 - Monday - Day 86
+__Today's progress:__
+- [x] fCC next curriculum open source projet - CSS Picasso: create the 10 first steps and PR    
+
+## 20190802 - Friday - Day 85  
+__Today's progress:__
+- [x] fCC next curriculum open source projet - CSS Picasso: clone the repo and create the files structure  
 
 ## 20190707 - Sunday, sunny Sunday :sunny:
 
