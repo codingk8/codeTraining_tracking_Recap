@@ -69,6 +69,8 @@ __Also:__
 
 ---
 
+## 20190808 - Thursday - Real life happenning :-(
+
 ## 20190806 - Tuesday - Day 86
 __Today's progress:__
 - [x] fCC next curriculum open source projet - CSS Picasso: PR with breakdown for the steps 1 to 3  
