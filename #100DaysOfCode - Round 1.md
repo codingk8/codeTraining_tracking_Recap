@@ -69,6 +69,8 @@ __Also:__
 
 ---
 
+## 20190812 - Monday - "August is the Sunday of the year"
+
 ## 20190808 - Thursday - Real life happenning :-(
 
 ## 20190806 - Tuesday - Day 86
