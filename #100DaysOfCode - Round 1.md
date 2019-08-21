@@ -69,7 +69,7 @@ __Also:__
 
 ---
 
-## 20190819 - Monday ;-)
+## 20190821 - Wednesday ;-)
 
 ## 20190812 - Monday - "August is the Sunday of the year"
 
