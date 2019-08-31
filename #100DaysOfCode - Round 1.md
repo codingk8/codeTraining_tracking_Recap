@@ -59,7 +59,7 @@ __Ideas to follow-through with:__
 - [ ] *Tools:* Should find this little post-it with nice VSCode shortcuts on it. Dig in VSCode  
 - [ ] *Tools:* Dig into Vim
 - [ ] *Tools:* Dig into Nano
-- [ ] *Tools:* Dig into CLI, Shell Shell tolls (Oh my zsh and others)
+- [ ] *Tools:* Dig into CLI, Shell Shell tools (Oh my zsh and others)
 - [ ] *Tools:* Should try working with the big screen to see how it feels
 - [ ] Ask the question about embedded video in #100DaysOfCode Slack + fCC Forum
 
