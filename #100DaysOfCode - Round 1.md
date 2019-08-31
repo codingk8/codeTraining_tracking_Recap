@@ -69,6 +69,10 @@ __Also:__
 
 ---
 
+## 20190831 - Saturday
+__Event animation:__ freeCodeCamp Paris Meetup #11 at Lion :lion:
+__Link to work:__ [Twitter](https://twitter.com/codingk8/status/1167781132039053314)
+
 ## 20190821 - Wednesday ;-)
 
 ## 20190812 - Monday - "August is the Sunday of the year"
